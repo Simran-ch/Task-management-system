@@ -31,10 +31,7 @@ The goal for Week 1 was to load the raw task dataset, clean it, enrich it with s
 <br>
 
 ### **--Key Steps--**
-<br>
-
 ### 1. Data Loading
-<br>
 :) Shape of dataset → (20122, 8)
 <br>
 
@@ -65,10 +62,13 @@ The goal for Week 1 was to load the raw task dataset, clean it, enrich it with s
 
 ###  5. Deadline, Workload & Priority Assignment
 <br>
+
 :) **Deadline:** Random date within 60 days from today.
 <br>
+
 :) **Workload:** Random integer from 1 to 10.
 <br>
+
 :) **Priority Logic:** if days_left <= 7 or workload >= 8 → High  
 elif days_left <= 20 → Medium  
 else → Low
