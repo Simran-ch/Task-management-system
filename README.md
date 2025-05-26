@@ -60,7 +60,9 @@ df = pd.read_csv('/content/drive/My Drive/Infotact Internship/Project 1/Task Ass
 :) **Workload:** Random integer from 1 to 10.
 <br>
 
-:) **Priority Logic:** if days_left <= 7 or workload >= 8 → High  
+:) **Priority Logic:**      
+<br>
+if days_left <= 7 or workload >= 8 → High  
 elif days_left <= 20 → Medium  
 else → Low
 <br>
