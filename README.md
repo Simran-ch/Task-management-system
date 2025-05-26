@@ -74,13 +74,10 @@ Preprocessing on Task Description involved:
 <br>
 :) Lowercasing
 <br>
-
 :) Tokenizing
 <br>
-
 :) Removing stopwords & punctuation
 <br>
-
 :) Stemming
 <br>
 
