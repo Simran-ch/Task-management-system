@@ -80,7 +80,7 @@ Preprocessing on Task Description involved:
 :) Stemming
 <br>
 
-### Final Output
+### Final Conclusion of week 1
 :) Cleaned Dataset Saved As: cleaned_dataset.csv
 <br>
 :) Download Triggered via: files.download('cleaned_dataset.csv')
@@ -143,5 +143,5 @@ Used the cleaned dataset generated in Week 1 which includes:
 :) Perfect scores in multiple categories including DevOps, Documentation, Project Management
 <br>
 
-### Conclusion:
+### Final Conclusion of week 2:
 Both models performed exceptionally well, but SVM slightly outperformed Naive Bayes in terms of accuracy and precision. It is more suitable for production-level task classification due to its better handling of class imbalance.
