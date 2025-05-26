@@ -177,7 +177,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 <br>
 
 ###  **Random Forest Classifier :**
-**Hyperparameter Tuning with GridSearchCV:**
+:) **Hyperparameter Tuning with GridSearchCV:**
 <br>
 
 param_grid = {
@@ -187,18 +187,18 @@ param_grid = {
 }
 <br>
 
-**Best Params:**
+:) **Best Params:**
 <br>
 Best RF Params: {'max_depth': None, 'min_samples_split': 5, 'n_estimators': 100}
 <br>
 
-**Classification Report:**
+:) **Classification Report:**
 ![image](https://github.com/user-attachments/assets/f1b3a089-47ef-45a5-bfe3-8ed7ad94a144)
             
 <br>
 
 ### **XGBoost Classifier:**
-**Hyperparameter Tuning with GridSearchCV:**
+:) **Hyperparameter Tuning with GridSearchCV:**
 <br>
 
 xgb_param_grid = {
@@ -208,12 +208,12 @@ xgb_param_grid = {
 }
 <br>
 
-**Best Params:**
+:) **Best Params:**
 <br>
 Best XGBoost Params: {'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 50}
 <br>
 
-**Classification Report:**
+:) **Classification Report:**
 ![image](https://github.com/user-attachments/assets/932c98f8-8209-4b1c-a567-11bf9205f47a)
 
 <br>
