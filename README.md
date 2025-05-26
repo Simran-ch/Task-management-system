@@ -70,9 +70,8 @@ else → Low
 <br>
 
 ### 7. Text Preprocessing using NLP
-:) Preprocessing on Task Description involved:
+Preprocessing on Task Description involved:
 <br>
-
 :) Lowercasing
 <br>
 
