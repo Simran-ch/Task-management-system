@@ -145,3 +145,116 @@ Used the cleaned dataset generated in Week 1 which includes:
 
 ### Final Conclusion of week 2:
 Both models performed exceptionally well, but SVM slightly outperformed Naive Bayes in terms of accuracy and precision. It is more suitable for production-level task classification due to its better handling of class imbalance.
+
+
+### Week 3: Priority Prediction & Recommended User Assignment
+### **--Objective--**
+In Week 3, we focused on building a machine learning model to predict the priority of tasks based on multiple features and recommend the most suitable user for each task based on skills and workload. We experimented with Random Forest and XGBoost classifiers.
+<br>
+
+### **--Key Steps--**
+### Data Preprocessing: :
+:) Dropped rows with missing Priority values.
+<br>
+:) Encoded the Assigned User and Priority columns using LabelEncoder.
+<br>
+:) Calculated Days Left to the deadline using:
+<br>
+df['Days Left'] = (df['Deadline'] - pd.to_datetime('today')).dt.days.fillna(0)
+<br>
+:) Transformed User Skills into a numerical value using a simple heuristic: count of comma-separated skills.
+<br>
+
+###  Feature Set :
+X = df[['User Skills', 'Workload', 'Assigned User Encoded', 'Days Left']]
+<br>
+y = df['Priority Encoded']
+<br>
+
+###  Train-Test Split :
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+<br>
+
+###  **Random Forest Classifier :**
+**Hyperparameter Tuning with GridSearchCV:**
+<br>
+param_grid = {
+    'n_estimators': [50, 100],
+    'max_depth': [None, 10, 20],
+    'min_samples_split': [2, 5]
+}
+<br>
+**Best Params:**
+<br>
+Best RF Params: {'max_depth': None, 'min_samples_split': 5, 'n_estimators': 100}
+<br>
+**Classification Report:**
+               precision    recall  f1-score   support
+
+        High       1.00      1.00      1.00        59
+         Low       1.00      1.00      1.00        71
+      Medium       1.00      1.00      1.00        28
+
+    accuracy                           1.00       158
+   macro avg       1.00      1.00      1.00       158
+weighted avg       1.00      1.00      1.00       158
+<br>
+
+### **XGBoost Classifier:**
+**Hyperparameter Tuning with GridSearchCV:**
+<br>
+xgb_param_grid = {
+    'n_estimators': [50, 100],
+    'max_depth': [3, 5, 10],
+    'learning_rate': [0.01, 0.1, 0.2]
+}
+<br>
+**Best Params:**
+<br>
+Best XGBoost Params: {'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 50}
+<br>
+** Classification Report:**
+              precision    recall  f1-score   support
+
+        High       1.00      1.00      1.00        59
+         Low       1.00      1.00      1.00        71
+      Medium       1.00      1.00      1.00        28
+
+    accuracy                           1.00       158
+   macro avg       1.00      1.00      1.00       158
+weighted avg       1.00      1.00      1.00       158
+<br>
+
+### **Recommended User Assignment:**
+Used a simple logic to assign tasks to users with matching skills and lowest workload:
+<br>
+def assign_task(task_row):
+    eligible_users = df[df['User Skills'] == task_row['User Skills']]
+    if not eligible_users.empty:
+        return eligible_users.loc[eligible_users['Workload'].idxmin()]['Assigned User']
+    return random.choice(df['Assigned User'].dropna().unique())
+<br>
+
+### ** Final Output Sample:**
+<br>
+![image](https://github.com/user-attachments/assets/4b699157-d34a-4e5a-affd-d64d62c20ade)
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
