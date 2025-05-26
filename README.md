@@ -37,6 +37,7 @@ The goal for Week 1 was to load the raw task dataset, clean it, enrich it with s
 <br>
 :) Dropped rows with missing values in Task Description and Skill.
 <br>
+:) Shape of dataset now → (789, 8)
 
 ###  3. Dataset Exploration
 :) Total unique task descriptions: 265
