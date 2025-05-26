@@ -1,7 +1,7 @@
-# Infotact_Project_01
+## Infotact_Project_01
 ## Design and develop an intelligent task management system that leverages NLP and ML techniques to automatically classify, prioritize, and assign tasks to users based on their behavior, deadlines, and workloads.
 
-# Week 1: Data Collection & Preprocessing
+### Week 1: Data Collection & Preprocessing
 <br>
 **--Objective--**
 <br>
