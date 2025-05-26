@@ -32,6 +32,9 @@ The goal for Week 1 was to load the raw task dataset, clean it, enrich it with s
 
 ### **--Key Steps--**
 ### 1. Data Loading
+df = pd.read_csv('/content/drive/My Drive/Infotact Internship/Project 1/Task Assignment.csv')
+<br>
+
 :) Shape of dataset → (20122, 8)
 <br>
 
