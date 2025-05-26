@@ -1,7 +1,7 @@
 ## Infotact_Project_01
 #### Design and develop an intelligent task management system that leverages NLP and ML techniques to automatically classify, prioritize, and assign tasks to users based on their behavior, deadlines, and workloads.
 
-### Week 1: Data Collection & Preprocessing
+## Week 1: Data Collection & Preprocessing
 ### **--Objective--**
 The goal for Week 1 was to load the raw task dataset, clean it, enrich it with synthetic values (like deadlines and workloads), and prepare it for downstream machine learning tasks. This included:
 <br>
@@ -86,7 +86,8 @@ Preprocessing on Task Description involved:
 :) Download Triggered via: files.download('cleaned_dataset.csv')
 <br>
 
-### Week 2: Task Classification using NLP and ML
+
+## Week 2: Task Classification using NLP and ML
 ### **--Objective--**
 To classify tasks into relevant categories using the task descriptions. Applied NLP preprocessing and trained two machine learning models – Naive Bayes and Support Vector Machine (SVM) – for multi-class classification.
 <br>
@@ -147,7 +148,7 @@ Used the cleaned dataset generated in Week 1 which includes:
 Both models performed exceptionally well, but SVM slightly outperformed Naive Bayes in terms of accuracy and precision. It is more suitable for production-level task classification due to its better handling of class imbalance.
 
 
-### Week 3: Priority Prediction & Recommended User Assignment
+## Week 3: Priority Prediction & Recommended User Assignment
 ### **--Objective--**
 In Week 3, we focused on building a machine learning model to predict the priority of tasks based on multiple features and recommend the most suitable user for each task based on skills and workload. We experimented with Random Forest and XGBoost classifiers.
 <br>
@@ -178,56 +179,49 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 ###  **Random Forest Classifier :**
 **Hyperparameter Tuning with GridSearchCV:**
 <br>
+
 param_grid = {
     'n_estimators': [50, 100],
     'max_depth': [None, 10, 20],
     'min_samples_split': [2, 5]
 }
 <br>
+
 **Best Params:**
 <br>
 Best RF Params: {'max_depth': None, 'min_samples_split': 5, 'n_estimators': 100}
 <br>
+
 **Classification Report:**
-               precision    recall  f1-score   support
-
-        High       1.00      1.00      1.00        59
-         Low       1.00      1.00      1.00        71
-      Medium       1.00      1.00      1.00        28
-
-    accuracy                           1.00       158
-   macro avg       1.00      1.00      1.00       158
-weighted avg       1.00      1.00      1.00       158
+![image](https://github.com/user-attachments/assets/f1b3a089-47ef-45a5-bfe3-8ed7ad94a144)
+            
 <br>
 
 ### **XGBoost Classifier:**
 **Hyperparameter Tuning with GridSearchCV:**
 <br>
+
 xgb_param_grid = {
     'n_estimators': [50, 100],
     'max_depth': [3, 5, 10],
     'learning_rate': [0.01, 0.1, 0.2]
 }
 <br>
+
 **Best Params:**
 <br>
 Best XGBoost Params: {'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 50}
 <br>
-** Classification Report:**
-              precision    recall  f1-score   support
 
-        High       1.00      1.00      1.00        59
-         Low       1.00      1.00      1.00        71
-      Medium       1.00      1.00      1.00        28
+**Classification Report:**
+![image](https://github.com/user-attachments/assets/932c98f8-8209-4b1c-a567-11bf9205f47a)
 
-    accuracy                           1.00       158
-   macro avg       1.00      1.00      1.00       158
-weighted avg       1.00      1.00      1.00       158
 <br>
 
 ### **Recommended User Assignment:**
 Used a simple logic to assign tasks to users with matching skills and lowest workload:
 <br>
+
 def assign_task(task_row):
     eligible_users = df[df['User Skills'] == task_row['User Skills']]
     if not eligible_users.empty:
@@ -235,7 +229,7 @@ def assign_task(task_row):
     return random.choice(df['Assigned User'].dropna().unique())
 <br>
 
-### ** Final Output Sample:**
+### **Final Output Sample:**
 <br>
 ![image](https://github.com/user-attachments/assets/4b699157-d34a-4e5a-affd-d64d62c20ade)
 <br>
