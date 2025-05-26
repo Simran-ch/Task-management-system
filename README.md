@@ -28,18 +28,18 @@ The goal for Week 1 was to load the raw task dataset, clean it, enrich it with s
 <br>
 
 ### **--Key Steps--**
-### 1. Data Loading
+###  Data Loading
 :) Shape of dataset → (20122, 8)
 <br>
 
-### 2. Data Cleaning & Renaming
+### Data Cleaning & Renaming
 :) Removed duplicates.
 <br>
 :) Dropped rows with missing values in Task Description and Skill.
 <br>
 :) Shape of dataset now → (789, 8)
 
-###  3. Dataset Exploration
+###  Dataset Exploration
 :) Total unique task descriptions: 265
 <br>
 :) Total unique categories: 13
@@ -47,11 +47,11 @@ The goal for Week 1 was to load the raw task dataset, clean it, enrich it with s
 :) Total unique skills: 232
 <br>
 
-### 4. Skill Assignment to Users
+###  Skill Assignment to Users
 :) A dictionary was created mapping 40 users to 3–4 random skills each
 <br>
 
-###  5. Deadline, Workload & Priority Assignment
+###  Deadline, Workload & Priority Assignment
 :) **Deadline:** Random date within 60 days from today.
 <br>
 
