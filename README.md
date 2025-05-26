@@ -2,10 +2,7 @@
 #### Design and develop an intelligent task management system that leverages NLP and ML techniques to automatically classify, prioritize, and assign tasks to users based on their behavior, deadlines, and workloads.
 
 ### Week 1: Data Collection & Preprocessing
-<br>
-
 ### **--Objective--**
-<br>
 The goal for Week 1 was to load the raw task dataset, clean it, enrich it with synthetic values (like deadlines and workloads), and prepare it for downstream machine learning tasks. This included:
 <br>
 
