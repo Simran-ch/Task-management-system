@@ -7,7 +7,6 @@
 **--Objective--**
 
 <br>
-
 The goal for Week 1 was to load the raw task dataset, clean it, enrich it with synthetic values (like deadlines and workloads), and prepare it for downstream machine learning tasks. This included:
 <br>
 
