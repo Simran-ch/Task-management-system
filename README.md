@@ -87,3 +87,62 @@ Preprocessing on Task Description involved:
 :) Download Triggered via: files.download('cleaned_dataset.csv')
 <br>
 
+### Week 2: Task Classification using NLP and ML
+### **--Objective--**
+To classify tasks into relevant categories using the task descriptions. Applied NLP preprocessing and trained two machine learning models – Naive Bayes and Support Vector Machine (SVM) – for multi-class classification.
+<br>
+
+### **--Key Steps--**
+### Model Used :
+:) Multinomial Naive Bayes
+<br>
+:) Linear Support Vector Classifier (SVM)
+<br>
+
+###  Dataset:
+Used the cleaned dataset generated in Week 1 which includes:
+<br>
+:) Processed_Description (preprocessed task text)
+<br>
+:) Category (target class)
+<br>
+:) Skill, Deadline, Priority, User Skills, and Assigned User columns
+<br>
+
+###  Results & Evaluation
+**Naive Bayes:**
+<br>
+:) **Accuracy:** 94.30%
+<br>
+:) **Precision:** 94.20%
+<br>
+:) **Recall:** 94.30%
+<br>
+
+**Notable high scores in:**
+<br>
+:) Frontend, Documentation, Testing, Project Management – All achieved 95–100% accuracy
+<br>
+:) Slight drop in performance for rare categories like ui/ux design due to low support
+<br>
+
+**SVM:**
+<br>
+:) **Accuracy:** 95.57%
+<br>
+:) **Precision:** 95.90%
+<br>
+:) **Recall:** 95.57%
+<br>
+
+**Improved overall performance compared to Naive Bayes**
+<br>
+:) Consistently high performance across most classes
+<br>
+:) Handles imbalanced data better
+<br>
+:) Perfect scores in multiple categories including DevOps, Documentation, Project Management
+<br>
+
+##### Conclusion:
+Both models performed exceptionally well, but SVM slightly outperformed Naive Bayes in terms of accuracy and precision. It is more suitable for production-level task classification due to its better handling of class imbalance.
