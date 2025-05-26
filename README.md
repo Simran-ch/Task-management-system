@@ -233,11 +233,50 @@ def assign_task(task_row):
 ![image](https://github.com/user-attachments/assets/4b699157-d34a-4e5a-affd-d64d62c20ade)
 <br>
 
+## Week 4: Final Priority Prediction & Task Classification
+### **--Objective--**
+In Week 4, we trained the final Random Forest model on the full dataset using the best hyperparameters found earlier, and classified tasks into types based on their skill requirements.
+<br>
+
+### **Approach:**
+:) Trained the final Random Forest classifier with tuned parameters.
+<br>
+:) Created a simple function to categorize tasks into Task Types like Programming, Data Analysis, or General Task based on keywords in the User Skills.
+<br>
+:) Predicted task priorities and evaluated model performance.
+<br>
 
 
+###  Results:
+**Random Forest Accuracy:** 1.00 (perfect accuracy on full dataset)
+<br>
+**Classification Report:**
+<br>
+![image](https://github.com/user-attachments/assets/5c11d3c6-1f16-4a83-9e52-3e45a0c365ac)
+<br>
 
 
+###  Visualizations:
+:) Confusion matrix showing model predictions :
+<br>
+![image](https://github.com/user-attachments/assets/cbc95287-ed18-47a2-891b-b07e143693af)
+<br>
 
+:) Feature importance bar chart for key features
+<br>
+![image](https://github.com/user-attachments/assets/266462d0-f3a2-4333-8085-c1538a210a23)
+<br>
+
+:) Distribution plots for predicted priority levels and task types
+<br>
+![image](https://github.com/user-attachments/assets/c1b51f9a-75a2-4b18-a342-efefe2b3448f)
+<br>
+![image](https://github.com/user-attachments/assets/366e2b06-78d3-4532-91f9-cb5a63fa4775)
+<br>
+
+
+### Output:
+The final summary table with predicted priorities and task types is saved as Final_Task_Summary.csv for further use.
 
 
 
