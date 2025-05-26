@@ -64,11 +64,11 @@ elif days_left <= 20 → Medium
 else → Low
 <br>
 
-### 6. Task Assignment Based on Skills
+###  Task Assignment Based on Skills
 :) Each task was assigned to a user who has the required skill. If no perfect match, a random user was assigned.
 <br>
 
-### 7. Text Preprocessing using NLP
+###  Text Preprocessing using NLP
 Preprocessing on Task Description involved:
 <br>
 :) Lowercasing
