@@ -230,7 +230,6 @@ def assign_task(task_row):
 <br>
 
 ### **Final Output Sample:**
-<br>
 ![image](https://github.com/user-attachments/assets/4b699157-d34a-4e5a-affd-d64d62c20ade)
 <br>
 
