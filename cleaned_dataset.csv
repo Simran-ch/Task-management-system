@@ -1,0 +1,790 @@
+Task Description,Category,Skill,Deadline,Priority,User Skills,Workload,Assigned User,Processed_Description
+Implement user authentication,backend,spring boot,2025-06-15,Medium,"sphinx, borutapy, collaboration tools",4,Yuvraj,implement user authent
+Optimize server performance,backend,asp.net,2025-06-20,Low,"sort, asp.net, textblob",6,Shaurya,optim server perform
+Manage database operations,backend,django,2025-07-02,Low,"django, oracle, fer (facial expression recognition)",1,Simran,manag databas oper
+Implement user authentication,backend,api,2025-06-27,Low,"css, ruby, api",6,Vihaan,implement user authent
+Build a microservice,backend,kotlin,2025-07-18,High,"pandas, database, api documentation, kotlin",8,Riya,build microservic
+Optimize server performance,backend,laravel,2025-05-29,High,"redux, gpt-2 fine-tuning, mobilenet",9,Rajat,optim server perform
+Optimize server performance,backend,c,2025-06-14,High,"c, matrix factorization, esrgan, continuous integration",8,Aditi,optim server perform
+Optimize server performance,backend,C++,2025-06-18,High,"html, tableau, ember.js, microsoft project",10,Kabir,optim server perform
+Optimize server performance,backend,go,2025-07-04,Low,"mongodb, aws, rnn, zero-shot bert",1,Nisha,optim server perform
+Develop an API,backend,c,2025-07-12,Low,"c, matrix factorization, esrgan, continuous integration",2,Aditi,develop api
+Build a microservice,backend,django,2025-07-15,Low,"django, oracle, fer (facial expression recognition)",7,Simran,build microservic
+Manage database operations,backend,php,2025-07-03,Low,"rust, php, database",1,Tanvi,manag databas oper
+Build a microservice,backend,node.js,2025-06-13,Medium,"carla, mlflow, zero-shot bert, node.js",5,Pooja,build microservic
+Manage database operations,backend,api,2025-07-15,Low,"css, ruby, api",4,Vihaan,manag databas oper
+Develop an API,backend,ruby,2025-06-13,High,"markdown, yolov4, xgboost, ruby",8,Arjun,develop api
+Integrate third-party services,backend,spring boot,2025-06-24,Low,"kubernetes, nltk, materialize",5,Siddharth,integr third-parti servic
+Optimize server performance,backend,scala,2025-05-29,High,"webpack, html, sentence-bert",9,Pranav,optim server perform
+Develop an API,backend,python,2025-06-22,Low,"tensorflow-gan, webpack, python, database",1,Rohan,develop api
+Build a microservice,backend,rust,2025-06-01,High,"rust, php, database",2,Tanvi,build microservic
+Build a microservice,backend,spring boot,2025-06-04,Medium,"zero-shot bert, azure, scikit-multilearn",3,Isha,build microservic
+Manage database operations,backend,kotlin,2025-06-17,High,"pandas, database, api documentation, kotlin",8,Riya,manag databas oper
+Develop an API,backend,laravel,2025-06-17,Low,"c, matrix factorization, esrgan, continuous integration",5,Aditi,develop api
+Develop an API,backend,flask,2025-06-04,High,"django, oracle, fer (facial expression recognition)",8,Simran,develop api
+Optimize server performance,backend,api,2025-05-27,High,"css, ruby, api",1,Vihaan,optim server perform
+Implement user authentication,backend,asp.net,2025-07-16,Low,"sort, asp.net, textblob",3,Shaurya,implement user authent
+Optimize server performance,backend,database,2025-07-12,Low,"tensorflow-gan, webpack, python, database",4,Rohan,optim server perform
+Integrate third-party services,backend,flask,2025-07-19,Low,"continuous integration, bert, adtk",2,Charu,integr third-parti servic
+Implement user authentication,backend,django,2025-06-20,Low,"django, oracle, fer (facial expression recognition)",6,Simran,implement user authent
+Develop an API,backend,spring boot,2025-07-19,High,"django, oracle, fer (facial expression recognition)",10,Simran,develop api
+Develop an API,backend,go,2025-06-28,Low,"fer (facial expression recognition), deeprecsys, praat, networkx",7,Sneha,develop api
+Build a microservice,backend,flask,2025-07-17,Low,"mlflow, lightgbm, proximal policy optimization, jenkins",5,Manav,build microservic
+Optimize server performance,backend,spring boot,2025-07-25,Low,"sketch, apache spark, rasa, xception",5,Niharika,optim server perform
+Develop an API,backend,rust,2025-07-10,High,"rust, php, database",10,Tanvi,develop api
+Build a microservice,backend,api,2025-07-15,Low,"css, ruby, api",7,Vihaan,build microservic
+Optimize server performance,backend,django,2025-05-29,High,"django, oracle, fer (facial expression recognition)",6,Simran,optim server perform
+Integrate third-party services,backend,database,2025-06-27,High,"tensorflow-gan, webpack, python, database",8,Rohan,integr third-parti servic
+Implement user authentication,backend,node.js,2025-07-09,Low,"carla, mlflow, zero-shot bert, node.js",3,Pooja,implement user authent
+Manage database operations,backend,ruby,2025-06-13,Medium,"markdown, yolov4, xgboost, ruby",2,Arjun,manag databas oper
+Integrate third-party services,backend,c,2025-06-09,Medium,"c, matrix factorization, esrgan, continuous integration",2,Aditi,integr third-parti servic
+Implement user authentication,backend,ruby,2025-06-07,High,"markdown, yolov4, xgboost, ruby",10,Arjun,implement user authent
+Build a microservice,backend,go,2025-07-11,Low,"borutapy, randomforest, jmeter, keras",5,Mahi,build microservic
+Build a microservice,backend,php,2025-07-11,Low,"rust, php, database",5,Tanvi,build microservic
+Develop an API,backend,asp.net,2025-05-31,High,"sort, asp.net, textblob",2,Shaurya,develop api
+Integrate third-party services,backend,ruby,2025-06-20,Low,"markdown, yolov4, xgboost, ruby",4,Arjun,integr third-parti servic
+Build a microservice,backend,database,2025-06-06,High,"tensorflow-gan, webpack, python, database",8,Rohan,build microservic
+Manage database operations,backend,python,2025-07-04,High,"tensorflow-gan, webpack, python, database",9,Rohan,manag databas oper
+Integrate third-party services,backend,kotlin,2025-07-02,Low,"pandas, database, api documentation, kotlin",4,Riya,integr third-parti servic
+Develop an API,backend,database,2025-05-27,High,"tensorflow-gan, webpack, python, database",10,Rohan,develop api
+Develop an API,backend,django,2025-05-30,High,"django, oracle, fer (facial expression recognition)",7,Simran,develop api
+Develop an API,backend,api,2025-07-07,High,"css, ruby, api",9,Vihaan,develop api
+Develop an API,backend,java,2025-06-25,Low,"rake, ansible, rnn, u-net",4,Neha,develop api
+Optimize server performance,backend,kotlin,2025-05-29,High,"pandas, database, api documentation, kotlin",1,Riya,optim server perform
+Integrate third-party services,backend,java,2025-06-15,Medium,"continuous integration, bert, adtk",6,Charu,integr third-parti servic
+Build a microservice,backend,c,2025-07-18,High,"c, matrix factorization, esrgan, continuous integration",10,Aditi,build microservic
+Integrate third-party services,backend,django,2025-07-07,Low,"django, oracle, fer (facial expression recognition)",2,Simran,integr third-parti servic
+Build a microservice,backend,asp.net,2025-05-30,High,"sort, asp.net, textblob",4,Shaurya,build microservic
+Implement user authentication,backend,rust,2025-07-25,Low,"rust, php, database",4,Tanvi,implement user authent
+Develop an API,backend,scala,2025-07-25,Low,"catboost, tensorflow, materialize, crnn",7,Ayaan,develop api
+Implement user authentication,backend,php,2025-06-27,High,"rust, php, database",8,Tanvi,implement user authent
+Optimize server performance,backend,java,2025-05-30,High,"heroku, django, sort",1,Dev,optim server perform
+Build a microservice,backend,C++,2025-06-23,High,"tacotron, dall-e, redis, wcag",10,Kriti,build microservic
+Optimize server performance,backend,node.js,2025-06-03,High,"carla, mlflow, zero-shot bert, node.js",8,Pooja,optim server perform
+Manage database operations,backend,go,2025-05-31,High,"pandas, database, api documentation, kotlin",8,Riya,manag databas oper
+Integrate third-party services,backend,rust,2025-06-05,High,"rust, php, database",10,Tanvi,integr third-parti servic
+Integrate third-party services,backend,node.js,2025-06-29,High,"carla, mlflow, zero-shot bert, node.js",10,Pooja,integr third-parti servic
+Build a microservice,backend,java,2025-07-08,Low,"redux, gpt-2 fine-tuning, mobilenet",2,Rajat,build microservic
+Build a microservice,backend,ruby,2025-07-06,High,"markdown, yolov4, xgboost, ruby",8,Arjun,build microservic
+Build a microservice,backend,scala,2025-06-30,Low,"tacotron, dall-e, redis, wcag",3,Kriti,build microservic
+Manage database operations,backend,spring boot,2025-07-02,Low,"jmeter, nltk, polyglot, adtk",2,Bhagyashree,manag databas oper
+Optimize server performance,backend,ruby,2025-07-06,High,"markdown, yolov4, xgboost, ruby",8,Arjun,optim server perform
+Optimize server performance,backend,flask,2025-06-14,Medium,"c, matrix factorization, esrgan, continuous integration",1,Aditi,optim server perform
+Integrate third-party services,backend,scala,2025-06-28,High,"rust, php, database",8,Tanvi,integr third-parti servic
+Optimize server performance,backend,python,2025-07-02,High,"tensorflow-gan, webpack, python, database",10,Rohan,optim server perform
+Build scalable microservices,backend,Docker,2025-07-03,High,"pca, alibi detect, scikit-multilearn, docker",10,Arnav,build scalabl microservic
+Integrate third-party services,backend,C++,2025-06-17,High,"kubernetes, nltk, materialize",10,Siddharth,integr third-parti servic
+Implement user authentication,backend,python,2025-07-23,Low,"tensorflow-gan, webpack, python, database",4,Rohan,implement user authent
+Manage database operations,backend,node.js,2025-07-24,High,"carla, mlflow, zero-shot bert, node.js",10,Pooja,manag databas oper
+Manage database operations,backend,c,2025-07-09,Low,"c, matrix factorization, esrgan, continuous integration",3,Aditi,manag databas oper
+Integrate third-party services,backend,asp.net,2025-07-24,Low,"sort, asp.net, textblob",4,Shaurya,integr third-parti servic
+Integrate third-party services,backend,go,2025-06-03,Medium,"angular, technical writing, version control",2,Kunal,integr third-parti servic
+Build a microservice,backend,python,2025-07-19,High,"tensorflow-gan, webpack, python, database",9,Rohan,build microservic
+Optimize database queries,backend,SQL,2025-06-02,High,"puppet, logistic regression, user manuals, sql",7,Tanishq,optim databas queri
+Develop RESTful APIs,backend,node.js,2025-06-20,High,"carla, mlflow, zero-shot bert, node.js",8,Pooja,develop rest api
+Integrate third-party services,backend,Python,2025-07-23,High,"tensorflow-gan, webpack, python, database",8,Rohan,integr third-parti servic
+Implement authentication mechanisms,backend,JWT,2025-06-07,Medium,"html, tableau, ember.js, microsoft project",2,Kabir,implement authent mechan
+Optimize server performance,backend,php,2025-07-19,High,"rust, php, database",9,Tanvi,optim server perform
+Integrate third-party services,backend,laravel,2025-07-06,High,"webpack, dialogflow, hugging face",8,Omkar,integr third-parti servic
+Manage database operations,backend,java,2025-05-28,High,"mlflow, lightgbm, proximal policy optimization, jenkins",1,Manav,manag databas oper
+Implement user authentication,backend,scala,2025-07-03,Low,"continuous integration, bert, adtk",2,Charu,implement user authent
+Develop an API,backend,node.js,2025-07-07,High,"carla, mlflow, zero-shot bert, node.js",10,Pooja,develop api
+Manage database operations,backend,database,2025-06-19,Low,"tensorflow-gan, webpack, python, database",5,Rohan,manag databas oper
+Implement user authentication,backend,C++,2025-07-18,Low,"lda, wcag, materialize, vue",6,Ananya,implement user authent
+Manage database operations,backend,rust,2025-06-19,High,"rust, php, database",10,Tanvi,manag databas oper
+Develop an API,backend,php,2025-06-11,Medium,"rust, php, database",6,Tanvi,develop api
+Manage database operations,backend,C++,2025-06-21,High,"mlflow, google cloud, show and tell",10,Dhwani,manag databas oper
+Implement user authentication,backend,go,2025-06-30,Low,"dall-e, aws, html, apache flink",3,Aarav,implement user authent
+Manage database operations,backend,asp.net,2025-07-13,High,"sort, asp.net, textblob",10,Shaurya,manag databas oper
+Develop an API,backend,kotlin,2025-07-20,High,"pandas, database, api documentation, kotlin",8,Riya,develop api
+Manage database operations,backend,laravel,2025-07-21,High,"rake, ansible, rnn, u-net",8,Neha,manag databas oper
+Integrate third-party services,backend,php,2025-06-26,Low,"rust, php, database",7,Tanvi,integr third-parti servic
+Implement user authentication,backend,kotlin,2025-06-11,Medium,"pandas, database, api documentation, kotlin",3,Riya,implement user authent
+Integrate third-party services,backend,python,2025-07-22,High,"tensorflow-gan, webpack, python, database",10,Rohan,integr third-parti servic
+Develop an API,backend,C++,2025-06-30,High,"borutapy, networkx, storage, xception",8,Aditya,develop api
+Implement user authentication,backend,laravel,2025-06-18,Low,"webpack, dialogflow, hugging face",1,Omkar,implement user authent
+Implement user authentication,backend,database,2025-06-13,Medium,"tensorflow-gan, webpack, python, database",4,Rohan,implement user authent
+Manage database operations,backend,flask,2025-07-23,Low,"fer (facial expression recognition), deeprecsys, praat, networkx",3,Sneha,manag databas oper
+Implement user authentication,backend,flask,2025-07-07,Low,"c, matrix factorization, esrgan, continuous integration",6,Aditi,implement user authent
+Implement user authentication,backend,c,2025-06-21,High,"c, matrix factorization, esrgan, continuous integration",10,Aditi,implement user authent
+Optimize server performance,backend,rust,2025-07-20,Low,"rust, php, database",2,Tanvi,optim server perform
+Integrate third-party services,backend,api,2025-06-21,High,"css, ruby, api",8,Vihaan,integr third-parti servic
+Manage database operations,backend,scala,2025-06-04,Medium,"supervisely, kubernetes, node.js",3,Arohi,manag databas oper
+Build a microservice,backend,laravel,2025-06-10,Medium,"sphinx, borutapy, collaboration tools",4,Yuvraj,build microservic
+Create data caching mechanism,backend,redis,2025-05-27,High,"tacotron, dall-e, redis, wcag",9,Kriti,creat data cach mechan
+Integrate external payment gateway,backend,node.js,2025-05-31,High,"carla, mlflow, zero-shot bert, node.js",7,Pooja,integr extern payment gateway
+Implement authentication and authorization,backend,jwt,2025-06-10,Medium,"lda, wcag, materialize, vue",2,Ananya,implement authent author
+Optimize database queries for performance,backend,sql,2025-06-13,Medium,"puppet, logistic regression, user manuals, sql",4,Tanishq,optim databas queri perform
+Develop REST API for user management,backend,spring boot,2025-07-17,High,"pandas, database, api documentation, kotlin",10,Riya,develop rest api user manag
+Implement caching mechanisms,backend,redis,2025-06-30,Low,"tacotron, dall-e, redis, wcag",6,Kriti,implement cach mechan
+Develop authentication system,backend,django,2025-06-08,Medium,"django, oracle, fer (facial expression recognition)",5,Simran,develop authent system
+Build a microservice architecture,backend,spring boot,2025-06-11,Medium,"tacotron, dall-e, redis, wcag",6,Kriti,build microservic architectur
+Create RESTful APIs,backend,node.js,2025-06-22,Low,"carla, mlflow, zero-shot bert, node.js",1,Pooja,creat rest api
+Implement user authentication,backend,java,2025-05-28,High,"mongodb, aws, rnn, zero-shot bert",10,Nisha,implement user authent
+Manage cloud services on Heroku,cloud,azure,2025-06-30,Low,"zero-shot bert, azure, scikit-multilearn",1,Isha,manag cloud servic heroku
+Migrate services to Azure,cloud,aws,2025-06-06,Medium,"dall-e, aws, html, apache flink",1,Aarav,migrat servic azur
+Deploy app on AWS,cloud,azure,2025-07-14,Low,"zero-shot bert, azure, scikit-multilearn",7,Isha,deploy app aw
+Migrate services to Azure,cloud,firebase,2025-07-15,High,"featuretools, polyglot, pca, fasttext",8,Palak,migrat servic azur
+Implement cloud backup,cloud,azure,2025-06-07,Medium,"zero-shot bert, azure, scikit-multilearn",5,Isha,implement cloud backup
+Migrate services to Azure,cloud,heroku,2025-06-10,Medium,"heroku, django, sort",3,Dev,migrat servic azur
+Implement cloud backup,cloud,aws,2025-06-22,High,"dall-e, aws, html, apache flink",9,Aarav,implement cloud backup
+Set up Firebase for app hosting,cloud,heroku,2025-05-27,High,"heroku, django, sort",9,Dev,set firebas app host
+Deploy app on AWS,cloud,aws,2025-06-12,Medium,"dall-e, aws, html, apache flink",3,Aarav,deploy app aw
+Manage cloud services on Heroku,cloud,heroku,2025-06-16,High,"heroku, django, sort",8,Dev,manag cloud servic heroku
+Deploy app on AWS,cloud,heroku,2025-07-08,Low,"heroku, django, sort",6,Dev,deploy app aw
+Migrate services to Azure,cloud,google cloud,2025-07-12,Low,"mlflow, google cloud, show and tell",6,Dhwani,migrat servic azur
+Implement cloud backup,cloud,firebase,2025-07-01,Low,"puppet, logistic regression, user manuals, sql",2,Tanishq,implement cloud backup
+Manage cloud services on Heroku,cloud,firebase,2025-07-13,Low,"dall-e, aws, html, apache flink",5,Aarav,manag cloud servic heroku
+Configure Google Cloud storage,cloud,firebase,2025-06-14,High,"linear regression, vue, lightgbm",8,Meera,configur googl cloud storag
+Migrate services to Azure,cloud,azure,2025-07-11,Low,"zero-shot bert, azure, scikit-multilearn",7,Isha,migrat servic azur
+Deploy app on AWS,cloud,google cloud,2025-06-23,High,"mlflow, google cloud, show and tell",10,Dhwani,deploy app aw
+Deploy app on AWS,cloud,firebase,2025-06-20,High,"mlflow, lightgbm, proximal policy optimization, jenkins",9,Manav,deploy app aw
+Set up Firebase for app hosting,cloud,aws,2025-06-15,Medium,"dall-e, aws, html, apache flink",6,Aarav,set firebas app host
+Set up Firebase for app hosting,cloud,azure,2025-06-30,Low,"zero-shot bert, azure, scikit-multilearn",3,Isha,set firebas app host
+Configure Google Cloud storage,cloud,heroku,2025-06-11,Medium,"heroku, django, sort",6,Dev,configur googl cloud storag
+Set up Firebase for app hosting,cloud,firebase,2025-06-04,High,"django, oracle, fer (facial expression recognition)",9,Simran,set firebas app host
+Manage cloud services on Heroku,cloud,google cloud,2025-06-22,Low,"mlflow, google cloud, show and tell",1,Dhwani,manag cloud servic heroku
+Implement cloud backup,cloud,heroku,2025-06-15,Medium,"heroku, django, sort",6,Dev,implement cloud backup
+Implement cloud backup,cloud,google cloud,2025-06-03,Medium,"mlflow, google cloud, show and tell",7,Dhwani,implement cloud backup
+Configure Google Cloud storage,cloud,azure,2025-06-22,Low,"zero-shot bert, azure, scikit-multilearn",3,Isha,configur googl cloud storag
+Set up Firebase for app hosting,cloud,google cloud,2025-07-17,Low,"mlflow, google cloud, show and tell",4,Dhwani,set firebas app host
+Manage cloud services on Heroku,cloud,aws,2025-06-13,High,"dall-e, aws, html, apache flink",8,Aarav,manag cloud servic heroku
+Configure Google Cloud storage,cloud,google cloud,2025-07-22,Low,"mlflow, google cloud, show and tell",1,Dhwani,configur googl cloud storag
+Configure Google Cloud storage,cloud,aws,2025-07-02,Low,"dall-e, aws, html, apache flink",6,Aarav,configur googl cloud storag
+Manage cloud resources,cloud,azure,2025-07-25,Low,"zero-shot bert, azure, scikit-multilearn",6,Isha,manag cloud resourc
+Monitor cloud services,cloud,google cloud,2025-06-02,High,"mlflow, google cloud, show and tell",3,Dhwani,monitor cloud servic
+Automate deployment to Heroku,cloud,heroku,2025-06-04,Medium,"heroku, django, sort",4,Dev,autom deploy heroku
+Integrate Firebase authentication,cloud,firebase,2025-06-04,Medium,"mlflow, google cloud, show and tell",4,Dhwani,integr firebas authent
+Deploy application on AWS,cloud,aws,2025-07-25,High,"dall-e, aws, html, apache flink",10,Aarav,deploy applic aw
+Build a recommendation engine,data science,Python,2025-07-06,High,"tensorflow-gan, webpack, python, database",10,Rohan,build recommend engin
+Visualize data insights,data science,Tableau,2025-07-13,Low,"html, tableau, ember.js, microsoft project",3,Kabir,visual data insight
+Perform statistical analysis,data science,R,2025-07-02,High,"kubernetes, nltk, materialize",10,Siddharth,perform statist analysi
+Develop machine learning models,data science,TensorFlow,2025-07-04,High,"catboost, tensorflow, materialize, crnn",9,Ayaan,develop machin learn model
+Data cleaning and preprocessing,data science,Pandas,2025-07-25,Low,"pandas, database, api documentation, kotlin",5,Riya,data clean preprocess
+Monitor and manage database performance,database,oracle,2025-06-11,High,"django, oracle, fer (facial expression recognition)",9,Simran,monitor manag databas perform
+Perform data migration to new schema,database,postgresql,2025-06-10,High,"css, ruby, api",10,Vihaan,perform data migrat new schema
+Set up database backup and restore protocols,database,mongodb,2025-07-02,High,"mongodb, aws, rnn, zero-shot bert",10,Nisha,set databas backup restor protocol
+Design database schema for user profiles,database,mysql,2025-06-19,Low,"mongodb, aws, rnn, zero-shot bert",5,Nisha,design databas schema user profil
+Optimize indexing for faster searches,database,elasticsearch,2025-06-27,Low,"pandas, database, api documentation, kotlin",2,Riya,optim index faster search
+Manage database backups,database administration,mongoDB,2025-07-10,Low,"mongodb, aws, rnn, zero-shot bert",4,Nisha,manag databas backup
+Perform database indexing,database administration,redis,2025-06-19,Low,"tacotron, dall-e, redis, wcag",6,Kriti,perform databas index
+Configure database replication,database administration,PostgreSQL,2025-06-04,High,"heroku, django, sort",9,Dev,configur databas replic
+Manage database backups,database administration,sqlite,2025-06-07,Medium,"webpack, html, sentence-bert",2,Pranav,manag databas backup
+Migrate data to the cloud,database administration,sqlite,2025-06-21,High,"dall-e, aws, html, apache flink",8,Aarav,migrat data cloud
+Perform database indexing,database administration,mongoDB,2025-07-12,Low,"mongodb, aws, rnn, zero-shot bert",6,Nisha,perform databas index
+Design database schema,database administration,redis,2025-06-13,Medium,"tacotron, dall-e, redis, wcag",4,Kriti,design databas schema
+Manage database backups,database administration,MySQL,2025-05-28,High,"html, tableau, ember.js, microsoft project",7,Kabir,manag databas backup
+Configure database replication,database administration,SQL,2025-06-12,Medium,"puppet, logistic regression, user manuals, sql",1,Tanishq,configur databas replic
+Configure database replication,database administration,cassandra,2025-06-22,High,"pandas, database, api documentation, kotlin",8,Riya,configur databas replic
+Perform database indexing,database administration,sqlite,2025-06-26,Low,"css, ruby, api",6,Vihaan,perform databas index
+Design database schema,database administration,PostgreSQL,2025-06-07,Medium,"puppet, logistic regression, user manuals, sql",2,Tanishq,design databas schema
+Perform database indexing,database administration,PostgreSQL,2025-07-09,Low,"vue, yolov5, continuous integration",3,Sanya,perform databas index
+Manage database backups,database administration,redis,2025-05-31,High,"tacotron, dall-e, redis, wcag",3,Kriti,manag databas backup
+Optimize SQL queries,database administration,mongoDB,2025-06-29,High,"mongodb, aws, rnn, zero-shot bert",8,Nisha,optim sql queri
+Perform database indexing,database administration,oracle,2025-06-20,High,"django, oracle, fer (facial expression recognition)",8,Simran,perform databas index
+Design database schema,database administration,MySQL,2025-06-14,Medium,"rake, ansible, rnn, u-net",6,Neha,design databas schema
+Configure database replication,database administration,sqlite,2025-06-27,Low,"puppet, logistic regression, user manuals, sql",2,Tanishq,configur databas replic
+Manage database backups,database administration,data,2025-07-03,Low,"linear regression, vue, lightgbm",4,Meera,manag databas backup
+Configure database replication,database administration,MySQL,2025-05-27,High,"featuretools, polyglot, pca, fasttext",1,Palak,configur databas replic
+Design database schema,database administration,sqlite,2025-05-28,High,"sketch, apache spark, rasa, xception",9,Niharika,design databas schema
+Perform database indexing,database administration,MySQL,2025-06-25,High,"cleverhans, rake, mediapipe, pca",9,Harshita,perform databas index
+Manage database backups,database administration,oracle,2025-06-25,High,"django, oracle, fer (facial expression recognition)",9,Simran,manag databas backup
+Optimize SQL queries,database administration,data,2025-06-17,High,"mongodb, aws, rnn, zero-shot bert",9,Nisha,optim sql queri
+Migrate data to the cloud,database administration,redis,2025-07-12,Low,"tacotron, dall-e, redis, wcag",2,Kriti,migrat data cloud
+Design database schema,database administration,oracle,2025-07-01,High,"django, oracle, fer (facial expression recognition)",8,Simran,design databas schema
+Migrate data to the cloud,database administration,data,2025-07-25,Low,"borutapy, randomforest, jmeter, keras",1,Mahi,migrat data cloud
+Configure database replication,database administration,data,2025-06-08,Medium,"mongodb, aws, rnn, zero-shot bert",7,Nisha,configur databas replic
+Migrate data to the cloud,database administration,SQL,2025-07-01,Low,"puppet, logistic regression, user manuals, sql",1,Tanishq,migrat data cloud
+Migrate data to the cloud,database administration,oracle,2025-07-07,High,"django, oracle, fer (facial expression recognition)",10,Simran,migrat data cloud
+Migrate data to the cloud,database administration,MySQL,2025-06-01,High,"css, ruby, api",5,Vihaan,migrat data cloud
+Optimize SQL queries,database administration,SQL,2025-07-19,Low,"puppet, logistic regression, user manuals, sql",4,Tanishq,optim sql queri
+Manage database backups,database administration,storage,2025-06-18,High,"borutapy, networkx, storage, xception",9,Aditya,manag databas backup
+Configure database replication,database administration,redis,2025-07-06,Low,"tacotron, dall-e, redis, wcag",6,Kriti,configur databas replic
+Configure database replication,database administration,mongoDB,2025-06-11,High,"mongodb, aws, rnn, zero-shot bert",8,Nisha,configur databas replic
+Migrate data to the cloud,database administration,cassandra,2025-06-01,High,"heroku, django, sort",7,Dev,migrat data cloud
+Optimize SQL queries,database administration,PostgreSQL,2025-07-12,High,"webpack, dialogflow, hugging face",8,Omkar,optim sql queri
+Design database schema,database administration,SQL,2025-05-29,High,"puppet, logistic regression, user manuals, sql",7,Tanishq,design databas schema
+Manage database backups,database administration,PostgreSQL,2025-06-08,Medium,"dall-e, aws, html, apache flink",3,Aarav,manag databas backup
+Optimize SQL queries,database administration,sqlite,2025-06-23,High,"continuous integration, bert, adtk",8,Charu,optim sql queri
+Perform database indexing,database administration,cassandra,2025-07-04,Low,"sketch, apache spark, rasa, xception",5,Niharika,perform databas index
+Configure database replication,database administration,oracle,2025-06-26,Low,"django, oracle, fer (facial expression recognition)",6,Simran,configur databas replic
+Optimize SQL queries,database administration,oracle,2025-07-20,Low,"django, oracle, fer (facial expression recognition)",4,Simran,optim sql queri
+Optimize SQL queries,database administration,storage,2025-06-14,Medium,"borutapy, networkx, storage, xception",7,Aditya,optim sql queri
+Optimize SQL queries,database administration,redis,2025-07-15,Low,"tacotron, dall-e, redis, wcag",1,Kriti,optim sql queri
+Design database schema,database administration,data,2025-06-04,Medium,"angular, technical writing, version control",3,Kunal,design databas schema
+Optimize SQL queries,database administration,MySQL,2025-07-21,High,"django, oracle, fer (facial expression recognition)",10,Simran,optim sql queri
+Optimize SQL queries,database administration,cassandra,2025-06-18,Low,"featuretools, polyglot, pca, fasttext",3,Palak,optim sql queri
+Design database schema,database administration,storage,2025-06-28,Low,"borutapy, networkx, storage, xception",4,Aditya,design databas schema
+Migrate data to the cloud,database administration,PostgreSQL,2025-06-30,Low,"linear regression, vue, lightgbm",5,Meera,migrat data cloud
+Migrate data to the cloud,database administration,mongoDB,2025-06-18,High,"mongodb, aws, rnn, zero-shot bert",10,Nisha,migrat data cloud
+Design database schema,database administration,cassandra,2025-07-22,High,"mongodb, aws, rnn, zero-shot bert",10,Nisha,design databas schema
+Configure database replication,database administration,storage,2025-05-30,High,"borutapy, networkx, storage, xception",9,Aditya,configur databas replic
+Manage database backups,database administration,SQL,2025-05-27,High,"puppet, logistic regression, user manuals, sql",5,Tanishq,manag databas backup
+Perform database indexing,database administration,storage,2025-06-08,Medium,"borutapy, networkx, storage, xception",1,Aditya,perform databas index
+Migrate data to the cloud,database administration,storage,2025-07-22,High,"borutapy, networkx, storage, xception",9,Aditya,migrat data cloud
+Manage database backups,database administration,cassandra,2025-05-30,High,"redux, gpt-2 fine-tuning, mobilenet",3,Rajat,manag databas backup
+Design database schema,database administration,mongoDB,2025-07-21,Low,"mongodb, aws, rnn, zero-shot bert",3,Nisha,design databas schema
+Perform database indexing,database administration,data,2025-05-28,High,"continuous integration, bert, adtk",4,Charu,perform databas index
+Perform database indexing,database administration,SQL,2025-07-06,Low,"puppet, logistic regression, user manuals, sql",4,Tanishq,perform databas index
+Set up PostgreSQL cluster,database administration,PostgreSQL,2025-07-10,Low,"pca, alibi detect, scikit-multilearn, docker",3,Arnav,set postgresql cluster
+Backup and restore database,database administration,mongoDB,2025-07-15,Low,"mongodb, aws, rnn, zero-shot bert",1,Nisha,backup restor databas
+Monitor database performance,database administration,oracle,2025-07-23,Low,"django, oracle, fer (facial expression recognition)",5,Simran,monitor databas perform
+Implement sharding strategy,database administration,cassandra,2025-06-18,High,"sketch, apache spark, rasa, xception",10,Niharika,implement shard strategi
+Configure AWS load balancers,deployment,continuous deployment,2025-07-22,Low,"css, ruby, api",6,Vihaan,configur aw load balanc
+Automate rollback procedures,deployment,heroku,2025-07-18,Low,"heroku, django, sort",7,Dev,autom rollback procedur
+Deploy app with Docker,deployment,google cloud,2025-07-15,Low,"mlflow, google cloud, show and tell",6,Dhwani,deploy app docker
+Automate rollback procedures,deployment,docker,2025-06-17,Low,"pca, alibi detect, scikit-multilearn, docker",4,Arnav,autom rollback procedur
+Configure AWS load balancers,deployment,docker,2025-07-19,Low,"pca, alibi detect, scikit-multilearn, docker",7,Arnav,configur aw load balanc
+Set up monitoring for production,deployment,google cloud,2025-06-22,High,"mlflow, google cloud, show and tell",9,Dhwani,set monitor product
+Set up monitoring for production,deployment,kubernetes,2025-07-03,High,"kubernetes, nltk, materialize",10,Siddharth,set monitor product
+Manage Kubernetes clusters,deployment,docker,2025-07-09,Low,"pca, alibi detect, scikit-multilearn, docker",5,Arnav,manag kubernet cluster
+Manage Kubernetes clusters,deployment,azure,2025-06-16,Low,"zero-shot bert, azure, scikit-multilearn",5,Isha,manag kubernet cluster
+Automate rollback procedures,deployment,load balancing,2025-07-20,Low,"sort, asp.net, textblob",6,Shaurya,autom rollback procedur
+Automate rollback procedures,deployment,continuous deployment,2025-06-13,Medium,"carla, mlflow, zero-shot bert, node.js",2,Pooja,autom rollback procedur
+Ensure continuous deployment,deployment,server configuration,2025-06-13,High,"sort, asp.net, textblob",9,Shaurya,ensur continu deploy
+Manage Kubernetes clusters,deployment,kubernetes,2025-06-07,Medium,"kubernetes, nltk, materialize",1,Siddharth,manag kubernet cluster
+Ensure continuous deployment,deployment,heroku,2025-07-09,Low,"heroku, django, sort",6,Dev,ensur continu deploy
+Configure AWS load balancers,deployment,load balancing,2025-05-28,High,"c, matrix factorization, esrgan, continuous integration",2,Aditi,configur aw load balanc
+Deploy app with Docker,deployment,azure,2025-07-23,Low,"zero-shot bert, azure, scikit-multilearn",7,Isha,deploy app docker
+Deploy app with Docker,deployment,monitoring,2025-05-28,High,"heroku, django, sort",1,Dev,deploy app docker
+Configure AWS load balancers,deployment,monitoring,2025-06-21,Low,"featuretools, polyglot, pca, fasttext",1,Palak,configur aw load balanc
+Ensure continuous deployment,deployment,docker,2025-07-22,High,"pca, alibi detect, scikit-multilearn, docker",9,Arnav,ensur continu deploy
+Automate rollback procedures,deployment,monitoring,2025-06-13,Medium,"mongodb, aws, rnn, zero-shot bert",2,Nisha,autom rollback procedur
+Deploy app with Docker,deployment,load balancing,2025-06-12,Medium,"pycaret, recurrent neural networks (rnn), adobe xd, esrgan",4,Diya,deploy app docker
+Configure AWS load balancers,deployment,server configuration,2025-06-12,High,"pandas, database, api documentation, kotlin",10,Riya,configur aw load balanc
+Ensure continuous deployment,deployment,google cloud,2025-07-14,Low,"mlflow, google cloud, show and tell",4,Dhwani,ensur continu deploy
+Deploy app with Docker,deployment,continuous integration,2025-06-21,Low,"continuous integration, bert, adtk",1,Charu,deploy app docker
+Configure AWS load balancers,deployment,kubernetes,2025-07-16,Low,"kubernetes, nltk, materialize",1,Siddharth,configur aw load balanc
+Set up monitoring for production,deployment,docker,2025-06-09,Medium,"pca, alibi detect, scikit-multilearn, docker",1,Arnav,set monitor product
+Manage Kubernetes clusters,deployment,heroku,2025-06-23,Low,"heroku, django, sort",1,Dev,manag kubernet cluster
+Configure AWS load balancers,deployment,heroku,2025-07-05,High,"heroku, django, sort",8,Dev,configur aw load balanc
+Set up monitoring for production,deployment,heroku,2025-07-22,Low,"heroku, django, sort",4,Dev,set monitor product
+Set up monitoring for production,deployment,aws,2025-07-24,Low,"dall-e, aws, html, apache flink",4,Aarav,set monitor product
+Set up monitoring for production,deployment,continuous integration,2025-07-14,Low,"continuous integration, bert, adtk",6,Charu,set monitor product
+Ensure continuous deployment,deployment,azure,2025-06-08,High,"zero-shot bert, azure, scikit-multilearn",9,Isha,ensur continu deploy
+Automate rollback procedures,deployment,azure,2025-06-13,Medium,"zero-shot bert, azure, scikit-multilearn",4,Isha,autom rollback procedur
+Manage Kubernetes clusters,deployment,aws,2025-06-13,Medium,"dall-e, aws, html, apache flink",4,Aarav,manag kubernet cluster
+Ensure continuous deployment,deployment,aws,2025-06-03,High,"dall-e, aws, html, apache flink",10,Aarav,ensur continu deploy
+Configure AWS load balancers,deployment,azure,2025-07-20,Low,"zero-shot bert, azure, scikit-multilearn",5,Isha,configur aw load balanc
+Automate rollback procedures,deployment,aws,2025-07-11,High,"dall-e, aws, html, apache flink",9,Aarav,autom rollback procedur
+Deploy app with Docker,deployment,docker,2025-07-19,Low,"pca, alibi detect, scikit-multilearn, docker",7,Arnav,deploy app docker
+Configure AWS load balancers,deployment,aws,2025-06-02,High,"dall-e, aws, html, apache flink",9,Aarav,configur aw load balanc
+Ensure continuous deployment,deployment,kubernetes,2025-06-30,Low,"kubernetes, nltk, materialize",4,Siddharth,ensur continu deploy
+Deploy app with Docker,deployment,continuous deployment,2025-06-27,Low,"tensorflow-gan, webpack, python, database",1,Rohan,deploy app docker
+Set up monitoring for production,deployment,load balancing,2025-06-28,Low,"continuous integration, bert, adtk",3,Charu,set monitor product
+Deploy app with Docker,deployment,kubernetes,2025-07-02,High,"kubernetes, nltk, materialize",8,Siddharth,deploy app docker
+Deploy app with Docker,deployment,aws,2025-05-29,High,"dall-e, aws, html, apache flink",7,Aarav,deploy app docker
+Set up monitoring for production,deployment,continuous deployment,2025-06-09,Medium,"angular, technical writing, version control",1,Kunal,set monitor product
+Configure AWS load balancers,deployment,google cloud,2025-07-15,High,"mlflow, google cloud, show and tell",9,Dhwani,configur aw load balanc
+Manage Kubernetes clusters,deployment,continuous integration,2025-05-30,High,"continuous integration, bert, adtk",10,Charu,manag kubernet cluster
+Ensure continuous deployment,deployment,continuous deployment,2025-06-21,Low,"markdown, yolov4, xgboost, ruby",5,Arjun,ensur continu deploy
+Ensure continuous deployment,deployment,load balancing,2025-07-02,High,"c, matrix factorization, esrgan, continuous integration",8,Aditi,ensur continu deploy
+Manage Kubernetes clusters,deployment,monitoring,2025-07-10,Low,"borutapy, networkx, storage, xception",1,Aditya,manag kubernet cluster
+Automate rollback procedures,deployment,server configuration,2025-05-27,High,"angular, technical writing, version control",3,Kunal,autom rollback procedur
+Automate rollback procedures,deployment,google cloud,2025-07-22,Low,"mlflow, google cloud, show and tell",5,Dhwani,autom rollback procedur
+Automate rollback procedures,deployment,continuous integration,2025-07-19,Low,"continuous integration, bert, adtk",5,Charu,autom rollback procedur
+Set up monitoring for production,deployment,monitoring,2025-07-02,Low,"mlflow, lightgbm, proximal policy optimization, jenkins",4,Manav,set monitor product
+Automate rollback procedures,deployment,kubernetes,2025-07-13,High,"kubernetes, nltk, materialize",9,Siddharth,autom rollback procedur
+Set up monitoring for production,deployment,server configuration,2025-06-18,High,"mongodb, aws, rnn, zero-shot bert",9,Nisha,set monitor product
+Deploy app with Docker,deployment,server configuration,2025-06-27,Low,"cleverhans, rake, mediapipe, pca",5,Harshita,deploy app docker
+Manage Kubernetes clusters,deployment,load balancing,2025-06-13,Medium,"continuous integration, bert, adtk",1,Charu,manag kubernet cluster
+Manage Kubernetes clusters,deployment,server configuration,2025-07-14,Low,"mongodb, aws, rnn, zero-shot bert",3,Nisha,manag kubernet cluster
+Ensure continuous deployment,deployment,continuous integration,2025-07-02,High,"continuous integration, bert, adtk",8,Charu,ensur continu deploy
+Deploy app with Docker,deployment,heroku,2025-06-23,Low,"heroku, django, sort",3,Dev,deploy app docker
+Manage Kubernetes clusters,deployment,continuous deployment,2025-07-06,Low,"heroku, django, sort",5,Dev,manag kubernet cluster
+Configure AWS load balancers,deployment,continuous integration,2025-06-01,High,"continuous integration, bert, adtk",6,Charu,configur aw load balanc
+Ensure continuous deployment,deployment,monitoring,2025-06-07,Medium,"rust, php, database",3,Tanvi,ensur continu deploy
+Set up monitoring for production,deployment,azure,2025-07-11,High,"zero-shot bert, azure, scikit-multilearn",8,Isha,set monitor product
+Manage Kubernetes clusters,deployment,google cloud,2025-06-14,Medium,"mlflow, google cloud, show and tell",2,Dhwani,manag kubernet cluster
+Configure CI for testing,deployment,jenkins,2025-07-08,Low,"mlflow, lightgbm, proximal policy optimization, jenkins",7,Manav,configur ci test
+Deploy on Kubernetes cluster,deployment,kubernetes,2025-06-13,Medium,"kubernetes, nltk, materialize",5,Siddharth,deploy kubernet cluster
+Deploy with zero downtime,deployment,google cloud,2025-06-09,Medium,"mlflow, google cloud, show and tell",5,Dhwani,deploy zero downtim
+Set up continuous deployment,deployment,aws,2025-07-17,High,"dall-e, aws, html, apache flink",9,Aarav,set continu deploy
+Automate deployment using Docker,deployment,docker,2025-07-01,Low,"pca, alibi detect, scikit-multilearn, docker",3,Arnav,autom deploy use docker
+Automate infrastructure provisioning,devops,terraform,2025-06-28,High,"pca, alibi detect, scikit-multilearn, docker",9,Arnav,autom infrastructur provis
+Set up CI/CD pipeline,devops,docker,2025-07-23,Low,"pca, alibi detect, scikit-multilearn, docker",1,Arnav,set ci/cd pipelin
+Configure Docker containers,devops,ci/cd,2025-06-12,Medium,"featuretools, polyglot, pca, fasttext",5,Palak,configur docker contain
+Set up CI/CD pipeline,devops,git,2025-06-17,Low,"borutapy, networkx, storage, xception",4,Aditya,set ci/cd pipelin
+Implement server automation,devops,ansible,2025-06-29,High,"rake, ansible, rnn, u-net",9,Neha,implement server autom
+Configure load balancer,devops,kubernetes,2025-07-16,High,"kubernetes, nltk, materialize",9,Siddharth,configur load balanc
+Monitor system logs,devops,docker,2025-07-04,High,"pca, alibi detect, scikit-multilearn, docker",9,Arnav,monitor system log
+Set up CI/CD pipeline,devops,jenkins,2025-07-11,Low,"mlflow, lightgbm, proximal policy optimization, jenkins",1,Manav,set ci/cd pipelin
+Manage infrastructure with Terraform,devops,git,2025-06-30,Low,"catboost, tensorflow, materialize, crnn",7,Ayaan,manag infrastructur terraform
+Manage infrastructure with Terraform,devops,kubernetes,2025-07-23,High,"kubernetes, nltk, materialize",10,Siddharth,manag infrastructur terraform
+Automate deployment process,devops,terraform,2025-06-18,Low,"angular, technical writing, version control",3,Kunal,autom deploy process
+Manage infrastructure with Terraform,devops,docker,2025-05-27,High,"pca, alibi detect, scikit-multilearn, docker",3,Arnav,manag infrastructur terraform
+Set up CI/CD pipeline,devops,monitoring,2025-06-21,Low,"pca, alibi detect, scikit-multilearn, docker",2,Arnav,set ci/cd pipelin
+Automate deployment process,devops,bash,2025-05-28,High,"html, tableau, ember.js, microsoft project",3,Kabir,autom deploy process
+Set up Kubernetes clusters,devops,jenkins,2025-06-15,Medium,"mlflow, lightgbm, proximal policy optimization, jenkins",3,Manav,set kubernet cluster
+Manage infrastructure with Terraform,devops,terraform,2025-06-19,High,"dall-e, aws, html, apache flink",8,Aarav,manag infrastructur terraform
+Manage infrastructure with Terraform,devops,jenkins,2025-06-09,High,"mlflow, lightgbm, proximal policy optimization, jenkins",10,Manav,manag infrastructur terraform
+Set up CI/CD pipeline,devops,ci/cd,2025-06-14,Medium,"cleverhans, rake, mediapipe, pca",4,Harshita,set ci/cd pipelin
+Set up Kubernetes clusters,devops,kubernetes,2025-05-27,High,"kubernetes, nltk, materialize",6,Siddharth,set kubernet cluster
+Monitor server health,devops,bash,2025-06-27,High,"linear regression, vue, lightgbm",9,Meera,monitor server health
+Monitor server health,devops,docker,2025-05-31,High,"pca, alibi detect, scikit-multilearn, docker",10,Arnav,monitor server health
+Configure Docker containers,devops,monitoring,2025-07-10,Low,"zero-shot bert, azure, scikit-multilearn",2,Isha,configur docker contain
+Monitor server health,devops,git,2025-06-13,Medium,"sort, asp.net, textblob",7,Shaurya,monitor server health
+Monitor server health,devops,ansible,2025-07-12,Low,"rake, ansible, rnn, u-net",1,Neha,monitor server health
+Configure Docker containers,devops,bash,2025-07-13,Low,"mlflow, lightgbm, proximal policy optimization, jenkins",5,Manav,configur docker contain
+Automate deployment process,devops,monitoring,2025-06-11,Medium,"borutapy, networkx, storage, xception",1,Aditya,autom deploy process
+Automate CI/CD pipeline,devops,jenkins,2025-06-27,Low,"mlflow, lightgbm, proximal policy optimization, jenkins",5,Manav,autom ci/cd pipelin
+Set up Kubernetes clusters,devops,ansible,2025-06-01,High,"rake, ansible, rnn, u-net",1,Neha,set kubernet cluster
+Implement container orchestration,devops,kubernetes,2025-06-12,Medium,"kubernetes, nltk, materialize",3,Siddharth,implement contain orchestr
+Monitor system logs and alerts,devops,prometheus,2025-05-31,High,"c, matrix factorization, esrgan, continuous integration",9,Aditi,monitor system log alert
+Ensure high availability of applications,devops,ansible,2025-06-05,High,"rake, ansible, rnn, u-net",9,Neha,ensur high avail applic
+Monitor server health,devops,kubernetes,2025-06-01,High,"kubernetes, nltk, materialize",6,Siddharth,monitor server health
+Set up CI/CD pipeline,devops,terraform,2025-06-30,High,"zero-shot bert, azure, scikit-multilearn",10,Isha,set ci/cd pipelin
+Automate deployment process,devops,jenkins,2025-07-08,Low,"mlflow, lightgbm, proximal policy optimization, jenkins",5,Manav,autom deploy process
+Manage cloud infrastructure,devops,aws,2025-07-22,Low,"dall-e, aws, html, apache flink",7,Aarav,manag cloud infrastructur
+Set up CI/CD pipeline,devops,puppet,2025-05-27,High,"puppet, logistic regression, user manuals, sql",4,Tanishq,set ci/cd pipelin
+Configure Docker containers,devops,kubernetes,2025-07-06,Low,"kubernetes, nltk, materialize",5,Siddharth,configur docker contain
+Automate deployment process,devops,git,2025-06-08,High,"tacotron, dall-e, redis, wcag",10,Kriti,autom deploy process
+Set up Kubernetes clusters,devops,bash,2025-07-12,Low,"cleverhans, rake, mediapipe, pca",5,Harshita,set kubernet cluster
+Manage infrastructure with Terraform,devops,monitoring,2025-06-30,High,"dall-e, aws, html, apache flink",8,Aarav,manag infrastructur terraform
+Automate deployment process,devops,ci/cd,2025-06-13,Medium,"heroku, django, sort",3,Dev,autom deploy process
+Monitor server health,devops,terraform,2025-05-27,High,"redux, gpt-2 fine-tuning, mobilenet",3,Rajat,monitor server health
+Configure Docker containers,devops,puppet,2025-07-12,High,"puppet, logistic regression, user manuals, sql",8,Tanishq,configur docker contain
+Automate deployment process,devops,puppet,2025-06-27,Low,"puppet, logistic regression, user manuals, sql",1,Tanishq,autom deploy process
+Set up Kubernetes clusters,devops,docker,2025-07-03,Low,"pca, alibi detect, scikit-multilearn, docker",4,Arnav,set kubernet cluster
+Set up Kubernetes clusters,devops,git,2025-06-04,Medium,"kubernetes, nltk, materialize",2,Siddharth,set kubernet cluster
+Configure Docker containers,devops,jenkins,2025-06-07,Medium,"mlflow, lightgbm, proximal policy optimization, jenkins",3,Manav,configur docker contain
+Configure Docker containers,devops,ansible,2025-07-02,Low,"rake, ansible, rnn, u-net",4,Neha,configur docker contain
+Configure Docker containers,devops,git,2025-07-20,High,"tacotron, dall-e, redis, wcag",8,Kriti,configur docker contain
+Set up CI/CD pipeline,devops,ansible,2025-07-12,Low,"rake, ansible, rnn, u-net",5,Neha,set ci/cd pipelin
+Manage infrastructure with Terraform,devops,puppet,2025-07-21,Low,"puppet, logistic regression, user manuals, sql",3,Tanishq,manag infrastructur terraform
+Configure Docker containers,devops,docker,2025-07-04,Low,"pca, alibi detect, scikit-multilearn, docker",4,Arnav,configur docker contain
+Manage infrastructure with Terraform,devops,bash,2025-06-20,Low,"markdown, yolov4, xgboost, ruby",1,Arjun,manag infrastructur terraform
+Configure Docker containers,devops,terraform,2025-07-15,Low,"mongodb, aws, rnn, zero-shot bert",2,Nisha,configur docker contain
+Monitor server health,devops,monitoring,2025-05-28,High,"tacotron, dall-e, redis, wcag",6,Kriti,monitor server health
+Set up CI/CD pipeline,devops,kubernetes,2025-07-25,Low,"kubernetes, nltk, materialize",3,Siddharth,set ci/cd pipelin
+Monitor server health,devops,jenkins,2025-06-18,High,"mlflow, lightgbm, proximal policy optimization, jenkins",10,Manav,monitor server health
+Set up Kubernetes clusters,devops,ci/cd,2025-05-30,High,"html, tableau, ember.js, microsoft project",5,Kabir,set kubernet cluster
+Set up Kubernetes clusters,devops,terraform,2025-07-06,High,"webpack, html, sentence-bert",10,Pranav,set kubernet cluster
+Manage infrastructure with Terraform,devops,ansible,2025-07-19,Low,"rake, ansible, rnn, u-net",4,Neha,manag infrastructur terraform
+Set up Kubernetes clusters,devops,puppet,2025-06-18,Low,"puppet, logistic regression, user manuals, sql",2,Tanishq,set kubernet cluster
+Automate deployment process,devops,ansible,2025-07-12,Low,"rake, ansible, rnn, u-net",4,Neha,autom deploy process
+Automate deployment process,devops,docker,2025-06-30,Low,"pca, alibi detect, scikit-multilearn, docker",4,Arnav,autom deploy process
+Set up CI/CD pipeline,devops,bash,2025-07-24,Low,"pandas, database, api documentation, kotlin",2,Riya,set ci/cd pipelin
+Monitor server health,devops,ci/cd,2025-06-13,Medium,"webpack, html, sentence-bert",5,Pranav,monitor server health
+Automate deployment process,devops,kubernetes,2025-07-04,Low,"kubernetes, nltk, materialize",3,Siddharth,autom deploy process
+Monitor server health,devops,puppet,2025-06-07,Medium,"puppet, logistic regression, user manuals, sql",2,Tanishq,monitor server health
+Manage infrastructure with Terraform,devops,ci/cd,2025-07-09,High,"webpack, dialogflow, hugging face",9,Omkar,manag infrastructur terraform
+Set up Kubernetes clusters,devops,monitoring,2025-06-27,High,"webpack, html, sentence-bert",10,Pranav,set kubernet cluster
+Manage cloud infrastructure,devops,AWS,2025-06-24,Low,"dall-e, aws, html, apache flink",5,Aarav,manag cloud infrastructur
+Implement CI/CD workflows,devops,GitLab,2025-06-04,Medium,"jmeter, nltk, polyglot, adtk",1,Bhagyashree,implement ci/cd workflow
+Monitor server health,devops,Prometheus,2025-06-03,Medium,"pycaret, recurrent neural networks (rnn), adobe xd, esrgan",4,Diya,monitor server health
+Automate deployment pipelines,devops,Ansible,2025-05-31,High,"rake, ansible, rnn, u-net",9,Neha,autom deploy pipelin
+Containerize applications,devops,Kubernetes,2025-07-16,Low,"kubernetes, nltk, materialize",4,Siddharth,container applic
+Create user manuals,documentation,sphinx,2025-06-13,Medium,"sphinx, borutapy, collaboration tools",5,Yuvraj,creat user manual
+Maintain project wiki,documentation,asciidoc,2025-07-23,Low,"pycaret, recurrent neural networks (rnn), adobe xd, esrgan",6,Diya,maintain project wiki
+Create user manuals,documentation,asciidoc,2025-07-19,Low,"fer (facial expression recognition), deeprecsys, praat, networkx",7,Sneha,creat user manual
+Write release notes,documentation,sphinx,2025-07-01,High,"sphinx, borutapy, collaboration tools",9,Yuvraj,write releas note
+Document code for open-source project,documentation,user manuals,2025-07-07,High,"puppet, logistic regression, user manuals, sql",9,Tanishq,document code open-sourc project
+Maintain project wiki,documentation,confluence,2025-07-17,Low,"catboost, tensorflow, materialize, crnn",4,Ayaan,maintain project wiki
+Document code for open-source project,documentation,sphinx,2025-07-06,High,"sphinx, borutapy, collaboration tools",9,Yuvraj,document code open-sourc project
+Create user manuals,documentation,api documentation,2025-06-06,High,"pandas, database, api documentation, kotlin",9,Riya,creat user manual
+Maintain project wiki,documentation,technical writing,2025-05-28,High,"angular, technical writing, version control",6,Kunal,maintain project wiki
+Prepare technical guides,documentation,confluence,2025-06-09,Medium,"cleverhans, rake, mediapipe, pca",1,Harshita,prepar technic guid
+Maintain project wiki,documentation,markdown,2025-07-08,High,"markdown, yolov4, xgboost, ruby",8,Arjun,maintain project wiki
+Maintain project wiki,documentation,sphinx,2025-06-14,Medium,"sphinx, borutapy, collaboration tools",7,Yuvraj,maintain project wiki
+Write release notes,documentation,user manuals,2025-06-27,Low,"puppet, logistic regression, user manuals, sql",4,Tanishq,write releas note
+Write API documentation,documentation,sphinx,2025-06-07,Medium,"sphinx, borutapy, collaboration tools",7,Yuvraj,write api document
+Prepare technical guides,documentation,readthedocs,2025-05-29,High,"heroku, django, sort",6,Dev,prepar technic guid
+Create user manuals,documentation,readthedocs,2025-07-06,Low,"webpack, html, sentence-bert",6,Pranav,creat user manual
+Write release notes,documentation,technical writing,2025-07-19,Low,"angular, technical writing, version control",1,Kunal,write releas note
+Maintain project wiki,documentation,readthedocs,2025-06-04,Medium,"rust, php, database",3,Tanvi,maintain project wiki
+Create user manuals,documentation,confluence,2025-06-18,High,"carla, mlflow, zero-shot bert, node.js",10,Pooja,creat user manual
+Write API documentation,documentation,markdown,2025-06-26,High,"markdown, yolov4, xgboost, ruby",8,Arjun,write api document
+Prepare technical guides,documentation,api documentation,2025-07-11,Low,"pandas, database, api documentation, kotlin",2,Riya,prepar technic guid
+Write release notes,documentation,api documentation,2025-07-11,Low,"pandas, database, api documentation, kotlin",5,Riya,write releas note
+Prepare technical guides,documentation,technical writing,2025-06-04,High,"angular, technical writing, version control",10,Kunal,prepar technic guid
+Prepare technical guides,documentation,asciidoc,2025-06-02,High,"supervisely, kubernetes, node.js",4,Arohi,prepar technic guid
+Document code for open-source project,documentation,readthedocs,2025-07-18,Low,"cleverhans, rake, mediapipe, pca",6,Harshita,document code open-sourc project
+Maintain project wiki,documentation,user manuals,2025-07-16,Low,"puppet, logistic regression, user manuals, sql",4,Tanishq,maintain project wiki
+Document code for open-source project,documentation,confluence,2025-07-19,High,"fer (facial expression recognition), deeprecsys, praat, networkx",9,Sneha,document code open-sourc project
+Write API documentation,documentation,asciidoc,2025-06-04,Medium,"borutapy, randomforest, jmeter, keras",1,Mahi,write api document
+Document code for open-source project,documentation,api documentation,2025-07-16,Low,"pandas, database, api documentation, kotlin",2,Riya,document code open-sourc project
+Create user manuals,documentation,user manuals,2025-06-30,High,"puppet, logistic regression, user manuals, sql",10,Tanishq,creat user manual
+Prepare technical guides,documentation,user manuals,2025-07-22,Low,"puppet, logistic regression, user manuals, sql",5,Tanishq,prepar technic guid
+Document code for open-source project,documentation,asciidoc,2025-07-06,Low,"borutapy, randomforest, jmeter, keras",4,Mahi,document code open-sourc project
+Create user manuals,documentation,technical writing,2025-07-22,High,"angular, technical writing, version control",10,Kunal,creat user manual
+Document code for open-source project,documentation,markdown,2025-07-11,Low,"markdown, yolov4, xgboost, ruby",2,Arjun,document code open-sourc project
+Write release notes,documentation,markdown,2025-06-09,Medium,"markdown, yolov4, xgboost, ruby",2,Arjun,write releas note
+Write API documentation,documentation,api documentation,2025-06-21,Low,"pandas, database, api documentation, kotlin",6,Riya,write api document
+Write release notes,documentation,confluence,2025-06-26,High,"redux, gpt-2 fine-tuning, mobilenet",9,Rajat,write releas note
+Write release notes,documentation,readthedocs,2025-07-02,Low,"redux, gpt-2 fine-tuning, mobilenet",3,Rajat,write releas note
+Write API documentation,documentation,readthedocs,2025-06-06,Medium,"borutapy, randomforest, jmeter, keras",2,Mahi,write api document
+Prepare technical guides,documentation,sphinx,2025-06-25,Low,"sphinx, borutapy, collaboration tools",7,Yuvraj,prepar technic guid
+Write API documentation,documentation,confluence,2025-06-25,Low,"pycaret, recurrent neural networks (rnn), adobe xd, esrgan",5,Diya,write api document
+Document API endpoints,documentation,confluence,2025-06-07,High,"sphinx, borutapy, collaboration tools",8,Yuvraj,document api endpoint
+Document code for open-source project,documentation,technical writing,2025-07-10,High,"angular, technical writing, version control",9,Kunal,document code open-sourc project
+Maintain project wiki,documentation,api documentation,2025-06-15,High,"pandas, database, api documentation, kotlin",10,Riya,maintain project wiki
+Write release notes,documentation,asciidoc,2025-07-06,High,"rust, php, database",10,Tanvi,write releas note
+Write API documentation,documentation,technical writing,2025-06-23,Low,"angular, technical writing, version control",7,Kunal,write api document
+Write API documentation,documentation,user manuals,2025-05-27,High,"puppet, logistic regression, user manuals, sql",9,Tanishq,write api document
+Prepare technical guides,documentation,markdown,2025-05-31,High,"markdown, yolov4, xgboost, ruby",10,Arjun,prepar technic guid
+Create user manuals,documentation,markdown,2025-07-17,Low,"markdown, yolov4, xgboost, ruby",6,Arjun,creat user manual
+Prepare project documentation,documentation,readthedocs,2025-05-31,High,"cleverhans, rake, mediapipe, pca",8,Harshita,prepar project document
+Create UML diagrams,documentation,asciidoc,2025-07-09,Low,"angular, technical writing, version control",4,Kunal,creat uml diagram
+Write detailed installation guide,documentation,technical writing,2025-06-19,Low,"angular, technical writing, version control",5,Kunal,write detail instal guid
+Write technical user manuals,documentation,markdown,2025-06-20,Low,"markdown, yolov4, xgboost, ruby",1,Arjun,write technic user manual
+Implement a landing page,frontend,bootstrap,2025-07-24,Low,"cleverhans, rake, mediapipe, pca",3,Harshita,implement land page
+Improve website accessibility,frontend,javascript,2025-06-22,High,"angular, technical writing, version control",10,Kunal,improv websit access
+Create a responsive website,frontend,foundation,2025-07-03,High,"sketch, apache spark, rasa, xception",10,Niharika,creat respons websit
+Implement a landing page,frontend,typescript,2025-06-12,High,"pycaret, recurrent neural networks (rnn), adobe xd, esrgan",8,Diya,implement land page
+Develop a mobile-first UI,frontend,materialize,2025-06-20,Low,"lda, wcag, materialize, vue",5,Ananya,develop mobile-first ui
+Develop a mobile-first UI,frontend,angular,2025-06-05,Medium,"angular, technical writing, version control",7,Kunal,develop mobile-first ui
+Improve website accessibility,frontend,vue,2025-07-11,Low,"linear regression, vue, lightgbm",2,Meera,improv websit access
+Improve website accessibility,frontend,angular,2025-06-22,Low,"angular, technical writing, version control",7,Kunal,improv websit access
+Improve website accessibility,frontend,typescript,2025-06-15,High,"carla, mlflow, zero-shot bert, node.js",10,Pooja,improv websit access
+Create a responsive website,frontend,sass,2025-06-19,High,"rake, ansible, rnn, u-net",10,Neha,creat respons websit
+Implement a landing page,frontend,user-friendly,2025-05-30,High,"pca, alibi detect, scikit-multilearn, docker",10,Arnav,implement land page
+Create a responsive website,frontend,UI,2025-06-14,Medium,"cleverhans, rake, mediapipe, pca",4,Harshita,creat respons websit
+Implement a landing page,frontend,jquery,2025-06-14,Medium,"fer (facial expression recognition), deeprecsys, praat, networkx",3,Sneha,implement land page
+Implement a landing page,frontend,redux,2025-06-17,High,"redux, gpt-2 fine-tuning, mobilenet",10,Rajat,implement land page
+Optimize web performance,frontend,user-friendly,2025-07-23,Low,"css, ruby, api",5,Vihaan,optim web perform
+Optimize web performance,frontend,ember.js,2025-07-11,Low,"html, tableau, ember.js, microsoft project",3,Kabir,optim web perform
+Create a responsive website,frontend,vue,2025-07-12,Low,"linear regression, vue, lightgbm",1,Meera,creat respons websit
+Improve website accessibility,frontend,sass,2025-06-04,Medium,"vue, yolov5, continuous integration",2,Sanya,improv websit access
+Optimize web performance,frontend,typescript,2025-06-21,Low,"jmeter, nltk, polyglot, adtk",6,Bhagyashree,optim web perform
+Implement a landing page,frontend,UX,2025-06-11,Medium,"webpack, html, sentence-bert",4,Pranav,implement land page
+Create a responsive website,frontend,UX,2025-07-04,Low,"sort, asp.net, textblob",3,Shaurya,creat respons websit
+Design a user-friendly interface,frontend,jquery,2025-06-05,High,"supervisely, kubernetes, node.js",9,Arohi,design user-friendli interfac
+Develop a mobile-first UI,frontend,UI,2025-05-30,High,"c, matrix factorization, esrgan, continuous integration",1,Aditi,develop mobile-first ui
+Optimize web performance,frontend,UX,2025-06-02,High,"pandas, database, api documentation, kotlin",7,Riya,optim web perform
+Implement a landing page,frontend,html,2025-07-19,Low,"dall-e, aws, html, apache flink",2,Aarav,implement land page
+Improve website accessibility,frontend,UI,2025-06-02,High,"catboost, tensorflow, materialize, crnn",5,Ayaan,improv websit access
+Implement a landing page,frontend,javascript,2025-06-06,Medium,"pandas, database, api documentation, kotlin",5,Riya,implement land page
+Improve website accessibility,frontend,foundation,2025-06-18,Low,"sort, asp.net, textblob",1,Shaurya,improv websit access
+Improve website accessibility,frontend,react,2025-07-18,Low,"mlflow, google cloud, show and tell",3,Dhwani,improv websit access
+Create a responsive website,frontend,materialize,2025-06-08,High,"lda, wcag, materialize, vue",10,Ananya,creat respons websit
+Improve website accessibility,frontend,css,2025-07-01,High,"css, ruby, api",10,Vihaan,improv websit access
+Implement a landing page,frontend,UI,2025-05-28,High,"heroku, django, sort",2,Dev,implement land page
+Optimize web performance,frontend,react,2025-06-19,High,"kubernetes, nltk, materialize",10,Siddharth,optim web perform
+Improve website accessibility,frontend,user-friendly,2025-05-30,High,"cleverhans, rake, mediapipe, pca",10,Harshita,improv websit access
+Optimize web performance,frontend,html,2025-06-09,Medium,"dall-e, aws, html, apache flink",6,Aarav,optim web perform
+Create a responsive website,frontend,redux,2025-06-10,Medium,"redux, gpt-2 fine-tuning, mobilenet",7,Rajat,creat respons websit
+Develop a mobile-first UI,frontend,sass,2025-05-31,High,"jmeter, nltk, polyglot, adtk",6,Bhagyashree,develop mobile-first ui
+Design a user-friendly interface,frontend,UX,2025-07-08,Low,"tensorflow-gan, webpack, python, database",7,Rohan,design user-friendli interfac
+Improve website accessibility,frontend,UX,2025-07-07,Low,"webpack, dialogflow, hugging face",5,Omkar,improv websit access
+Implement a landing page,frontend,react,2025-06-07,Medium,"carla, mlflow, zero-shot bert, node.js",2,Pooja,implement land page
+Optimize web performance,frontend,foundation,2025-06-30,Low,"webpack, dialogflow, hugging face",2,Omkar,optim web perform
+Design a user-friendly interface,frontend,javascript,2025-07-22,Low,"sketch, apache spark, rasa, xception",6,Niharika,design user-friendli interfac
+Develop a mobile-first UI,frontend,user-friendly,2025-07-13,High,"rust, php, database",9,Tanvi,develop mobile-first ui
+Design a user-friendly interface,frontend,angular,2025-07-11,High,"angular, technical writing, version control",9,Kunal,design user-friendli interfac
+Optimize web performance,frontend,UI,2025-07-12,Low,"tacotron, dall-e, redis, wcag",2,Kriti,optim web perform
+Optimize web performance,frontend,sass,2025-06-20,Low,"zero-shot bert, azure, scikit-multilearn",7,Isha,optim web perform
+Improve website accessibility,frontend,bootstrap,2025-07-21,High,"markdown, yolov4, xgboost, ruby",10,Arjun,improv websit access
+Design a user-friendly interface,frontend,redux,2025-06-23,Low,"redux, gpt-2 fine-tuning, mobilenet",6,Rajat,design user-friendli interfac
+Design a user-friendly interface,frontend,bootstrap,2025-07-16,Low,"mongodb, aws, rnn, zero-shot bert",3,Nisha,design user-friendli interfac
+Design a user-friendly interface,frontend,vue,2025-06-11,Medium,"linear regression, vue, lightgbm",1,Meera,design user-friendli interfac
+Optimize web performance,frontend,materialize,2025-07-25,Low,"lda, wcag, materialize, vue",7,Ananya,optim web perform
+Improve website accessibility,frontend,jquery,2025-06-26,Low,"rake, ansible, rnn, u-net",2,Neha,improv websit access
+Create a responsive website,frontend,ember.js,2025-06-02,High,"html, tableau, ember.js, microsoft project",2,Kabir,creat respons websit
+Implement a landing page,frontend,css,2025-07-07,High,"css, ruby, api",10,Vihaan,implement land page
+Improve website accessibility,frontend,html,2025-07-09,Low,"dall-e, aws, html, apache flink",3,Aarav,improv websit access
+Design a user-friendly interface,frontend,typescript,2025-06-29,Low,"tacotron, dall-e, redis, wcag",6,Kriti,design user-friendli interfac
+Develop a mobile-first UI,frontend,css,2025-06-13,Medium,"css, ruby, api",7,Vihaan,develop mobile-first ui
+Improve website accessibility,frontend,materialize,2025-07-05,Low,"lda, wcag, materialize, vue",7,Ananya,improv websit access
+Optimize web performance,frontend,angular,2025-06-01,High,"angular, technical writing, version control",1,Kunal,optim web perform
+Implement a landing page,frontend,ember.js,2025-06-23,Low,"html, tableau, ember.js, microsoft project",5,Kabir,implement land page
+Optimize web performance,frontend,vue,2025-07-23,High,"linear regression, vue, lightgbm",10,Meera,optim web perform
+Create a responsive website,frontend,bootstrap,2025-06-09,Medium,"sphinx, borutapy, collaboration tools",1,Yuvraj,creat respons websit
+Design a user-friendly interface,frontend,materialize,2025-06-24,Low,"lda, wcag, materialize, vue",3,Ananya,design user-friendli interfac
+Develop a mobile-first UI,frontend,foundation,2025-07-21,High,"sphinx, borutapy, collaboration tools",9,Yuvraj,develop mobile-first ui
+Optimize web performance,frontend,redux,2025-07-09,Low,"redux, gpt-2 fine-tuning, mobilenet",5,Rajat,optim web perform
+Design a user-friendly interface,frontend,sass,2025-06-06,High,"angular, technical writing, version control",8,Kunal,design user-friendli interfac
+Improve website accessibility,frontend,ember.js,2025-05-27,High,"html, tableau, ember.js, microsoft project",10,Kabir,improv websit access
+Develop a mobile-first UI,frontend,html,2025-07-19,Low,"dall-e, aws, html, apache flink",2,Aarav,develop mobile-first ui
+Create a responsive website,frontend,typescript,2025-06-13,High,"css, ruby, api",9,Vihaan,creat respons websit
+Optimize web performance,frontend,javascript,2025-07-09,Low,"mlflow, lightgbm, proximal policy optimization, jenkins",3,Manav,optim web perform
+Create a responsive website,frontend,javascript,2025-07-25,Low,"css, ruby, api",3,Vihaan,creat respons websit
+Design a user-friendly interface,frontend,css,2025-07-12,Low,"css, ruby, api",2,Vihaan,design user-friendli interfac
+Optimize web performance,frontend,css,2025-06-12,Medium,"css, ruby, api",7,Vihaan,optim web perform
+Create a responsive website,frontend,react,2025-06-03,Medium,"puppet, logistic regression, user manuals, sql",6,Tanishq,creat respons websit
+Develop a mobile-first UI,frontend,typescript,2025-06-25,Low,"jmeter, nltk, polyglot, adtk",6,Bhagyashree,develop mobile-first ui
+Design a user-friendly interface,frontend,UI,2025-07-19,Low,"tacotron, dall-e, redis, wcag",2,Kriti,design user-friendli interfac
+Implement a landing page,frontend,materialize,2025-07-22,Low,"lda, wcag, materialize, vue",7,Ananya,implement land page
+Improve website accessibility,frontend,redux,2025-06-01,High,"redux, gpt-2 fine-tuning, mobilenet",9,Rajat,improv websit access
+Design a user-friendly interface,frontend,foundation,2025-06-16,Low,"rust, php, database",2,Tanvi,design user-friendli interfac
+Implement a landing page,frontend,sass,2025-05-31,High,"heroku, django, sort",1,Dev,implement land page
+Develop a mobile-first UI,frontend,ember.js,2025-06-30,Low,"html, tableau, ember.js, microsoft project",5,Kabir,develop mobile-first ui
+Optimize web performance,frontend,bootstrap,2025-07-25,High,"continuous integration, bert, adtk",8,Charu,optim web perform
+Design a user-friendly interface,frontend,ember.js,2025-07-19,Low,"html, tableau, ember.js, microsoft project",1,Kabir,design user-friendli interfac
+Create a responsive website,frontend,user-friendly,2025-06-28,Low,"mongodb, aws, rnn, zero-shot bert",4,Nisha,creat respons websit
+Develop a mobile-first UI,frontend,UX,2025-06-10,Medium,"pandas, database, api documentation, kotlin",6,Riya,develop mobile-first ui
+Implement a landing page,frontend,vue,2025-06-24,Low,"linear regression, vue, lightgbm",3,Meera,implement land page
+Develop a mobile-first UI,frontend,vue,2025-06-24,High,"linear regression, vue, lightgbm",8,Meera,develop mobile-first ui
+Design a user-friendly interface,frontend,user-friendly,2025-07-06,Low,"redux, gpt-2 fine-tuning, mobilenet",2,Rajat,design user-friendli interfac
+Develop a mobile-first UI,frontend,redux,2025-06-19,High,"redux, gpt-2 fine-tuning, mobilenet",8,Rajat,develop mobile-first ui
+Design a user-friendly interface,frontend,react,2025-06-25,Low,"linear regression, vue, lightgbm",3,Meera,design user-friendli interfac
+Create a responsive website,frontend,angular,2025-06-12,Medium,"angular, technical writing, version control",7,Kunal,creat respons websit
+Create a responsive website,frontend,jquery,2025-07-06,High,"linear regression, vue, lightgbm",8,Meera,creat respons websit
+Develop a mobile-first UI,frontend,jquery,2025-06-23,Low,"c, matrix factorization, esrgan, continuous integration",7,Aditi,develop mobile-first ui
+Create a responsive website,frontend,css,2025-06-30,Low,"css, ruby, api",4,Vihaan,creat respons websit
+Develop a mobile-first UI,frontend,javascript,2025-07-06,Low,"puppet, logistic regression, user manuals, sql",2,Tanishq,develop mobile-first ui
+Create a responsive website,frontend,html,2025-07-04,High,"dall-e, aws, html, apache flink",9,Aarav,creat respons websit
+Implement a landing page,frontend,angular,2025-06-13,High,"angular, technical writing, version control",9,Kunal,implement land page
+Design a user-friendly interface,frontend,html,2025-07-13,High,"dall-e, aws, html, apache flink",10,Aarav,design user-friendli interfac
+Implement a landing page,frontend,foundation,2025-07-12,High,"dall-e, aws, html, apache flink",9,Aarav,implement land page
+Optimize web performance,frontend,jquery,2025-06-14,High,"puppet, logistic regression, user manuals, sql",10,Tanishq,optim web perform
+Develop a mobile-first UI,frontend,bootstrap,2025-07-23,Low,"heroku, django, sort",2,Dev,develop mobile-first ui
+Develop a mobile-first UI,frontend,react,2025-07-18,Low,"sketch, apache spark, rasa, xception",7,Niharika,develop mobile-first ui
+Optimize website for SEO,frontend,html,2025-06-27,Low,"dall-e, aws, html, apache flink",5,Aarav,optim websit seo
+Build interactive forms,frontend,typescript,2025-06-06,Medium,"jmeter, nltk, polyglot, adtk",6,Bhagyashree,build interact form
+Create a dynamic dashboard,frontend,vue,2025-06-13,High,"linear regression, vue, lightgbm",8,Meera,creat dynam dashboard
+Design a landing page,frontend,angular,2025-07-11,High,"angular, technical writing, version control",9,Kunal,design land page
+Implement responsive design,frontend,sass,2025-07-12,Low,"cleverhans, rake, mediapipe, pca",1,Harshita,implement respons design
+Implement accessibility standards,frontend,aria,2025-06-02,High,"tacotron, dall-e, redis, wcag",7,Kriti,implement access standard
+Add animations to improve UX,frontend,gsap,2025-06-18,Low,"puppet, logistic regression, user manuals, sql",7,Tanishq,add anim improv ux
+Create reusable UI components,frontend,react,2025-07-24,High,"dall-e, aws, html, apache flink",10,Aarav,creat reusabl ui compon
+Implement dark mode theme,frontend,css,2025-06-17,Low,"css, ruby, api",3,Vihaan,implement dark mode theme
+Optimize website loading speed,frontend,webpack,2025-07-12,Low,"tensorflow-gan, webpack, python, database",4,Rohan,optim websit load speed
+Assign tasks to team members,project management,trello,2025-07-10,Low,"supervisely, kubernetes, node.js",1,Arohi,assign task team member
+Facilitate daily standup meetings,project management,jira,2025-06-22,High,"html, tableau, ember.js, microsoft project",10,Kabir,facilit daili standup meet
+Manage Agile workflows,project management,agile,2025-06-11,Medium,"cleverhans, rake, mediapipe, pca",7,Harshita,manag agil workflow
+Facilitate team communication,project management,Slack,2025-06-21,Low,"heroku, django, sort",4,Dev,facilit team commun
+Coordinate with team using Jira,project management,version control,2025-06-13,Medium,"angular, technical writing, version control",5,Kunal,coordin team use jira
+Facilitate daily standup meetings,project management,scrum,2025-07-14,High,"css, ruby, api",10,Vihaan,facilit daili standup meet
+Define project scope and deliverables,project management,JIRA,2025-06-10,Medium,"puppet, logistic regression, user manuals, sql",7,Tanishq,defin project scope deliver
+Plan project sprints,project management,scrum,2025-07-18,High,"webpack, dialogflow, hugging face",9,Omkar,plan project sprint
+Assign tasks to team members,project management,jira,2025-07-16,Low,"pca, alibi detect, scikit-multilearn, docker",6,Arnav,assign task team member
+Coordinate with team using Jira,project management,agile,2025-06-03,Medium,"carla, mlflow, zero-shot bert, node.js",2,Pooja,coordin team use jira
+Assign tasks to team members,project management,collaboration tools,2025-06-21,Low,"sphinx, borutapy, collaboration tools",6,Yuvraj,assign task team member
+Monitor project progress,project management,Trello,2025-06-21,Low,"django, oracle, fer (facial expression recognition)",7,Simran,monitor project progress
+Assign tasks to team members,project management,scrum,2025-06-05,Medium,"rust, php, database",4,Tanvi,assign task team member
+Risk assessment and management,project management,RiskMatrix,2025-06-13,Medium,"dall-e, aws, html, apache flink",3,Aarav,risk assess manag
+Facilitate daily standup meetings,project management,version control,2025-06-12,High,"angular, technical writing, version control",9,Kunal,facilit daili standup meet
+Assign tasks to team members,project management,microsoft project,2025-06-14,Medium,"html, tableau, ember.js, microsoft project",1,Kabir,assign task team member
+Facilitate daily standup meetings,project management,kanban,2025-05-28,High,"c, matrix factorization, esrgan, continuous integration",6,Aditi,facilit daili standup meet
+Track project progress,project management,trello,2025-07-15,High,"sphinx, borutapy, collaboration tools",10,Yuvraj,track project progress
+Facilitate daily standup meetings,project management,agile,2025-06-11,Medium,"redux, gpt-2 fine-tuning, mobilenet",2,Rajat,facilit daili standup meet
+Coordinate with team using Jira,project management,collaboration tools,2025-06-16,Low,"sphinx, borutapy, collaboration tools",6,Yuvraj,coordin team use jira
+Assign tasks to team members,project management,version control,2025-07-16,Low,"angular, technical writing, version control",1,Kunal,assign task team member
+Manage Agile workflows,project management,kanban,2025-05-31,High,"rust, php, database",6,Tanvi,manag agil workflow
+Assign tasks to team members,project management,agile,2025-06-08,Medium,"c, matrix factorization, esrgan, continuous integration",4,Aditi,assign task team member
+Track project progress,project management,agile,2025-06-09,Medium,"vue, yolov5, continuous integration",1,Sanya,track project progress
+Manage Agile workflows,project management,version control,2025-07-13,Low,"angular, technical writing, version control",1,Kunal,manag agil workflow
+Manage Agile workflows,project management,scrum,2025-06-26,Low,"pca, alibi detect, scikit-multilearn, docker",2,Arnav,manag agil workflow
+Allocate resources effectively,project management,MS Project,2025-06-02,High,"puppet, logistic regression, user manuals, sql",1,Tanishq,alloc resourc effect
+Plan project sprints,project management,agile,2025-06-09,Medium,"pca, alibi detect, scikit-multilearn, docker",4,Arnav,plan project sprint
+Plan project sprints,project management,kanban,2025-07-11,Low,"pandas, database, api documentation, kotlin",7,Riya,plan project sprint
+Plan project sprints,project management,version control,2025-06-13,Medium,"angular, technical writing, version control",2,Kunal,plan project sprint
+Facilitate daily standup meetings,project management,microsoft project,2025-06-16,Low,"html, tableau, ember.js, microsoft project",6,Kabir,facilit daili standup meet
+Coordinate with team using Jira,project management,trello,2025-06-28,Low,"supervisely, kubernetes, node.js",4,Arohi,coordin team use jira
+Coordinate with team using Jira,project management,kanban,2025-06-01,High,"markdown, yolov4, xgboost, ruby",10,Arjun,coordin team use jira
+Manage Agile workflows,project management,trello,2025-06-04,Medium,"rust, php, database",2,Tanvi,manag agil workflow
+Track project progress,project management,scrum,2025-07-19,Low,"pycaret, recurrent neural networks (rnn), adobe xd, esrgan",2,Diya,track project progress
+Track project progress,project management,jira,2025-06-01,High,"fer (facial expression recognition), deeprecsys, praat, networkx",6,Sneha,track project progress
+Plan project sprints,project management,trello,2025-07-07,Low,"rust, php, database",6,Tanvi,plan project sprint
+Manage Agile workflows,project management,jira,2025-07-14,Low,"pycaret, recurrent neural networks (rnn), adobe xd, esrgan",1,Diya,manag agil workflow
+Manage Agile workflows,project management,microsoft project,2025-05-31,High,"html, tableau, ember.js, microsoft project",1,Kabir,manag agil workflow
+Coordinate with team using Jira,project management,microsoft project,2025-07-18,Low,"html, tableau, ember.js, microsoft project",3,Kabir,coordin team use jira
+Track project progress,project management,collaboration tools,2025-07-04,Low,"sphinx, borutapy, collaboration tools",5,Yuvraj,track project progress
+Facilitate daily standup meetings,project management,trello,2025-06-01,High,"lda, wcag, materialize, vue",9,Ananya,facilit daili standup meet
+Plan project sprints,project management,jira,2025-06-19,High,"css, ruby, api",8,Vihaan,plan project sprint
+Coordinate with team using Jira,project management,scrum,2025-05-28,High,"markdown, yolov4, xgboost, ruby",7,Arjun,coordin team use jira
+Assign tasks to team members,project management,kanban,2025-07-17,Low,"vue, yolov5, continuous integration",3,Sanya,assign task team member
+Plan project sprints,project management,collaboration tools,2025-06-04,Medium,"sphinx, borutapy, collaboration tools",5,Yuvraj,plan project sprint
+Track project progress,project management,microsoft project,2025-07-07,Low,"html, tableau, ember.js, microsoft project",1,Kabir,track project progress
+Track project progress,project management,version control,2025-06-01,High,"angular, technical writing, version control",8,Kunal,track project progress
+Facilitate daily standup meetings,project management,collaboration tools,2025-06-01,High,"sphinx, borutapy, collaboration tools",9,Yuvraj,facilit daili standup meet
+Plan project sprints,project management,microsoft project,2025-07-02,High,"html, tableau, ember.js, microsoft project",8,Kabir,plan project sprint
+Manage Agile workflows,project management,collaboration tools,2025-06-09,High,"sphinx, borutapy, collaboration tools",9,Yuvraj,manag agil workflow
+Coordinate with team using Jira,project management,jira,2025-07-12,Low,"featuretools, polyglot, pca, fasttext",4,Palak,coordin team use jira
+Track project progress,project management,kanban,2025-06-01,High,"html, tableau, ember.js, microsoft project",9,Kabir,track project progress
+Organize daily stand-ups,project management,scrum,2025-05-29,High,"vue, yolov5, continuous integration",7,Sanya,organ daili stand-up
+Plan project milestones,project management,microsoft project,2025-06-20,High,"html, tableau, ember.js, microsoft project",10,Kabir,plan project mileston
+Track team progress,project management,trello,2025-07-01,Low,"pandas, database, api documentation, kotlin",3,Riya,track team progress
+Manage Agile sprints,project management,jira,2025-06-15,Medium,"featuretools, polyglot, pca, fasttext",4,Palak,manag agil sprint
+Collaborate on version control,project management,git,2025-07-08,High,"sketch, apache spark, rasa, xception",8,Niharika,collabor version control
+Create test cases for API,testing,testing library,2025-07-05,Low,"mlflow, lightgbm, proximal policy optimization, jenkins",3,Manav,creat test case api
+Automate integration tests,testing,jest,2025-07-13,Low,"lda, wcag, materialize, vue",2,Ananya,autom integr test
+Perform load testing,testing,junit,2025-07-06,High,"featuretools, polyglot, pca, fasttext",9,Palak,perform load test
+Run performance tests,testing,junit,2025-06-06,Medium,"tacotron, dall-e, redis, wcag",1,Kriti,run perform test
+Write unit tests,testing,chai,2025-07-12,High,"zero-shot bert, azure, scikit-multilearn",9,Isha,write unit test
+Set up Selenium for browser tests,testing,mocha,2025-07-12,High,"jmeter, nltk, polyglot, adtk",8,Bhagyashree,set selenium browser test
+Perform load testing,testing,testing library,2025-06-12,High,"c, matrix factorization, esrgan, continuous integration",8,Aditi,perform load test
+Create test cases for API,testing,selenium,2025-07-09,Low,"featuretools, polyglot, pca, fasttext",2,Palak,creat test case api
+Run performance tests,testing,chai,2025-06-22,High,"carla, mlflow, zero-shot bert, node.js",9,Pooja,run perform test
+Create test cases for API,testing,chai,2025-07-07,Low,"mlflow, lightgbm, proximal policy optimization, jenkins",2,Manav,creat test case api
+Automate integration tests,testing,selenium,2025-07-24,Low,"tensorflow-gan, webpack, python, database",1,Rohan,autom integr test
+Set up Selenium for browser tests,testing,chai,2025-07-06,Low,"redux, gpt-2 fine-tuning, mobilenet",1,Rajat,set selenium browser test
+Create test cases for API,testing,pytest,2025-07-02,Low,"html, tableau, ember.js, microsoft project",6,Kabir,creat test case api
+Write unit tests,testing,pytest,2025-07-02,Low,"lda, wcag, materialize, vue",4,Ananya,write unit test
+Write unit tests,testing,junit,2025-06-21,Low,"mongodb, aws, rnn, zero-shot bert",3,Nisha,write unit test
+Perform load testing,testing,cypress,2025-06-06,Medium,"jmeter, nltk, polyglot, adtk",2,Bhagyashree,perform load test
+Run performance tests,testing,cypress,2025-07-14,Low,"angular, technical writing, version control",3,Kunal,run perform test
+Write unit tests,testing,testing library,2025-05-28,High,"django, oracle, fer (facial expression recognition)",8,Simran,write unit test
+Set up Selenium for browser tests,testing,selenium,2025-07-11,Low,"css, ruby, api",6,Vihaan,set selenium browser test
+Write unit tests,testing,selenium,2025-06-08,Medium,"borutapy, randomforest, jmeter, keras",1,Mahi,write unit test
+Run performance tests,testing,selenium,2025-06-14,Medium,"featuretools, polyglot, pca, fasttext",6,Palak,run perform test
+Automate integration tests,testing,testing library,2025-07-14,Low,"mongodb, aws, rnn, zero-shot bert",2,Nisha,autom integr test
+Set up Selenium for browser tests,testing,testing library,2025-05-31,High,"borutapy, randomforest, jmeter, keras",7,Mahi,set selenium browser test
+Automate integration tests,testing,chai,2025-06-08,Medium,"redux, gpt-2 fine-tuning, mobilenet",5,Rajat,autom integr test
+Run performance tests,testing,mocha,2025-05-27,High,"mongodb, aws, rnn, zero-shot bert",4,Nisha,run perform test
+Create test cases for API,testing,jest,2025-06-14,High,"webpack, html, sentence-bert",8,Pranav,creat test case api
+Perform load testing,testing,pytest,2025-06-25,High,"rust, php, database",9,Tanvi,perform load test
+Run performance tests,testing,testing library,2025-07-20,High,"webpack, html, sentence-bert",9,Pranav,run perform test
+Perform load testing,testing,chai,2025-06-07,Medium,"sketch, apache spark, rasa, xception",6,Niharika,perform load test
+Automate integration tests,testing,mocha,2025-06-25,Low,"webpack, html, sentence-bert",6,Pranav,autom integr test
+Perform load testing,testing,jest,2025-06-18,Low,"puppet, logistic regression, user manuals, sql",6,Tanishq,perform load test
+Create test cases for API,testing,cypress,2025-07-25,Low,"continuous integration, bert, adtk",5,Charu,creat test case api
+Run performance tests,testing,pytest,2025-06-02,High,"tensorflow-gan, webpack, python, database",10,Rohan,run perform test
+Set up Selenium for browser tests,testing,junit,2025-06-10,Medium,"tensorflow-gan, webpack, python, database",6,Rohan,set selenium browser test
+Set up Selenium for browser tests,testing,jest,2025-06-29,High,"angular, technical writing, version control",10,Kunal,set selenium browser test
+Write unit tests,testing,mocha,2025-07-04,Low,"continuous integration, bert, adtk",5,Charu,write unit test
+Run performance tests,testing,jest,2025-06-09,Medium,"fer (facial expression recognition), deeprecsys, praat, networkx",4,Sneha,run perform test
+Set up Selenium for browser tests,testing,cypress,2025-07-11,Low,"puppet, logistic regression, user manuals, sql",4,Tanishq,set selenium browser test
+Create test cases for API,testing,junit,2025-06-25,Low,"sketch, apache spark, rasa, xception",4,Niharika,creat test case api
+Automate integration tests,testing,cypress,2025-07-05,Low,"css, ruby, api",2,Vihaan,autom integr test
+Write unit tests,testing,cypress,2025-07-01,High,"rake, ansible, rnn, u-net",8,Neha,write unit test
+Perform load testing,testing,mocha,2025-07-03,Low,"rust, php, database",6,Tanvi,perform load test
+Write unit tests,testing,jest,2025-06-07,Medium,"redux, gpt-2 fine-tuning, mobilenet",6,Rajat,write unit test
+Perform load testing,testing,selenium,2025-07-25,Low,"tensorflow-gan, webpack, python, database",4,Rohan,perform load test
+Set up Selenium for browser tests,testing,pytest,2025-07-10,Low,"carla, mlflow, zero-shot bert, node.js",6,Pooja,set selenium browser test
+Create test cases for API,testing,mocha,2025-06-29,Low,"supervisely, kubernetes, node.js",5,Arohi,creat test case api
+Automate integration tests,testing,junit,2025-07-19,High,"redux, gpt-2 fine-tuning, mobilenet",10,Rajat,autom integr test
+Automate integration tests,testing,pytest,2025-06-01,High,"c, matrix factorization, esrgan, continuous integration",1,Aditi,autom integr test
+Automate UI testing,testing,selenium,2025-06-27,Low,"lda, wcag, materialize, vue",5,Ananya,autom ui test
+Perform end-to-end testing,testing,cypress,2025-07-04,Low,"c, matrix factorization, esrgan, continuous integration",6,Aditi,perform end-to-end test
+Test frontend components,testing,jest,2025-06-26,Low,"lda, wcag, materialize, vue",7,Ananya,test frontend compon
+Write unit tests for APIs,testing,pytest,2025-06-15,Medium,"zero-shot bert, azure, scikit-multilearn",6,Isha,write unit test api
+Write integration tests,testing,junit,2025-07-15,Low,"markdown, yolov4, xgboost, ruby",6,Arjun,write integr test
+Conduct performance testing,testing,JMeter,2025-07-23,Low,"jmeter, nltk, polyglot, adtk",2,Bhagyashree,conduct perform test
+Create automated test cases,testing,Selenium,2025-06-28,High,"vue, yolov5, continuous integration",10,Sanya,creat autom test case
+Perform security testing,testing,OWASP,2025-05-27,High,"mongodb, aws, rnn, zero-shot bert",3,Nisha,perform secur test
+Develop unit tests,testing,JUnit,2025-06-26,Low,"sort, asp.net, textblob",5,Shaurya,develop unit test
+Set up continuous integration for testing,testing,Jenkins,2025-06-21,Low,"mlflow, lightgbm, proximal policy optimization, jenkins",6,Manav,set continu integr test
+Conduct user research,ui/ux design,UserTesting,2025-06-01,High,"jmeter, nltk, polyglot, adtk",4,Bhagyashree,conduct user research
+Design for accessibility,ui/ux design,WCAG,2025-07-13,Low,"lda, wcag, materialize, vue",3,Ananya,design access
+Develop interactive designs,ui/ux design,Adobe XD,2025-06-08,Medium,"pycaret, recurrent neural networks (rnn), adobe xd, esrgan",2,Diya,develop interact design
+Create wireframes and prototypes,ui/ux design,Figma,2025-06-01,High,"mlflow, google cloud, show and tell",2,Dhwani,creat wirefram prototyp
+Implement user feedback,ui/ux design,Sketch,2025-06-18,Low,"sketch, apache spark, rasa, xception",1,Niharika,implement user feedback
+Train model for image recognition,ai/ml,PyTorch,2025-07-08,Low,"mongodb, aws, rnn, zero-shot bert",3,Nisha,train model imag recognit
+Set up data pipeline for ML model training,ai/ml,Apache Spark,2025-06-20,Low,"sketch, apache spark, rasa, xception",5,Niharika,set data pipelin ml model train
+Deploy model for real-time predictions,ai/ml,Docker,2025-05-27,High,"pca, alibi detect, scikit-multilearn, docker",3,Arnav,deploy model real-tim predict
+Implement sentiment analysis for feedback,ai/ml,NLTK,2025-07-04,Low,"jmeter, nltk, polyglot, adtk",1,Bhagyashree,implement sentiment analysi feedback
+Build predictive model for user behavior,ai/ml,TensorFlow,2025-07-23,Low,"catboost, tensorflow, materialize, crnn",3,Ayaan,build predict model user behavior
+Develop chatbot for customer support,ai/ml,Rasa,2025-07-14,Low,"sketch, apache spark, rasa, xception",2,Niharika,develop chatbot custom support
+Create recommendation engine for products,ai/ml,scikit-learn,2025-06-27,High,"sort, asp.net, textblob",9,Shaurya,creat recommend engin product
+Build a time series forecasting model,ai/ml,Prophet,2025-06-14,Medium,"css, ruby, api",6,Vihaan,build time seri forecast model
+Implement face detection feature,ai/ml,OpenCV,2025-07-05,Low,"angular, technical writing, version control",1,Kunal,implement face detect featur
+Conduct model drift analysis,ai/ml,Alibi Detect,2025-06-22,High,"pca, alibi detect, scikit-multilearn, docker",10,Arnav,conduct model drift analysi
+Build neural network for image classification,ai/ml,Keras,2025-06-18,Low,"borutapy, randomforest, jmeter, keras",5,Mahi,build neural network imag classif
+Implement natural language processing for text analysis,ai/ml,spaCy,2025-05-31,High,"rust, php, database",8,Tanvi,implement natur languag process text analysi
+Perform hyperparameter tuning,ai/ml,Optuna,2025-06-26,Low,"lda, wcag, materialize, vue",6,Ananya,perform hyperparamet tune
+Design a convolutional neural network for object detection,ai/ml,YOLO,2025-06-02,High,"zero-shot bert, azure, scikit-multilearn",9,Isha,design convolut neural network object detect
+Conduct feature selection for a large dataset,ai/ml,BorutaPy,2025-07-04,Low,"sphinx, borutapy, collaboration tools",6,Yuvraj,conduct featur select larg dataset
+Automate data augmentation for training images,ai/ml,Augmentor,2025-06-16,Low,"rust, php, database",7,Tanvi,autom data augment train imag
+Develop text generation model,ai/ml,GPT-2,2025-06-25,High,"kubernetes, nltk, materialize",9,Siddharth,develop text gener model
+Implement audio processing for speech recognition,ai/ml,Librosa,2025-07-25,Low,"borutapy, randomforest, jmeter, keras",5,Mahi,implement audio process speech recognit
+Create personalized ad targeting model,ai/ml,XGBoost,2025-07-14,Low,"markdown, yolov4, xgboost, ruby",4,Arjun,creat person ad target model
+Build a generative adversarial network (GAN),ai/ml,TensorFlow-GAN,2025-07-21,Low,"tensorflow-gan, webpack, python, database",6,Rohan,build gener adversari network gan
+Train a language translation model,ai/ml,Hugging Face,2025-07-14,Low,"webpack, dialogflow, hugging face",6,Omkar,train languag translat model
+Implement reinforcement learning for game AI,ai/ml,Stable Baselines,2025-06-01,High,"borutapy, randomforest, jmeter, keras",5,Mahi,implement reinforc learn game ai
+Develop fraud detection system,ai/ml,Isolation Forest,2025-05-30,High,"linear regression, vue, lightgbm",10,Meera,develop fraud detect system
+Set up ML experiment tracking,ai/ml,MLflow,2025-07-05,High,"mlflow, google cloud, show and tell",8,Dhwani,set ml experi track
+Build text summarization model,ai/ml,BERT,2025-06-22,Low,"continuous integration, bert, adtk",2,Charu,build text summar model
+Develop stock price prediction model,ai/ml,LSTM,2025-07-03,High,"c, matrix factorization, esrgan, continuous integration",8,Aditi,develop stock price predict model
+Implement transfer learning for image classification,ai/ml,EfficientNet,2025-06-06,Medium,"rust, php, database",2,Tanvi,implement transfer learn imag classif
+Train model for image segmentation,ai/ml,U-Net,2025-07-13,Low,"rake, ansible, rnn, u-net",4,Neha,train model imag segment
+Deploy ML model on mobile device,ai/ml,TensorFlow Lite,2025-06-23,Low,"continuous integration, bert, adtk",5,Charu,deploy ml model mobil devic
+Conduct sentiment analysis for tweets,ai/ml,VADER,2025-06-04,Medium,"markdown, yolov4, xgboost, ruby",1,Arjun,conduct sentiment analysi tweet
+Train object detection model on custom dataset,ai/ml,Faster R-CNN,2025-06-10,Medium,"mongodb, aws, rnn, zero-shot bert",1,Nisha,train object detect model custom dataset
+Set up data labeling workflow for supervised learning,ai/ml,Labelbox,2025-05-29,High,"borutapy, randomforest, jmeter, keras",8,Mahi,set data label workflow supervis learn
+Conduct clustering analysis for market segmentation,ai/ml,K-Means,2025-06-06,Medium,"rust, php, database",1,Tanvi,conduct cluster analysi market segment
+Implement recommendation system using collaborative filtering,ai/ml,ALS,2025-06-12,Medium,"tacotron, dall-e, redis, wcag",5,Kriti,implement recommend system use collabor filter
+Build speech-to-text model for voice commands,ai/ml,DeepSpeech,2025-05-27,High,"rust, php, database",10,Tanvi,build speech-to-text model voic command
+Design and deploy a model for personalized search,ai/ml,Elasticsearch,2025-06-09,High,"tacotron, dall-e, redis, wcag",9,Kriti,design deploy model person search
+Perform real-time anomaly detection on IoT data,ai/ml,ADTK,2025-07-05,Low,"jmeter, nltk, polyglot, adtk",2,Bhagyashree,perform real-tim anomali detect iot data
+Implement Named Entity Recognition (NER),ai/ml,SpaCy,2025-06-08,Medium,"rake, ansible, rnn, u-net",6,Neha,implement name entiti recognit ner
+Develop a chatbot with emotion detection,ai/ml,Transformer,2025-07-07,Low,"tensorflow-gan, webpack, python, database",1,Rohan,develop chatbot emot detect
+Set up end-to-end ML pipeline in production,ai/ml,Kubeflow,2025-06-21,Low,"heroku, django, sort",6,Dev,set end-to-end ml pipelin product
+Conduct OCR for scanned document processing,ai/ml,Tesseract,2025-06-11,High,"css, ruby, api",8,Vihaan,conduct ocr scan document process
+Build predictive maintenance model for machinery,ai/ml,RandomForest,2025-06-12,Medium,"borutapy, randomforest, jmeter, keras",4,Mahi,build predict mainten model machineri
+Implement topic modeling for text documents,ai/ml,LDA,2025-06-16,Low,"lda, wcag, materialize, vue",6,Ananya,implement topic model text document
+Train multi-label classification model,ai/ml,scikit-multilearn,2025-07-17,Low,"zero-shot bert, azure, scikit-multilearn",4,Isha,train multi-label classif model
+Develop ML model for credit scoring,ai/ml,LightGBM,2025-06-01,High,"linear regression, vue, lightgbm",2,Meera,develop ml model credit score
+Set up real-time recommendations on streaming data,ai/ml,Apache Flink,2025-07-16,High,"dall-e, aws, html, apache flink",10,Aarav,set real-tim recommend stream data
+Perform dimensionality reduction for high-dimensional data,ai/ml,PCA,2025-07-20,Low,"featuretools, polyglot, pca, fasttext",1,Palak,perform dimension reduct high-dimension data
+Build facial recognition model,ai/ml,Dlib,2025-06-02,High,"tacotron, dall-e, redis, wcag",8,Kriti,build facial recognit model
+Design adversarial examples for model testing,ai/ml,Cleverhans,2025-06-01,High,"cleverhans, rake, mediapipe, pca",10,Harshita,design adversari exampl model test
+Implement automated machine learning (AutoML),ai/ml,H2O.ai,2025-07-24,High,"pca, alibi detect, scikit-multilearn, docker",10,Arnav,implement autom machin learn automl
+Conduct semantic similarity analysis,ai/ml,Sentence-BERT,2025-06-24,High,"webpack, html, sentence-bert",10,Pranav,conduct semant similar analysi
+Build human pose estimation model,ai/ml,OpenPose,2025-07-19,High,"cleverhans, rake, mediapipe, pca",10,Harshita,build human pose estim model
+Train text classification model,ai/ml,FastText,2025-07-12,High,"featuretools, polyglot, pca, fasttext",9,Palak,train text classif model
+Develop image colorization model,ai/ml,DeOldify,2025-05-31,High,"zero-shot bert, azure, scikit-multilearn",3,Isha,develop imag color model
+Implement regression model for sales prediction,ai/ml,Linear Regression,2025-06-22,Low,"linear regression, vue, lightgbm",6,Meera,implement regress model sale predict
+Set up image data annotation for computer vision,ai/ml,Supervisely,2025-06-14,Medium,"supervisely, kubernetes, node.js",7,Arohi,set imag data annot comput vision
+Conduct social network analysis,ai/ml,NetworkX,2025-07-08,Low,"fer (facial expression recognition), deeprecsys, praat, networkx",7,Sneha,conduct social network analysi
+Implement deep reinforcement learning for robotic control,ai/ml,DQN,2025-07-14,Low,"jmeter, nltk, polyglot, adtk",5,Bhagyashree,implement deep reinforc learn robot control
+Train time series model for demand forecasting,ai/ml,Facebook Prophet,2025-07-22,Low,"html, tableau, ember.js, microsoft project",5,Kabir,train time seri model demand forecast
+Build recommendation model with deep learning,ai/ml,DeepRecSys,2025-07-22,High,"fer (facial expression recognition), deeprecsys, praat, networkx",10,Sneha,build recommend model deep learn
+Conduct exploratory data analysis for ML project,ai/ml,Pandas,2025-05-29,High,"pandas, database, api documentation, kotlin",2,Riya,conduct exploratori data analysi ml project
+Implement document similarity for plagiarism detection,ai/ml,Doc2Vec,2025-06-15,High,"pycaret, recurrent neural networks (rnn), adobe xd, esrgan",10,Diya,implement document similar plagiar detect
+Build image classifier for animal species detection,ai/ml,MobileNet,2025-07-12,High,"redux, gpt-2 fine-tuning, mobilenet",10,Rajat,build imag classifi anim speci detect
+Set up fraud detection system using anomaly detection,ai/ml,IsolationForest,2025-05-28,High,"dall-e, aws, html, apache flink",10,Aarav,set fraud detect system use anomali detect
+Develop audio sentiment analysis system,ai/ml,Praat,2025-07-22,High,"fer (facial expression recognition), deeprecsys, praat, networkx",8,Sneha,develop audio sentiment analysi system
+Implement predictive text input system,ai/ml,RNN,2025-06-11,Medium,"mongodb, aws, rnn, zero-shot bert",3,Nisha,implement predict text input system
+Build AI-powered resume screening tool,ai/ml,TextBlob,2025-05-31,High,"sort, asp.net, textblob",1,Shaurya,build ai-pow resum screen tool
+Train entity linking model for knowledge graph,ai/ml,OpenKE,2025-06-09,High,"mlflow, google cloud, show and tell",8,Dhwani,train entiti link model knowledg graph
+Implement style transfer for images,ai/ml,NeuralStyle,2025-07-15,Low,"mlflow, lightgbm, proximal policy optimization, jenkins",3,Manav,implement style transfer imag
+Develop deepfake detection model,ai/ml,Xception,2025-07-15,Low,"sketch, apache spark, rasa, xception",1,Niharika,develop deepfak detect model
+Create speech synthesis model,ai/ml,Tacotron,2025-07-24,Low,"tacotron, dall-e, redis, wcag",4,Kriti,creat speech synthesi model
+Implement product categorization model,ai/ml,BERT,2025-06-16,Low,"continuous integration, bert, adtk",5,Charu,implement product categor model
+Train image captioning model,ai/ml,Show and Tell,2025-07-14,Low,"mlflow, google cloud, show and tell",2,Dhwani,train imag caption model
+Conduct feature engineering for predictive model,ai/ml,FeatureTools,2025-06-30,Low,"featuretools, polyglot, pca, fasttext",5,Palak,conduct featur engin predict model
+Build object tracking model for video analysis,ai/ml,SORT,2025-06-27,High,"heroku, django, sort",8,Dev,build object track model video analysi
+Implement voice cloning model,ai/ml,SV2TTS,2025-06-24,High,"tacotron, dall-e, redis, wcag",8,Kriti,implement voic clone model
+Develop real-time video analytics for surveillance,ai/ml,YOLOv5,2025-06-03,Medium,"vue, yolov5, continuous integration",3,Sanya,develop real-tim video analyt surveil
+Create anomaly detection for cybersecurity logs,ai/ml,PyCaret,2025-07-06,Low,"pycaret, recurrent neural networks (rnn), adobe xd, esrgan",1,Diya,creat anomali detect cybersecur log
+Conduct time series anomaly detection,ai/ml,ARIMA,2025-06-19,High,"supervisely, kubernetes, node.js",8,Arohi,conduct time seri anomali detect
+Implement text sentiment analysis for product reviews,ai/ml,TextBlob,2025-07-01,Low,"sort, asp.net, textblob",1,Shaurya,implement text sentiment analysi product review
+Train model for autonomous driving,ai/ml,Carla,2025-06-01,High,"carla, mlflow, zero-shot bert, node.js",9,Pooja,train model autonom drive
+Set up customer churn prediction model,ai/ml,XGBoost,2025-06-25,Low,"markdown, yolov4, xgboost, ruby",6,Arjun,set custom churn predict model
+Implement key phrase extraction from text,ai/ml,RAKE,2025-06-16,Low,"rake, ansible, rnn, u-net",5,Neha,implement key phrase extract text
+Develop AI model for medical diagnosis,ai/ml,DenseNet,2025-06-22,High,"jmeter, nltk, polyglot, adtk",9,Bhagyashree,develop ai model medic diagnosi
+Conduct real-time text translation,ai/ml,MarianMT,2025-07-22,Low,"fer (facial expression recognition), deeprecsys, praat, networkx",2,Sneha,conduct real-tim text translat
+Train model for text-to-image generation,ai/ml,DALL-E,2025-07-22,Low,"dall-e, aws, html, apache flink",2,Aarav,train model text-to-imag gener
+Implement zero-shot learning model,ai/ml,Zero-shot BERT,2025-07-04,Low,"zero-shot bert, azure, scikit-multilearn",3,Isha,implement zero-shot learn model
+Conduct multilingual sentiment analysis,ai/ml,Polyglot,2025-07-11,Low,"jmeter, nltk, polyglot, adtk",3,Bhagyashree,conduct multilingu sentiment analysi
+Build attention-based sequence model,ai/ml,Transformer,2025-06-11,Medium,"sort, asp.net, textblob",4,Shaurya,build attention-bas sequenc model
+Train model for entity recognition in healthcare,ai/ml,BioBERT,2025-05-29,High,"heroku, django, sort",4,Dev,train model entiti recognit healthcar
+Develop AI-based handwriting recognition system,ai/ml,CRNN,2025-07-21,Low,"catboost, tensorflow, materialize, crnn",2,Ayaan,develop ai-bas handwrit recognit system
+Implement personality prediction from social media,ai/ml,LIWC,2025-06-15,Medium,"webpack, dialogflow, hugging face",3,Omkar,implement person predict social media
+Build automated customer service with NLP,ai/ml,Dialogflow,2025-07-13,High,"webpack, dialogflow, hugging face",9,Omkar,build autom custom servic nlp
+Create trend prediction model for fashion,ai/ml,LSTM,2025-06-27,High,"redux, gpt-2 fine-tuning, mobilenet",10,Rajat,creat trend predict model fashion
+Implement deepfake video generator,ai/ml,StyleGAN,2025-06-11,Medium,"borutapy, randomforest, jmeter, keras",7,Mahi,implement deepfak video gener
+Train real-time face authentication model,ai/ml,FaceNet,2025-06-17,Low,"dall-e, aws, html, apache flink",2,Aarav,train real-tim face authent model
+Conduct automated product tagging for e-commerce,ai/ml,CNN,2025-07-16,High,"borutapy, randomforest, jmeter, keras",10,Mahi,conduct autom product tag e-commerc
+Develop sentiment analysis model for movie reviews,ai/ml,BERT,2025-07-18,Low,"continuous integration, bert, adtk",3,Charu,develop sentiment analysi model movi review
+Build personalized learning recommendation model,ai/ml,Matrix Factorization,2025-07-06,High,"c, matrix factorization, esrgan, continuous integration",8,Aditi,build person learn recommend model
+Implement document retrieval model for search engines,ai/ml,BM25,2025-06-30,Low,"linear regression, vue, lightgbm",5,Meera,implement document retriev model search engin
+Conduct predictive analytics for insurance claims,ai/ml,RandomForest,2025-06-30,Low,"borutapy, randomforest, jmeter, keras",7,Mahi,conduct predict analyt insur claim
+Set up reinforcement learning for stock trading,ai/ml,Proximal Policy Optimization,2025-06-08,Medium,"mlflow, lightgbm, proximal policy optimization, jenkins",2,Manav,set reinforc learn stock trade
+Build model for detecting diabetic retinopathy in images,ai/ml,DenseNet,2025-06-09,Medium,"redux, gpt-2 fine-tuning, mobilenet",5,Rajat,build model detect diabet retinopathi imag
+Implement real-time object detection on video streams,ai/ml,YOLOv4,2025-06-08,High,"markdown, yolov4, xgboost, ruby",10,Arjun,implement real-tim object detect video stream
+Set up facial emotion recognition system,ai/ml,FER (Facial Expression Recognition),2025-06-12,Medium,"django, oracle, fer (facial expression recognition)",5,Simran,set facial emot recognit system
+Develop real-time weather forecasting model,ai/ml,LSTM,2025-06-14,High,"kubernetes, nltk, materialize",8,Siddharth,develop real-tim weather forecast model
+Train conversational AI for mental health support,ai/ml,GPT-3,2025-06-13,High,"supervisely, kubernetes, node.js",10,Arohi,train convers ai mental health support
+Conduct behavior analysis in retail environments,ai/ml,Keras,2025-06-13,Medium,"borutapy, randomforest, jmeter, keras",4,Mahi,conduct behavior analysi retail environ
+Build emotion-based music recommendation system,ai/ml,Recurrent Neural Networks (RNN),2025-07-19,Low,"pycaret, recurrent neural networks (rnn), adobe xd, esrgan",7,Diya,build emotion-bas music recommend system
+Develop personalized ad recommendation based on browsing data,ai/ml,Collaborative Filtering,2025-06-21,High,"webpack, dialogflow, hugging face",9,Omkar,develop person ad recommend base brows data
+Set up real-time object tracking in sports videos,ai/ml,OpenCV,2025-06-03,High,"mlflow, lightgbm, proximal policy optimization, jenkins",8,Manav,set real-tim object track sport video
+Implement emotion recognition from audio samples,ai/ml,DeepSpeech,2025-05-28,High,"sort, asp.net, textblob",7,Shaurya,implement emot recognit audio sampl
+Develop image super-resolution using deep learning,ai/ml,ESRGAN,2025-06-24,Low,"c, matrix factorization, esrgan, continuous integration",2,Aditi,develop imag super-resolut use deep learn
+Build automated scoring system for quizzes,ai/ml,GPT-3,2025-07-09,Low,"tensorflow-gan, webpack, python, database",3,Rohan,build autom score system quizz
+Implement model for fraudulent credit card transaction detection,ai/ml,CatBoost,2025-06-02,High,"catboost, tensorflow, materialize, crnn",4,Ayaan,implement model fraudul credit card transact detect
+Set up real-time translation for multilingual customer support,ai/ml,MarianMT,2025-06-20,Low,"webpack, dialogflow, hugging face",5,Omkar,set real-tim translat multilingu custom support
+Train model for gesture recognition,ai/ml,MediaPipe,2025-05-28,High,"cleverhans, rake, mediapipe, pca",8,Harshita,train model gestur recognit
+Conduct audio sentiment analysis using speech patterns,ai/ml,Praat,2025-06-02,High,"fer (facial expression recognition), deeprecsys, praat, networkx",6,Sneha,conduct audio sentiment analysi use speech pattern
+Develop recommendation system based on user ratings,ai/ml,ALS,2025-05-31,High,"redux, gpt-2 fine-tuning, mobilenet",9,Rajat,develop recommend system base user rate
+Implement noise reduction in audio files,ai/ml,Wave-U-Net,2025-06-09,Medium,"pandas, database, api documentation, kotlin",7,Riya,implement nois reduct audio file
+Build language model for poetry generation,ai/ml,GPT-2 Fine-Tuning,2025-07-21,Low,"redux, gpt-2 fine-tuning, mobilenet",5,Rajat,build languag model poetri gener
+Conduct disease prediction model for healthcare,ai/ml,Logistic Regression,2025-06-18,Low,"puppet, logistic regression, user manuals, sql",3,Tanishq,conduct diseas predict model healthcar
+Train model for image recognition,ai/ml,pytorch,2025-07-11,Low,"kubernetes, nltk, materialize",5,Siddharth,train model imag recognit
+Set up data pipeline for ML model training,ai/ml,apache spark,2025-06-16,Low,"sketch, apache spark, rasa, xception",2,Niharika,set data pipelin ml model train
+Deploy model for real-time predictions,ai/ml,docker,2025-06-05,Medium,"pca, alibi detect, scikit-multilearn, docker",5,Arnav,deploy model real-tim predict
+Implement sentiment analysis for feedback,ai/ml,nltk,2025-07-09,High,"jmeter, nltk, polyglot, adtk",8,Bhagyashree,implement sentiment analysi feedback
+Build predictive model for user behavior,ai/ml,tensorflow,2025-07-14,Low,"catboost, tensorflow, materialize, crnn",5,Ayaan,build predict model user behavior

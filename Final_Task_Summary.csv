@@ -1,0 +1,790 @@
+User Skills,Workload,Assigned User,Priority,Predicted Priority,Task Type
+"sphinx, borutapy, collaboration tools",4,Unassigned,Medium,Medium,General Task
+"sort, asp.net, textblob",6,Shaurya,Low,Low,General Task
+"django, oracle, fer (facial expression recognition)",1,Simran,Low,Low,General Task
+"css, ruby, api",6,Vihaan,Low,Low,General Task
+"pandas, database, api documentation, kotlin",8,Riya,High,High,Data Analysis
+"redux, gpt-2 fine-tuning, mobilenet",9,Unassigned,High,High,General Task
+"c, matrix factorization, esrgan, continuous integration",8,Aditi,High,High,General Task
+"html, tableau, ember.js, microsoft project",10,Unassigned,High,High,General Task
+"mongodb, aws, rnn, zero-shot bert",1,Unassigned,Low,Low,General Task
+"c, matrix factorization, esrgan, continuous integration",2,Aditi,Low,Low,General Task
+"django, oracle, fer (facial expression recognition)",7,Simran,Low,Low,General Task
+"rust, php, database",1,Tanvi,Low,Low,Data Analysis
+"carla, mlflow, zero-shot bert, node.js",5,Pooja,Medium,Medium,General Task
+"css, ruby, api",4,Vihaan,Low,Low,General Task
+"markdown, yolov4, xgboost, ruby",8,Vihaan,High,High,General Task
+"kubernetes, nltk, materialize",5,Unassigned,Low,Low,General Task
+"webpack, html, sentence-bert",9,Unassigned,High,High,General Task
+"tensorflow-gan, webpack, python, database",1,Rohan,Low,Low,Programming
+"rust, php, database",2,Tanvi,High,High,Data Analysis
+"zero-shot bert, azure, scikit-multilearn",3,Unassigned,Medium,Medium,General Task
+"pandas, database, api documentation, kotlin",8,Riya,High,High,Data Analysis
+"c, matrix factorization, esrgan, continuous integration",5,Unassigned,Low,Low,General Task
+"django, oracle, fer (facial expression recognition)",8,Unassigned,High,High,General Task
+"css, ruby, api",1,Vihaan,High,High,General Task
+"sort, asp.net, textblob",3,Shaurya,Low,Low,General Task
+"tensorflow-gan, webpack, python, database",4,Tanvi,Low,Low,Programming
+"continuous integration, bert, adtk",2,Unassigned,Low,Low,General Task
+"django, oracle, fer (facial expression recognition)",6,Simran,Low,Low,General Task
+"django, oracle, fer (facial expression recognition)",10,Unassigned,High,High,General Task
+"fer (facial expression recognition), deeprecsys, praat, networkx",7,Unassigned,Low,Low,General Task
+"mlflow, lightgbm, proximal policy optimization, jenkins",5,Unassigned,Low,Low,General Task
+"sketch, apache spark, rasa, xception",5,Unassigned,Low,Low,General Task
+"rust, php, database",10,Tanvi,High,High,Data Analysis
+"css, ruby, api",7,Vihaan,Low,Low,General Task
+"django, oracle, fer (facial expression recognition)",6,Simran,High,High,General Task
+"tensorflow-gan, webpack, python, database",8,Tanvi,High,High,Programming
+"carla, mlflow, zero-shot bert, node.js",3,Pooja,Low,Low,General Task
+"markdown, yolov4, xgboost, ruby",2,Vihaan,Medium,Medium,General Task
+"c, matrix factorization, esrgan, continuous integration",2,Aditi,Medium,Medium,General Task
+"markdown, yolov4, xgboost, ruby",10,Vihaan,High,High,General Task
+"borutapy, randomforest, jmeter, keras",5,Unassigned,Low,Low,General Task
+"rust, php, database",5,Tanvi,Low,Low,Data Analysis
+"sort, asp.net, textblob",2,Shaurya,High,High,General Task
+"markdown, yolov4, xgboost, ruby",4,Vihaan,Low,Low,General Task
+"tensorflow-gan, webpack, python, database",8,Tanvi,High,High,Programming
+"tensorflow-gan, webpack, python, database",9,Rohan,High,High,Programming
+"pandas, database, api documentation, kotlin",4,Riya,Low,Low,Data Analysis
+"tensorflow-gan, webpack, python, database",10,Tanvi,High,High,Programming
+"django, oracle, fer (facial expression recognition)",7,Simran,High,High,General Task
+"css, ruby, api",9,Vihaan,High,High,General Task
+"rake, ansible, rnn, u-net",4,Unassigned,Low,Low,General Task
+"pandas, database, api documentation, kotlin",1,Riya,High,High,Data Analysis
+"continuous integration, bert, adtk",6,Unassigned,Medium,Medium,General Task
+"c, matrix factorization, esrgan, continuous integration",10,Aditi,High,High,General Task
+"django, oracle, fer (facial expression recognition)",2,Simran,Low,Low,General Task
+"sort, asp.net, textblob",4,Shaurya,High,High,General Task
+"rust, php, database",4,Tanvi,Low,Low,Data Analysis
+"catboost, tensorflow, materialize, crnn",7,Unassigned,Low,Low,General Task
+"rust, php, database",8,Tanvi,High,High,Data Analysis
+"heroku, django, sort",1,Unassigned,High,High,General Task
+"tacotron, dall-e, redis, wcag",10,Unassigned,High,High,General Task
+"carla, mlflow, zero-shot bert, node.js",8,Pooja,High,High,General Task
+"pandas, database, api documentation, kotlin",8,Unassigned,High,High,Data Analysis
+"rust, php, database",10,Tanvi,High,High,Data Analysis
+"carla, mlflow, zero-shot bert, node.js",10,Pooja,High,High,General Task
+"redux, gpt-2 fine-tuning, mobilenet",2,Unassigned,Low,Low,General Task
+"markdown, yolov4, xgboost, ruby",8,Vihaan,High,High,General Task
+"tacotron, dall-e, redis, wcag",3,Unassigned,Low,Low,General Task
+"jmeter, nltk, polyglot, adtk",2,Unassigned,Low,Low,General Task
+"markdown, yolov4, xgboost, ruby",8,Vihaan,High,High,General Task
+"c, matrix factorization, esrgan, continuous integration",1,Unassigned,Medium,Medium,General Task
+"rust, php, database",8,Unassigned,High,High,Data Analysis
+"tensorflow-gan, webpack, python, database",10,Rohan,High,High,Programming
+"pca, alibi detect, scikit-multilearn, docker",10,Arnav,High,High,General Task
+"kubernetes, nltk, materialize",10,Unassigned,High,High,General Task
+"tensorflow-gan, webpack, python, database",4,Rohan,Low,Low,Programming
+"carla, mlflow, zero-shot bert, node.js",10,Pooja,High,High,General Task
+"c, matrix factorization, esrgan, continuous integration",3,Aditi,Low,Low,General Task
+"sort, asp.net, textblob",4,Shaurya,Low,Low,General Task
+"angular, technical writing, version control",2,Unassigned,Medium,Medium,General Task
+"tensorflow-gan, webpack, python, database",9,Rohan,High,High,Programming
+"puppet, logistic regression, user manuals, sql",7,Tanishq,High,High,General Task
+"carla, mlflow, zero-shot bert, node.js",8,Pooja,High,High,General Task
+"tensorflow-gan, webpack, python, database",8,Rohan,High,High,Programming
+"html, tableau, ember.js, microsoft project",2,Unassigned,Medium,Medium,General Task
+"rust, php, database",9,Tanvi,High,High,Data Analysis
+"webpack, dialogflow, hugging face",8,Unassigned,High,High,General Task
+"mlflow, lightgbm, proximal policy optimization, jenkins",1,Unassigned,High,High,General Task
+"continuous integration, bert, adtk",2,Unassigned,Low,Low,General Task
+"carla, mlflow, zero-shot bert, node.js",10,Pooja,High,High,General Task
+"tensorflow-gan, webpack, python, database",5,Tanvi,Low,Low,Programming
+"lda, wcag, materialize, vue",6,Unassigned,Low,Low,General Task
+"rust, php, database",10,Tanvi,High,High,Data Analysis
+"rust, php, database",6,Tanvi,Medium,Medium,Data Analysis
+"mlflow, google cloud, show and tell",10,Unassigned,High,High,General Task
+"dall-e, aws, html, apache flink",3,Unassigned,Low,Low,General Task
+"sort, asp.net, textblob",10,Shaurya,High,High,General Task
+"pandas, database, api documentation, kotlin",8,Riya,High,High,Data Analysis
+"rake, ansible, rnn, u-net",8,Unassigned,High,High,General Task
+"rust, php, database",7,Tanvi,Low,Low,Data Analysis
+"pandas, database, api documentation, kotlin",3,Riya,Medium,Medium,Data Analysis
+"tensorflow-gan, webpack, python, database",10,Rohan,High,High,Programming
+"borutapy, networkx, storage, xception",8,Unassigned,High,High,General Task
+"webpack, dialogflow, hugging face",1,Unassigned,Low,Low,General Task
+"tensorflow-gan, webpack, python, database",4,Tanvi,Medium,Medium,Programming
+"fer (facial expression recognition), deeprecsys, praat, networkx",3,Unassigned,Low,Low,General Task
+"c, matrix factorization, esrgan, continuous integration",6,Unassigned,Low,Low,General Task
+"c, matrix factorization, esrgan, continuous integration",10,Aditi,High,High,General Task
+"rust, php, database",2,Tanvi,Low,Low,Data Analysis
+"css, ruby, api",8,Vihaan,High,High,General Task
+"supervisely, kubernetes, node.js",3,Unassigned,Medium,Medium,General Task
+"sphinx, borutapy, collaboration tools",4,Unassigned,Medium,Medium,General Task
+"tacotron, dall-e, redis, wcag",9,Kriti,High,High,General Task
+"carla, mlflow, zero-shot bert, node.js",7,Pooja,High,High,General Task
+"lda, wcag, materialize, vue",2,Unassigned,Medium,Medium,General Task
+"puppet, logistic regression, user manuals, sql",4,Tanishq,Medium,Medium,General Task
+"pandas, database, api documentation, kotlin",10,Unassigned,High,High,Data Analysis
+"tacotron, dall-e, redis, wcag",6,Kriti,Low,Low,General Task
+"django, oracle, fer (facial expression recognition)",5,Simran,Medium,Medium,General Task
+"tacotron, dall-e, redis, wcag",6,Unassigned,Medium,Medium,General Task
+"carla, mlflow, zero-shot bert, node.js",1,Pooja,Low,Low,General Task
+"mongodb, aws, rnn, zero-shot bert",10,Unassigned,High,High,General Task
+"zero-shot bert, azure, scikit-multilearn",1,Isha,Low,Low,General Task
+"dall-e, aws, html, apache flink",1,Nisha,Medium,Medium,General Task
+"zero-shot bert, azure, scikit-multilearn",7,Isha,Low,Low,General Task
+"featuretools, polyglot, pca, fasttext",8,Unassigned,High,High,General Task
+"zero-shot bert, azure, scikit-multilearn",5,Isha,Medium,Medium,General Task
+"heroku, django, sort",3,Dev,Medium,Medium,General Task
+"dall-e, aws, html, apache flink",9,Nisha,High,High,General Task
+"heroku, django, sort",9,Dev,High,High,General Task
+"dall-e, aws, html, apache flink",3,Nisha,Medium,Medium,General Task
+"heroku, django, sort",8,Dev,High,High,General Task
+"heroku, django, sort",6,Dev,Low,Low,General Task
+"mlflow, google cloud, show and tell",6,Dhwani,Low,Low,General Task
+"puppet, logistic regression, user manuals, sql",2,Unassigned,Low,Low,General Task
+"dall-e, aws, html, apache flink",5,Unassigned,Low,Low,General Task
+"linear regression, vue, lightgbm",8,Unassigned,High,High,General Task
+"zero-shot bert, azure, scikit-multilearn",7,Isha,Low,Low,General Task
+"mlflow, google cloud, show and tell",10,Dhwani,High,High,General Task
+"mlflow, lightgbm, proximal policy optimization, jenkins",9,Unassigned,High,High,General Task
+"dall-e, aws, html, apache flink",6,Nisha,Medium,Medium,General Task
+"zero-shot bert, azure, scikit-multilearn",3,Isha,Low,Low,General Task
+"heroku, django, sort",6,Dev,Medium,Medium,General Task
+"django, oracle, fer (facial expression recognition)",9,Unassigned,High,High,General Task
+"mlflow, google cloud, show and tell",1,Dhwani,Low,Low,General Task
+"heroku, django, sort",6,Dev,Medium,Medium,General Task
+"mlflow, google cloud, show and tell",7,Dhwani,Medium,Medium,General Task
+"zero-shot bert, azure, scikit-multilearn",3,Isha,Low,Low,General Task
+"mlflow, google cloud, show and tell",4,Dhwani,Low,Low,General Task
+"dall-e, aws, html, apache flink",8,Nisha,High,High,General Task
+"mlflow, google cloud, show and tell",1,Dhwani,Low,Low,General Task
+"dall-e, aws, html, apache flink",6,Nisha,Low,Low,General Task
+"zero-shot bert, azure, scikit-multilearn",6,Isha,Low,Low,General Task
+"mlflow, google cloud, show and tell",3,Dhwani,High,High,General Task
+"heroku, django, sort",4,Dev,Medium,Medium,General Task
+"mlflow, google cloud, show and tell",4,Unassigned,Medium,Medium,General Task
+"dall-e, aws, html, apache flink",10,Nisha,High,High,General Task
+"tensorflow-gan, webpack, python, database",10,Rohan,High,High,Programming
+"html, tableau, ember.js, microsoft project",3,Kabir,Low,Low,General Task
+"kubernetes, nltk, materialize",10,Unassigned,High,High,General Task
+"catboost, tensorflow, materialize, crnn",9,Ayaan,High,High,General Task
+"pandas, database, api documentation, kotlin",5,Riya,Low,Low,Data Analysis
+"django, oracle, fer (facial expression recognition)",9,Simran,High,High,General Task
+"css, ruby, api",10,Unassigned,High,High,General Task
+"mongodb, aws, rnn, zero-shot bert",10,Nisha,High,High,General Task
+"mongodb, aws, rnn, zero-shot bert",5,Unassigned,Low,Low,General Task
+"pandas, database, api documentation, kotlin",2,Unassigned,Low,Low,Data Analysis
+"mongodb, aws, rnn, zero-shot bert",4,Nisha,Low,Low,General Task
+"tacotron, dall-e, redis, wcag",6,Kriti,Low,Low,General Task
+"heroku, django, sort",9,Unassigned,High,High,General Task
+"webpack, html, sentence-bert",2,Unassigned,Medium,Medium,General Task
+"dall-e, aws, html, apache flink",8,Unassigned,High,High,General Task
+"mongodb, aws, rnn, zero-shot bert",6,Nisha,Low,Low,General Task
+"tacotron, dall-e, redis, wcag",4,Kriti,Medium,Medium,General Task
+"html, tableau, ember.js, microsoft project",7,Unassigned,High,High,General Task
+"puppet, logistic regression, user manuals, sql",1,Tanishq,Medium,Medium,General Task
+"pandas, database, api documentation, kotlin",8,Unassigned,High,High,Data Analysis
+"css, ruby, api",6,Unassigned,Low,Low,General Task
+"puppet, logistic regression, user manuals, sql",2,Unassigned,Medium,Medium,General Task
+"vue, yolov5, continuous integration",3,Unassigned,Low,Low,General Task
+"tacotron, dall-e, redis, wcag",3,Kriti,High,High,General Task
+"mongodb, aws, rnn, zero-shot bert",8,Nisha,High,High,General Task
+"django, oracle, fer (facial expression recognition)",8,Simran,High,High,General Task
+"rake, ansible, rnn, u-net",6,Unassigned,Medium,Medium,General Task
+"puppet, logistic regression, user manuals, sql",2,Unassigned,Low,Low,General Task
+"linear regression, vue, lightgbm",4,Unassigned,Low,Low,General Task
+"featuretools, polyglot, pca, fasttext",1,Unassigned,High,High,General Task
+"sketch, apache spark, rasa, xception",9,Unassigned,High,High,General Task
+"cleverhans, rake, mediapipe, pca",9,Unassigned,High,High,General Task
+"django, oracle, fer (facial expression recognition)",9,Simran,High,High,General Task
+"mongodb, aws, rnn, zero-shot bert",9,Unassigned,High,High,General Task
+"tacotron, dall-e, redis, wcag",2,Kriti,Low,Low,General Task
+"django, oracle, fer (facial expression recognition)",8,Simran,High,High,General Task
+"borutapy, randomforest, jmeter, keras",1,Unassigned,Low,Low,General Task
+"mongodb, aws, rnn, zero-shot bert",7,Unassigned,Medium,Medium,General Task
+"puppet, logistic regression, user manuals, sql",1,Tanishq,Low,Low,General Task
+"django, oracle, fer (facial expression recognition)",10,Simran,High,High,General Task
+"css, ruby, api",5,Unassigned,High,High,General Task
+"puppet, logistic regression, user manuals, sql",4,Tanishq,Low,Low,General Task
+"borutapy, networkx, storage, xception",9,Aditya,High,High,General Task
+"tacotron, dall-e, redis, wcag",6,Kriti,Low,Low,General Task
+"mongodb, aws, rnn, zero-shot bert",8,Nisha,High,High,General Task
+"heroku, django, sort",7,Unassigned,High,High,General Task
+"webpack, dialogflow, hugging face",8,Unassigned,High,High,General Task
+"puppet, logistic regression, user manuals, sql",7,Tanishq,High,High,General Task
+"dall-e, aws, html, apache flink",3,Unassigned,Medium,Medium,General Task
+"continuous integration, bert, adtk",8,Unassigned,High,High,General Task
+"sketch, apache spark, rasa, xception",5,Unassigned,Low,Low,General Task
+"django, oracle, fer (facial expression recognition)",6,Simran,Low,Low,General Task
+"django, oracle, fer (facial expression recognition)",4,Simran,Low,Low,General Task
+"borutapy, networkx, storage, xception",7,Aditya,Medium,Medium,General Task
+"tacotron, dall-e, redis, wcag",1,Kriti,Low,Low,General Task
+"angular, technical writing, version control",3,Unassigned,Medium,Medium,General Task
+"django, oracle, fer (facial expression recognition)",10,Unassigned,High,High,General Task
+"featuretools, polyglot, pca, fasttext",3,Unassigned,Low,Low,General Task
+"borutapy, networkx, storage, xception",4,Aditya,Low,Low,General Task
+"linear regression, vue, lightgbm",5,Unassigned,Low,Low,General Task
+"mongodb, aws, rnn, zero-shot bert",10,Nisha,High,High,General Task
+"mongodb, aws, rnn, zero-shot bert",10,Unassigned,High,High,General Task
+"borutapy, networkx, storage, xception",9,Aditya,High,High,General Task
+"puppet, logistic regression, user manuals, sql",5,Tanishq,High,High,General Task
+"borutapy, networkx, storage, xception",1,Aditya,Medium,Medium,General Task
+"borutapy, networkx, storage, xception",9,Aditya,High,High,General Task
+"redux, gpt-2 fine-tuning, mobilenet",3,Unassigned,High,High,General Task
+"mongodb, aws, rnn, zero-shot bert",3,Nisha,Low,Low,General Task
+"continuous integration, bert, adtk",4,Unassigned,High,High,General Task
+"puppet, logistic regression, user manuals, sql",4,Tanishq,Low,Low,General Task
+"pca, alibi detect, scikit-multilearn, docker",3,Unassigned,Low,Low,General Task
+"mongodb, aws, rnn, zero-shot bert",1,Nisha,Low,Low,General Task
+"django, oracle, fer (facial expression recognition)",5,Simran,Low,Low,General Task
+"sketch, apache spark, rasa, xception",10,Unassigned,High,High,General Task
+"css, ruby, api",6,Unassigned,Low,Low,General Task
+"heroku, django, sort",7,Dev,Low,Low,General Task
+"mlflow, google cloud, show and tell",6,Dhwani,Low,Low,General Task
+"pca, alibi detect, scikit-multilearn, docker",4,Arnav,Low,Low,General Task
+"pca, alibi detect, scikit-multilearn, docker",7,Arnav,Low,Low,General Task
+"mlflow, google cloud, show and tell",9,Dhwani,High,High,General Task
+"kubernetes, nltk, materialize",10,Siddharth,High,High,General Task
+"pca, alibi detect, scikit-multilearn, docker",5,Arnav,Low,Low,General Task
+"zero-shot bert, azure, scikit-multilearn",5,Isha,Low,Low,General Task
+"sort, asp.net, textblob",6,Unassigned,Low,Low,General Task
+"carla, mlflow, zero-shot bert, node.js",2,Unassigned,Medium,Medium,General Task
+"sort, asp.net, textblob",9,Unassigned,High,High,General Task
+"kubernetes, nltk, materialize",1,Siddharth,Medium,Medium,General Task
+"heroku, django, sort",6,Dev,Low,Low,General Task
+"c, matrix factorization, esrgan, continuous integration",2,Unassigned,High,High,General Task
+"zero-shot bert, azure, scikit-multilearn",7,Isha,Low,Low,General Task
+"heroku, django, sort",1,Unassigned,High,High,General Task
+"featuretools, polyglot, pca, fasttext",1,Unassigned,Low,Low,General Task
+"pca, alibi detect, scikit-multilearn, docker",9,Arnav,High,High,General Task
+"mongodb, aws, rnn, zero-shot bert",2,Unassigned,Medium,Medium,General Task
+"pycaret, recurrent neural networks (rnn), adobe xd, esrgan",4,Unassigned,Medium,Medium,General Task
+"pandas, database, api documentation, kotlin",10,Unassigned,High,High,Data Analysis
+"mlflow, google cloud, show and tell",4,Dhwani,Low,Low,General Task
+"continuous integration, bert, adtk",1,Aditi,Low,Low,General Task
+"kubernetes, nltk, materialize",1,Siddharth,Low,Low,General Task
+"pca, alibi detect, scikit-multilearn, docker",1,Arnav,Medium,Medium,General Task
+"heroku, django, sort",1,Dev,Low,Low,General Task
+"heroku, django, sort",8,Dev,High,High,General Task
+"heroku, django, sort",4,Dev,Low,Low,General Task
+"dall-e, aws, html, apache flink",4,Nisha,Low,Low,General Task
+"continuous integration, bert, adtk",6,Aditi,Low,Low,General Task
+"zero-shot bert, azure, scikit-multilearn",9,Isha,High,High,General Task
+"zero-shot bert, azure, scikit-multilearn",4,Isha,Medium,Medium,General Task
+"dall-e, aws, html, apache flink",4,Nisha,Medium,Medium,General Task
+"dall-e, aws, html, apache flink",10,Nisha,High,High,General Task
+"zero-shot bert, azure, scikit-multilearn",5,Isha,Low,Low,General Task
+"dall-e, aws, html, apache flink",9,Nisha,High,High,General Task
+"pca, alibi detect, scikit-multilearn, docker",7,Arnav,Low,Low,General Task
+"dall-e, aws, html, apache flink",9,Nisha,High,High,General Task
+"kubernetes, nltk, materialize",4,Siddharth,Low,Low,General Task
+"tensorflow-gan, webpack, python, database",1,Unassigned,Low,Low,Programming
+"continuous integration, bert, adtk",3,Unassigned,Low,Low,General Task
+"kubernetes, nltk, materialize",8,Siddharth,High,High,General Task
+"dall-e, aws, html, apache flink",7,Nisha,High,High,General Task
+"angular, technical writing, version control",1,Unassigned,Medium,Medium,General Task
+"mlflow, google cloud, show and tell",9,Dhwani,High,High,General Task
+"continuous integration, bert, adtk",10,Aditi,High,High,General Task
+"markdown, yolov4, xgboost, ruby",5,Unassigned,Low,Low,General Task
+"c, matrix factorization, esrgan, continuous integration",8,Unassigned,High,High,General Task
+"borutapy, networkx, storage, xception",1,Unassigned,Low,Low,General Task
+"angular, technical writing, version control",3,Unassigned,High,High,General Task
+"mlflow, google cloud, show and tell",5,Dhwani,Low,Low,General Task
+"continuous integration, bert, adtk",5,Aditi,Low,Low,General Task
+"mlflow, lightgbm, proximal policy optimization, jenkins",4,Unassigned,Low,Low,General Task
+"kubernetes, nltk, materialize",9,Siddharth,High,High,General Task
+"mongodb, aws, rnn, zero-shot bert",9,Unassigned,High,High,General Task
+"cleverhans, rake, mediapipe, pca",5,Unassigned,Low,Low,General Task
+"continuous integration, bert, adtk",1,Unassigned,Medium,Medium,General Task
+"mongodb, aws, rnn, zero-shot bert",3,Unassigned,Low,Low,General Task
+"continuous integration, bert, adtk",8,Aditi,High,High,General Task
+"heroku, django, sort",3,Dev,Low,Low,General Task
+"heroku, django, sort",5,Unassigned,Low,Low,General Task
+"continuous integration, bert, adtk",6,Aditi,High,High,General Task
+"rust, php, database",3,Unassigned,Medium,Medium,Data Analysis
+"zero-shot bert, azure, scikit-multilearn",8,Isha,High,High,General Task
+"mlflow, google cloud, show and tell",2,Dhwani,Medium,Medium,General Task
+"mlflow, lightgbm, proximal policy optimization, jenkins",7,Manav,Low,Low,General Task
+"kubernetes, nltk, materialize",5,Siddharth,Medium,Medium,General Task
+"mlflow, google cloud, show and tell",5,Dhwani,Medium,Medium,General Task
+"dall-e, aws, html, apache flink",9,Nisha,High,High,General Task
+"pca, alibi detect, scikit-multilearn, docker",3,Arnav,Low,Low,General Task
+"pca, alibi detect, scikit-multilearn, docker",9,Unassigned,High,High,General Task
+"pca, alibi detect, scikit-multilearn, docker",1,Arnav,Low,Low,General Task
+"featuretools, polyglot, pca, fasttext",5,Unassigned,Medium,Medium,General Task
+"borutapy, networkx, storage, xception",4,Unassigned,Low,Low,General Task
+"rake, ansible, rnn, u-net",9,Neha,High,High,General Task
+"kubernetes, nltk, materialize",9,Siddharth,High,High,General Task
+"pca, alibi detect, scikit-multilearn, docker",9,Arnav,High,High,General Task
+"mlflow, lightgbm, proximal policy optimization, jenkins",1,Manav,Low,Low,General Task
+"catboost, tensorflow, materialize, crnn",7,Unassigned,Low,Low,General Task
+"kubernetes, nltk, materialize",10,Siddharth,High,High,General Task
+"angular, technical writing, version control",3,Unassigned,Low,Low,General Task
+"pca, alibi detect, scikit-multilearn, docker",3,Arnav,High,High,General Task
+"pca, alibi detect, scikit-multilearn, docker",2,Unassigned,Low,Low,General Task
+"html, tableau, ember.js, microsoft project",3,Unassigned,High,High,General Task
+"mlflow, lightgbm, proximal policy optimization, jenkins",3,Manav,Medium,Medium,General Task
+"dall-e, aws, html, apache flink",8,Unassigned,High,High,General Task
+"mlflow, lightgbm, proximal policy optimization, jenkins",10,Manav,High,High,General Task
+"cleverhans, rake, mediapipe, pca",4,Unassigned,Medium,Medium,General Task
+"kubernetes, nltk, materialize",6,Siddharth,High,High,General Task
+"linear regression, vue, lightgbm",9,Unassigned,High,High,General Task
+"pca, alibi detect, scikit-multilearn, docker",10,Arnav,High,High,General Task
+"zero-shot bert, azure, scikit-multilearn",2,Unassigned,Low,Low,General Task
+"sort, asp.net, textblob",7,Unassigned,Medium,Medium,General Task
+"rake, ansible, rnn, u-net",1,Neha,Low,Low,General Task
+"mlflow, lightgbm, proximal policy optimization, jenkins",5,Unassigned,Low,Low,General Task
+"borutapy, networkx, storage, xception",1,Unassigned,Medium,Medium,General Task
+"mlflow, lightgbm, proximal policy optimization, jenkins",5,Manav,Low,Low,General Task
+"rake, ansible, rnn, u-net",1,Neha,High,High,General Task
+"kubernetes, nltk, materialize",3,Siddharth,Medium,Medium,General Task
+"c, matrix factorization, esrgan, continuous integration",9,Unassigned,High,High,General Task
+"rake, ansible, rnn, u-net",9,Neha,High,High,General Task
+"kubernetes, nltk, materialize",6,Siddharth,High,High,General Task
+"zero-shot bert, azure, scikit-multilearn",10,Unassigned,High,High,General Task
+"mlflow, lightgbm, proximal policy optimization, jenkins",5,Manav,Low,Low,General Task
+"dall-e, aws, html, apache flink",7,Nisha,Low,Low,General Task
+"puppet, logistic regression, user manuals, sql",4,Tanishq,High,High,General Task
+"kubernetes, nltk, materialize",5,Siddharth,Low,Low,General Task
+"tacotron, dall-e, redis, wcag",10,Unassigned,High,High,General Task
+"cleverhans, rake, mediapipe, pca",5,Unassigned,Low,Low,General Task
+"dall-e, aws, html, apache flink",8,Unassigned,High,High,General Task
+"heroku, django, sort",3,Unassigned,Medium,Medium,General Task
+"redux, gpt-2 fine-tuning, mobilenet",3,Unassigned,High,High,General Task
+"puppet, logistic regression, user manuals, sql",8,Tanishq,High,High,General Task
+"puppet, logistic regression, user manuals, sql",1,Tanishq,Low,Low,General Task
+"pca, alibi detect, scikit-multilearn, docker",4,Arnav,Low,Low,General Task
+"kubernetes, nltk, materialize",2,Unassigned,Medium,Medium,General Task
+"mlflow, lightgbm, proximal policy optimization, jenkins",3,Manav,Medium,Medium,General Task
+"rake, ansible, rnn, u-net",4,Neha,Low,Low,General Task
+"tacotron, dall-e, redis, wcag",8,Unassigned,High,High,General Task
+"rake, ansible, rnn, u-net",5,Neha,Low,Low,General Task
+"puppet, logistic regression, user manuals, sql",3,Tanishq,Low,Low,General Task
+"pca, alibi detect, scikit-multilearn, docker",4,Arnav,Low,Low,General Task
+"markdown, yolov4, xgboost, ruby",1,Unassigned,Low,Low,General Task
+"mongodb, aws, rnn, zero-shot bert",2,Unassigned,Low,Low,General Task
+"tacotron, dall-e, redis, wcag",6,Unassigned,High,High,General Task
+"kubernetes, nltk, materialize",3,Siddharth,Low,Low,General Task
+"mlflow, lightgbm, proximal policy optimization, jenkins",10,Manav,High,High,General Task
+"html, tableau, ember.js, microsoft project",5,Unassigned,High,High,General Task
+"webpack, html, sentence-bert",10,Unassigned,High,High,General Task
+"rake, ansible, rnn, u-net",4,Neha,Low,Low,General Task
+"puppet, logistic regression, user manuals, sql",2,Tanishq,Low,Low,General Task
+"rake, ansible, rnn, u-net",4,Neha,Low,Low,General Task
+"pca, alibi detect, scikit-multilearn, docker",4,Arnav,Low,Low,General Task
+"pandas, database, api documentation, kotlin",2,Unassigned,Low,Low,Data Analysis
+"webpack, html, sentence-bert",5,Unassigned,Medium,Medium,General Task
+"kubernetes, nltk, materialize",3,Siddharth,Low,Low,General Task
+"puppet, logistic regression, user manuals, sql",2,Tanishq,Medium,Medium,General Task
+"webpack, dialogflow, hugging face",9,Unassigned,High,High,General Task
+"webpack, html, sentence-bert",10,Unassigned,High,High,General Task
+"dall-e, aws, html, apache flink",5,Nisha,Low,Low,General Task
+"jmeter, nltk, polyglot, adtk",1,Unassigned,Medium,Medium,General Task
+"pycaret, recurrent neural networks (rnn), adobe xd, esrgan",4,Unassigned,Medium,Medium,General Task
+"rake, ansible, rnn, u-net",9,Neha,High,High,General Task
+"kubernetes, nltk, materialize",4,Siddharth,Low,Low,General Task
+"sphinx, borutapy, collaboration tools",5,Yuvraj,Medium,Medium,General Task
+"pycaret, recurrent neural networks (rnn), adobe xd, esrgan",6,Unassigned,Low,Low,General Task
+"fer (facial expression recognition), deeprecsys, praat, networkx",7,Unassigned,Low,Low,General Task
+"sphinx, borutapy, collaboration tools",9,Yuvraj,High,High,General Task
+"puppet, logistic regression, user manuals, sql",9,Tanishq,High,High,General Task
+"catboost, tensorflow, materialize, crnn",4,Unassigned,Low,Low,General Task
+"sphinx, borutapy, collaboration tools",9,Yuvraj,High,High,General Task
+"pandas, database, api documentation, kotlin",9,Riya,High,High,Data Analysis
+"angular, technical writing, version control",6,Kunal,High,High,General Task
+"cleverhans, rake, mediapipe, pca",1,Unassigned,Medium,Medium,General Task
+"markdown, yolov4, xgboost, ruby",8,Arjun,High,High,General Task
+"sphinx, borutapy, collaboration tools",7,Yuvraj,Medium,Medium,General Task
+"puppet, logistic regression, user manuals, sql",4,Tanishq,Low,Low,General Task
+"sphinx, borutapy, collaboration tools",7,Yuvraj,Medium,Medium,General Task
+"heroku, django, sort",6,Unassigned,High,High,General Task
+"webpack, html, sentence-bert",6,Unassigned,Low,Low,General Task
+"angular, technical writing, version control",1,Kunal,Low,Low,General Task
+"rust, php, database",3,Unassigned,Medium,Medium,Data Analysis
+"carla, mlflow, zero-shot bert, node.js",10,Unassigned,High,High,General Task
+"markdown, yolov4, xgboost, ruby",8,Arjun,High,High,General Task
+"pandas, database, api documentation, kotlin",2,Riya,Low,Low,Data Analysis
+"pandas, database, api documentation, kotlin",5,Riya,Low,Low,Data Analysis
+"angular, technical writing, version control",10,Kunal,High,High,General Task
+"supervisely, kubernetes, node.js",4,Unassigned,High,High,General Task
+"cleverhans, rake, mediapipe, pca",6,Unassigned,Low,Low,General Task
+"puppet, logistic regression, user manuals, sql",4,Tanishq,Low,Low,General Task
+"fer (facial expression recognition), deeprecsys, praat, networkx",9,Unassigned,High,High,General Task
+"borutapy, randomforest, jmeter, keras",1,Unassigned,Medium,Medium,General Task
+"pandas, database, api documentation, kotlin",2,Riya,Low,Low,Data Analysis
+"puppet, logistic regression, user manuals, sql",10,Tanishq,High,High,General Task
+"puppet, logistic regression, user manuals, sql",5,Tanishq,Low,Low,General Task
+"borutapy, randomforest, jmeter, keras",4,Unassigned,Low,Low,General Task
+"angular, technical writing, version control",10,Kunal,High,High,General Task
+"markdown, yolov4, xgboost, ruby",2,Arjun,Low,Low,General Task
+"markdown, yolov4, xgboost, ruby",2,Arjun,Medium,Medium,General Task
+"pandas, database, api documentation, kotlin",6,Riya,Low,Low,Data Analysis
+"redux, gpt-2 fine-tuning, mobilenet",9,Unassigned,High,High,General Task
+"redux, gpt-2 fine-tuning, mobilenet",3,Unassigned,Low,Low,General Task
+"borutapy, randomforest, jmeter, keras",2,Unassigned,Medium,Medium,General Task
+"sphinx, borutapy, collaboration tools",7,Yuvraj,Low,Low,General Task
+"pycaret, recurrent neural networks (rnn), adobe xd, esrgan",5,Unassigned,Low,Low,General Task
+"sphinx, borutapy, collaboration tools",8,Unassigned,High,High,General Task
+"angular, technical writing, version control",9,Kunal,High,High,General Task
+"pandas, database, api documentation, kotlin",10,Riya,High,High,Data Analysis
+"rust, php, database",10,Unassigned,High,High,Data Analysis
+"angular, technical writing, version control",7,Kunal,Low,Low,General Task
+"puppet, logistic regression, user manuals, sql",9,Tanishq,High,High,General Task
+"markdown, yolov4, xgboost, ruby",10,Arjun,High,High,General Task
+"markdown, yolov4, xgboost, ruby",6,Arjun,Low,Low,General Task
+"cleverhans, rake, mediapipe, pca",8,Unassigned,High,High,General Task
+"angular, technical writing, version control",4,Unassigned,Low,Low,General Task
+"angular, technical writing, version control",5,Kunal,Low,Low,General Task
+"markdown, yolov4, xgboost, ruby",1,Arjun,Low,Low,General Task
+"cleverhans, rake, mediapipe, pca",3,Unassigned,Low,Low,General Task
+"angular, technical writing, version control",10,Unassigned,High,High,General Task
+"sketch, apache spark, rasa, xception",10,Unassigned,High,High,General Task
+"pycaret, recurrent neural networks (rnn), adobe xd, esrgan",8,Unassigned,High,High,General Task
+"lda, wcag, materialize, vue",5,Siddharth,Low,Low,General Task
+"angular, technical writing, version control",7,Kunal,Medium,Medium,General Task
+"linear regression, vue, lightgbm",2,Meera,Low,Low,General Task
+"angular, technical writing, version control",7,Kunal,Low,Low,General Task
+"carla, mlflow, zero-shot bert, node.js",10,Unassigned,High,High,General Task
+"rake, ansible, rnn, u-net",10,Unassigned,High,High,General Task
+"pca, alibi detect, scikit-multilearn, docker",10,Unassigned,High,High,General Task
+"cleverhans, rake, mediapipe, pca",4,Unassigned,Medium,Medium,General Task
+"fer (facial expression recognition), deeprecsys, praat, networkx",3,Unassigned,Medium,Medium,General Task
+"redux, gpt-2 fine-tuning, mobilenet",10,Rajat,High,High,General Task
+"css, ruby, api",5,Unassigned,Low,Low,General Task
+"html, tableau, ember.js, microsoft project",3,Kabir,Low,Low,General Task
+"linear regression, vue, lightgbm",1,Meera,Low,Low,General Task
+"vue, yolov5, continuous integration",2,Unassigned,Medium,Medium,General Task
+"jmeter, nltk, polyglot, adtk",6,Unassigned,Low,Low,General Task
+"webpack, html, sentence-bert",4,Unassigned,Medium,Medium,General Task
+"sort, asp.net, textblob",3,Unassigned,Low,Low,General Task
+"supervisely, kubernetes, node.js",9,Unassigned,High,High,General Task
+"c, matrix factorization, esrgan, continuous integration",1,Unassigned,High,High,General Task
+"pandas, database, api documentation, kotlin",7,Unassigned,High,High,Data Analysis
+"dall-e, aws, html, apache flink",2,Aarav,Low,Low,General Task
+"catboost, tensorflow, materialize, crnn",5,Unassigned,High,High,General Task
+"pandas, database, api documentation, kotlin",5,Unassigned,Medium,Medium,Data Analysis
+"sort, asp.net, textblob",1,Unassigned,Low,Low,General Task
+"mlflow, google cloud, show and tell",3,Unassigned,Low,Low,General Task
+"lda, wcag, materialize, vue",10,Siddharth,High,High,General Task
+"css, ruby, api",10,Vihaan,High,High,General Task
+"heroku, django, sort",2,Unassigned,High,High,General Task
+"kubernetes, nltk, materialize",10,Unassigned,High,High,General Task
+"cleverhans, rake, mediapipe, pca",10,Unassigned,High,High,General Task
+"dall-e, aws, html, apache flink",6,Aarav,Medium,Medium,General Task
+"redux, gpt-2 fine-tuning, mobilenet",7,Rajat,Medium,Medium,General Task
+"jmeter, nltk, polyglot, adtk",6,Unassigned,High,High,General Task
+"tensorflow-gan, webpack, python, database",7,Unassigned,Low,Low,Programming
+"webpack, dialogflow, hugging face",5,Unassigned,Low,Low,General Task
+"carla, mlflow, zero-shot bert, node.js",2,Unassigned,Medium,Medium,General Task
+"webpack, dialogflow, hugging face",2,Unassigned,Low,Low,General Task
+"sketch, apache spark, rasa, xception",6,Unassigned,Low,Low,General Task
+"rust, php, database",9,Unassigned,High,High,Data Analysis
+"angular, technical writing, version control",9,Kunal,High,High,General Task
+"tacotron, dall-e, redis, wcag",2,Unassigned,Low,Low,General Task
+"zero-shot bert, azure, scikit-multilearn",7,Unassigned,Low,Low,General Task
+"markdown, yolov4, xgboost, ruby",10,Unassigned,High,High,General Task
+"redux, gpt-2 fine-tuning, mobilenet",6,Rajat,Low,Low,General Task
+"mongodb, aws, rnn, zero-shot bert",3,Unassigned,Low,Low,General Task
+"linear regression, vue, lightgbm",1,Meera,Medium,Medium,General Task
+"lda, wcag, materialize, vue",7,Siddharth,Low,Low,General Task
+"rake, ansible, rnn, u-net",2,Unassigned,Low,Low,General Task
+"html, tableau, ember.js, microsoft project",2,Kabir,High,High,General Task
+"css, ruby, api",10,Vihaan,High,High,General Task
+"dall-e, aws, html, apache flink",3,Aarav,Low,Low,General Task
+"tacotron, dall-e, redis, wcag",6,Unassigned,Low,Low,General Task
+"css, ruby, api",7,Vihaan,Medium,Medium,General Task
+"lda, wcag, materialize, vue",7,Siddharth,Low,Low,General Task
+"angular, technical writing, version control",1,Kunal,High,High,General Task
+"html, tableau, ember.js, microsoft project",5,Kabir,Low,Low,General Task
+"linear regression, vue, lightgbm",10,Meera,High,High,General Task
+"sphinx, borutapy, collaboration tools",1,Unassigned,Medium,Medium,General Task
+"lda, wcag, materialize, vue",3,Siddharth,Low,Low,General Task
+"sphinx, borutapy, collaboration tools",9,Unassigned,High,High,General Task
+"redux, gpt-2 fine-tuning, mobilenet",5,Rajat,Low,Low,General Task
+"angular, technical writing, version control",8,Unassigned,High,High,General Task
+"html, tableau, ember.js, microsoft project",10,Kabir,High,High,General Task
+"dall-e, aws, html, apache flink",2,Aarav,Low,Low,General Task
+"css, ruby, api",9,Unassigned,High,High,General Task
+"mlflow, lightgbm, proximal policy optimization, jenkins",3,Unassigned,Low,Low,General Task
+"css, ruby, api",3,Unassigned,Low,Low,General Task
+"css, ruby, api",2,Vihaan,Low,Low,General Task
+"css, ruby, api",7,Vihaan,Medium,Medium,General Task
+"puppet, logistic regression, user manuals, sql",6,Unassigned,Medium,Medium,General Task
+"jmeter, nltk, polyglot, adtk",6,Unassigned,Low,Low,General Task
+"tacotron, dall-e, redis, wcag",2,Unassigned,Low,Low,General Task
+"lda, wcag, materialize, vue",7,Siddharth,Low,Low,General Task
+"redux, gpt-2 fine-tuning, mobilenet",9,Rajat,High,High,General Task
+"rust, php, database",2,Unassigned,Low,Low,Data Analysis
+"heroku, django, sort",1,Unassigned,High,High,General Task
+"html, tableau, ember.js, microsoft project",5,Kabir,Low,Low,General Task
+"continuous integration, bert, adtk",8,Unassigned,High,High,General Task
+"html, tableau, ember.js, microsoft project",1,Kabir,Low,Low,General Task
+"mongodb, aws, rnn, zero-shot bert",4,Unassigned,Low,Low,General Task
+"pandas, database, api documentation, kotlin",6,Unassigned,Medium,Medium,Data Analysis
+"linear regression, vue, lightgbm",3,Meera,Low,Low,General Task
+"linear regression, vue, lightgbm",8,Meera,High,High,General Task
+"redux, gpt-2 fine-tuning, mobilenet",2,Unassigned,Low,Low,General Task
+"redux, gpt-2 fine-tuning, mobilenet",8,Rajat,High,High,General Task
+"linear regression, vue, lightgbm",3,Unassigned,Low,Low,General Task
+"angular, technical writing, version control",7,Kunal,Medium,Medium,General Task
+"linear regression, vue, lightgbm",8,Unassigned,High,High,General Task
+"c, matrix factorization, esrgan, continuous integration",7,Unassigned,Low,Low,General Task
+"css, ruby, api",4,Vihaan,Low,Low,General Task
+"puppet, logistic regression, user manuals, sql",2,Unassigned,Low,Low,General Task
+"dall-e, aws, html, apache flink",9,Aarav,High,High,General Task
+"angular, technical writing, version control",9,Kunal,High,High,General Task
+"dall-e, aws, html, apache flink",10,Aarav,High,High,General Task
+"dall-e, aws, html, apache flink",9,Unassigned,High,High,General Task
+"puppet, logistic regression, user manuals, sql",10,Unassigned,High,High,General Task
+"heroku, django, sort",2,Unassigned,Low,Low,General Task
+"sketch, apache spark, rasa, xception",7,Unassigned,Low,Low,General Task
+"dall-e, aws, html, apache flink",5,Aarav,Low,Low,General Task
+"jmeter, nltk, polyglot, adtk",6,Unassigned,Medium,Medium,General Task
+"linear regression, vue, lightgbm",8,Meera,High,High,General Task
+"angular, technical writing, version control",9,Kunal,High,High,General Task
+"cleverhans, rake, mediapipe, pca",1,Unassigned,Low,Low,General Task
+"tacotron, dall-e, redis, wcag",7,Unassigned,High,High,General Task
+"puppet, logistic regression, user manuals, sql",7,Unassigned,Low,Low,General Task
+"dall-e, aws, html, apache flink",10,Unassigned,High,High,General Task
+"css, ruby, api",3,Vihaan,Low,Low,General Task
+"tensorflow-gan, webpack, python, database",4,Rohan,Low,Low,Programming
+"supervisely, kubernetes, node.js",1,Unassigned,Low,Low,General Task
+"html, tableau, ember.js, microsoft project",10,Unassigned,High,High,General Task
+"cleverhans, rake, mediapipe, pca",7,Unassigned,Medium,Medium,General Task
+"heroku, django, sort",4,Unassigned,Low,Low,General Task
+"angular, technical writing, version control",5,Kunal,Medium,Medium,General Task
+"css, ruby, api",10,Unassigned,High,High,General Task
+"puppet, logistic regression, user manuals, sql",7,Unassigned,Medium,Medium,General Task
+"webpack, dialogflow, hugging face",9,Unassigned,High,High,General Task
+"pca, alibi detect, scikit-multilearn, docker",6,Unassigned,Low,Low,General Task
+"carla, mlflow, zero-shot bert, node.js",2,Unassigned,Medium,Medium,General Task
+"sphinx, borutapy, collaboration tools",6,Yuvraj,Low,Low,General Task
+"django, oracle, fer (facial expression recognition)",7,Unassigned,Low,Low,General Task
+"rust, php, database",4,Unassigned,Medium,Medium,Data Analysis
+"dall-e, aws, html, apache flink",3,Unassigned,Medium,Medium,General Task
+"angular, technical writing, version control",9,Kunal,High,High,General Task
+"html, tableau, ember.js, microsoft project",1,Kabir,Medium,Medium,General Task
+"c, matrix factorization, esrgan, continuous integration",6,Unassigned,High,High,General Task
+"sphinx, borutapy, collaboration tools",10,Unassigned,High,High,General Task
+"redux, gpt-2 fine-tuning, mobilenet",2,Unassigned,Medium,Medium,General Task
+"sphinx, borutapy, collaboration tools",6,Yuvraj,Low,Low,General Task
+"angular, technical writing, version control",1,Kunal,Low,Low,General Task
+"rust, php, database",6,Unassigned,High,High,Data Analysis
+"c, matrix factorization, esrgan, continuous integration",4,Unassigned,Medium,Medium,General Task
+"vue, yolov5, continuous integration",1,Unassigned,Medium,Medium,General Task
+"angular, technical writing, version control",1,Kunal,Low,Low,General Task
+"pca, alibi detect, scikit-multilearn, docker",2,Unassigned,Low,Low,General Task
+"puppet, logistic regression, user manuals, sql",1,Unassigned,High,High,General Task
+"pca, alibi detect, scikit-multilearn, docker",4,Unassigned,Medium,Medium,General Task
+"pandas, database, api documentation, kotlin",7,Unassigned,Low,Low,Data Analysis
+"angular, technical writing, version control",2,Kunal,Medium,Medium,General Task
+"html, tableau, ember.js, microsoft project",6,Kabir,Low,Low,General Task
+"supervisely, kubernetes, node.js",4,Unassigned,Low,Low,General Task
+"markdown, yolov4, xgboost, ruby",10,Unassigned,High,High,General Task
+"rust, php, database",2,Unassigned,Medium,Medium,Data Analysis
+"pycaret, recurrent neural networks (rnn), adobe xd, esrgan",2,Unassigned,Low,Low,General Task
+"fer (facial expression recognition), deeprecsys, praat, networkx",6,Unassigned,High,High,General Task
+"rust, php, database",6,Unassigned,Low,Low,Data Analysis
+"pycaret, recurrent neural networks (rnn), adobe xd, esrgan",1,Unassigned,Low,Low,General Task
+"html, tableau, ember.js, microsoft project",1,Kabir,High,High,General Task
+"html, tableau, ember.js, microsoft project",3,Kabir,Low,Low,General Task
+"sphinx, borutapy, collaboration tools",5,Yuvraj,Low,Low,General Task
+"lda, wcag, materialize, vue",9,Unassigned,High,High,General Task
+"css, ruby, api",8,Unassigned,High,High,General Task
+"markdown, yolov4, xgboost, ruby",7,Unassigned,High,High,General Task
+"vue, yolov5, continuous integration",3,Unassigned,Low,Low,General Task
+"sphinx, borutapy, collaboration tools",5,Yuvraj,Medium,Medium,General Task
+"html, tableau, ember.js, microsoft project",1,Kabir,Low,Low,General Task
+"angular, technical writing, version control",8,Kunal,High,High,General Task
+"sphinx, borutapy, collaboration tools",9,Yuvraj,High,High,General Task
+"html, tableau, ember.js, microsoft project",8,Kabir,High,High,General Task
+"sphinx, borutapy, collaboration tools",9,Yuvraj,High,High,General Task
+"featuretools, polyglot, pca, fasttext",4,Unassigned,Low,Low,General Task
+"html, tableau, ember.js, microsoft project",9,Unassigned,High,High,General Task
+"vue, yolov5, continuous integration",7,Unassigned,High,High,General Task
+"html, tableau, ember.js, microsoft project",10,Kabir,High,High,General Task
+"pandas, database, api documentation, kotlin",3,Unassigned,Low,Low,Data Analysis
+"featuretools, polyglot, pca, fasttext",4,Unassigned,Medium,Medium,General Task
+"sketch, apache spark, rasa, xception",8,Unassigned,High,High,General Task
+"mlflow, lightgbm, proximal policy optimization, jenkins",3,Unassigned,Low,Low,General Task
+"lda, wcag, materialize, vue",2,Unassigned,Low,Low,General Task
+"featuretools, polyglot, pca, fasttext",9,Unassigned,High,High,General Task
+"tacotron, dall-e, redis, wcag",1,Unassigned,Medium,Medium,General Task
+"zero-shot bert, azure, scikit-multilearn",9,Unassigned,High,High,General Task
+"jmeter, nltk, polyglot, adtk",8,Unassigned,High,High,General Task
+"c, matrix factorization, esrgan, continuous integration",8,Unassigned,High,High,General Task
+"featuretools, polyglot, pca, fasttext",2,Unassigned,Low,Low,General Task
+"carla, mlflow, zero-shot bert, node.js",9,Unassigned,High,High,General Task
+"mlflow, lightgbm, proximal policy optimization, jenkins",2,Unassigned,Low,Low,General Task
+"tensorflow-gan, webpack, python, database",1,Unassigned,Low,Low,Programming
+"redux, gpt-2 fine-tuning, mobilenet",1,Unassigned,Low,Low,General Task
+"html, tableau, ember.js, microsoft project",6,Unassigned,Low,Low,General Task
+"lda, wcag, materialize, vue",4,Unassigned,Low,Low,General Task
+"mongodb, aws, rnn, zero-shot bert",3,Unassigned,Low,Low,General Task
+"jmeter, nltk, polyglot, adtk",2,Unassigned,Medium,Medium,General Task
+"angular, technical writing, version control",3,Unassigned,Low,Low,General Task
+"django, oracle, fer (facial expression recognition)",8,Unassigned,High,High,General Task
+"css, ruby, api",6,Unassigned,Low,Low,General Task
+"borutapy, randomforest, jmeter, keras",1,Unassigned,Medium,Medium,General Task
+"featuretools, polyglot, pca, fasttext",6,Unassigned,Medium,Medium,General Task
+"mongodb, aws, rnn, zero-shot bert",2,Unassigned,Low,Low,General Task
+"borutapy, randomforest, jmeter, keras",7,Unassigned,High,High,General Task
+"redux, gpt-2 fine-tuning, mobilenet",5,Unassigned,Medium,Medium,General Task
+"mongodb, aws, rnn, zero-shot bert",4,Unassigned,High,High,General Task
+"webpack, html, sentence-bert",8,Unassigned,High,High,General Task
+"rust, php, database",9,Unassigned,High,High,Data Analysis
+"webpack, html, sentence-bert",9,Unassigned,High,High,General Task
+"sketch, apache spark, rasa, xception",6,Unassigned,Medium,Medium,General Task
+"webpack, html, sentence-bert",6,Unassigned,Low,Low,General Task
+"puppet, logistic regression, user manuals, sql",6,Unassigned,Low,Low,General Task
+"continuous integration, bert, adtk",5,Unassigned,Low,Low,General Task
+"tensorflow-gan, webpack, python, database",10,Unassigned,High,High,Programming
+"tensorflow-gan, webpack, python, database",6,Unassigned,Medium,Medium,Programming
+"angular, technical writing, version control",10,Unassigned,High,High,General Task
+"continuous integration, bert, adtk",5,Unassigned,Low,Low,General Task
+"fer (facial expression recognition), deeprecsys, praat, networkx",4,Unassigned,Medium,Medium,General Task
+"puppet, logistic regression, user manuals, sql",4,Unassigned,Low,Low,General Task
+"sketch, apache spark, rasa, xception",4,Unassigned,Low,Low,General Task
+"css, ruby, api",2,Unassigned,Low,Low,General Task
+"rake, ansible, rnn, u-net",8,Unassigned,High,High,General Task
+"rust, php, database",6,Unassigned,Low,Low,Data Analysis
+"redux, gpt-2 fine-tuning, mobilenet",6,Unassigned,Medium,Medium,General Task
+"tensorflow-gan, webpack, python, database",4,Unassigned,Low,Low,Programming
+"carla, mlflow, zero-shot bert, node.js",6,Unassigned,Low,Low,General Task
+"supervisely, kubernetes, node.js",5,Unassigned,Low,Low,General Task
+"redux, gpt-2 fine-tuning, mobilenet",10,Unassigned,High,High,General Task
+"c, matrix factorization, esrgan, continuous integration",1,Unassigned,High,High,General Task
+"lda, wcag, materialize, vue",5,Unassigned,Low,Low,General Task
+"c, matrix factorization, esrgan, continuous integration",6,Unassigned,Low,Low,General Task
+"lda, wcag, materialize, vue",7,Unassigned,Low,Low,General Task
+"zero-shot bert, azure, scikit-multilearn",6,Unassigned,Medium,Medium,General Task
+"markdown, yolov4, xgboost, ruby",6,Unassigned,Low,Low,General Task
+"jmeter, nltk, polyglot, adtk",2,Mahi,Low,Low,General Task
+"vue, yolov5, continuous integration",10,Unassigned,High,High,General Task
+"mongodb, aws, rnn, zero-shot bert",3,Unassigned,High,High,General Task
+"sort, asp.net, textblob",5,Unassigned,Low,Low,General Task
+"mlflow, lightgbm, proximal policy optimization, jenkins",6,Manav,Low,Low,General Task
+"jmeter, nltk, polyglot, adtk",4,Unassigned,High,High,General Task
+"lda, wcag, materialize, vue",3,Kriti,Low,Low,General Task
+"pycaret, recurrent neural networks (rnn), adobe xd, esrgan",2,Diya,Medium,Medium,General Task
+"mlflow, google cloud, show and tell",2,Unassigned,High,High,General Task
+"sketch, apache spark, rasa, xception",1,Niharika,Low,Low,General Task
+"mongodb, aws, rnn, zero-shot bert",3,Unassigned,Low,Low,General Task
+"sketch, apache spark, rasa, xception",5,Niharika,Low,Low,General Task
+"pca, alibi detect, scikit-multilearn, docker",3,Arnav,High,High,General Task
+"jmeter, nltk, polyglot, adtk",1,Siddharth,Low,Low,General Task
+"catboost, tensorflow, materialize, crnn",3,Ayaan,Low,Low,General Task
+"sketch, apache spark, rasa, xception",2,Niharika,Low,Low,General Task
+"sort, asp.net, textblob",9,Unassigned,High,High,General Task
+"css, ruby, api",6,Unassigned,Medium,Medium,General Task
+"angular, technical writing, version control",1,Unassigned,Low,Low,General Task
+"pca, alibi detect, scikit-multilearn, docker",10,Arnav,High,High,General Task
+"borutapy, randomforest, jmeter, keras",5,Mahi,Low,Low,General Task
+"rust, php, database",8,Unassigned,High,High,Data Analysis
+"lda, wcag, materialize, vue",6,Unassigned,Low,Low,General Task
+"zero-shot bert, azure, scikit-multilearn",9,Unassigned,High,High,General Task
+"sphinx, borutapy, collaboration tools",6,Mahi,Low,Low,General Task
+"rust, php, database",7,Unassigned,Low,Low,Data Analysis
+"kubernetes, nltk, materialize",9,Unassigned,High,High,General Task
+"borutapy, randomforest, jmeter, keras",5,Unassigned,Low,Low,General Task
+"markdown, yolov4, xgboost, ruby",4,Arjun,Low,Low,General Task
+"tensorflow-gan, webpack, python, database",6,Rohan,Low,Low,Programming
+"webpack, dialogflow, hugging face",6,Omkar,Low,Low,General Task
+"borutapy, randomforest, jmeter, keras",5,Unassigned,High,High,General Task
+"linear regression, vue, lightgbm",10,Unassigned,High,High,General Task
+"mlflow, google cloud, show and tell",8,Manav,High,High,General Task
+"continuous integration, bert, adtk",2,Charu,Low,Low,General Task
+"c, matrix factorization, esrgan, continuous integration",8,Unassigned,High,High,General Task
+"rust, php, database",2,Unassigned,Medium,Medium,Data Analysis
+"rake, ansible, rnn, u-net",4,Neha,Low,Low,General Task
+"continuous integration, bert, adtk",5,Unassigned,Low,Low,General Task
+"markdown, yolov4, xgboost, ruby",1,Unassigned,Medium,Medium,General Task
+"mongodb, aws, rnn, zero-shot bert",1,Unassigned,Medium,Medium,General Task
+"borutapy, randomforest, jmeter, keras",8,Unassigned,High,High,General Task
+"rust, php, database",1,Unassigned,Medium,Medium,Data Analysis
+"tacotron, dall-e, redis, wcag",5,Unassigned,Medium,Medium,General Task
+"rust, php, database",10,Unassigned,High,High,Data Analysis
+"tacotron, dall-e, redis, wcag",9,Unassigned,High,High,General Task
+"jmeter, nltk, polyglot, adtk",2,Charu,Low,Low,General Task
+"rake, ansible, rnn, u-net",6,Unassigned,Medium,Medium,General Task
+"tensorflow-gan, webpack, python, database",1,Unassigned,Low,Low,Programming
+"heroku, django, sort",6,Unassigned,Low,Low,General Task
+"css, ruby, api",8,Unassigned,High,High,General Task
+"borutapy, randomforest, jmeter, keras",4,Mahi,Medium,Medium,General Task
+"lda, wcag, materialize, vue",6,Ananya,Low,Low,General Task
+"zero-shot bert, azure, scikit-multilearn",4,Isha,Low,Low,General Task
+"linear regression, vue, lightgbm",2,Manav,High,High,General Task
+"dall-e, aws, html, apache flink",10,Aarav,High,High,General Task
+"featuretools, polyglot, pca, fasttext",1,Palak,Low,Low,General Task
+"tacotron, dall-e, redis, wcag",8,Unassigned,High,High,General Task
+"cleverhans, rake, mediapipe, pca",10,Harshita,High,High,General Task
+"pca, alibi detect, scikit-multilearn, docker",10,Unassigned,High,High,General Task
+"webpack, html, sentence-bert",10,Pranav,High,High,General Task
+"cleverhans, rake, mediapipe, pca",10,Unassigned,High,High,General Task
+"featuretools, polyglot, pca, fasttext",9,Palak,High,High,General Task
+"zero-shot bert, azure, scikit-multilearn",3,Unassigned,High,High,General Task
+"linear regression, vue, lightgbm",6,Meera,Low,Low,General Task
+"supervisely, kubernetes, node.js",7,Arohi,Medium,Medium,General Task
+"fer (facial expression recognition), deeprecsys, praat, networkx",7,Aditya,Low,Low,General Task
+"jmeter, nltk, polyglot, adtk",5,Unassigned,Low,Low,General Task
+"html, tableau, ember.js, microsoft project",5,Unassigned,Low,Low,General Task
+"fer (facial expression recognition), deeprecsys, praat, networkx",10,Sneha,High,High,General Task
+"pandas, database, api documentation, kotlin",2,Riya,High,High,Data Analysis
+"pycaret, recurrent neural networks (rnn), adobe xd, esrgan",10,Unassigned,High,High,General Task
+"redux, gpt-2 fine-tuning, mobilenet",10,Rajat,High,High,General Task
+"dall-e, aws, html, apache flink",10,Unassigned,High,High,General Task
+"fer (facial expression recognition), deeprecsys, praat, networkx",8,Sneha,High,High,General Task
+"mongodb, aws, rnn, zero-shot bert",3,Nisha,Medium,Medium,General Task
+"sort, asp.net, textblob",1,Shaurya,High,High,General Task
+"mlflow, google cloud, show and tell",8,Unassigned,High,High,General Task
+"mlflow, lightgbm, proximal policy optimization, jenkins",3,Unassigned,Low,Low,General Task
+"sketch, apache spark, rasa, xception",1,Aditya,Low,Low,General Task
+"tacotron, dall-e, redis, wcag",4,Kriti,Low,Low,General Task
+"continuous integration, bert, adtk",5,Charu,Low,Low,General Task
+"mlflow, google cloud, show and tell",2,Dhwani,Low,Low,General Task
+"featuretools, polyglot, pca, fasttext",5,Palak,Low,Low,General Task
+"heroku, django, sort",8,Dev,High,High,General Task
+"tacotron, dall-e, redis, wcag",8,Unassigned,High,High,General Task
+"vue, yolov5, continuous integration",3,Sanya,Medium,Medium,General Task
+"pycaret, recurrent neural networks (rnn), adobe xd, esrgan",1,Diya,Low,Low,General Task
+"supervisely, kubernetes, node.js",8,Unassigned,High,High,General Task
+"sort, asp.net, textblob",1,Shaurya,Low,Low,General Task
+"carla, mlflow, zero-shot bert, node.js",9,Pooja,High,High,General Task
+"markdown, yolov4, xgboost, ruby",6,Arjun,Low,Low,General Task
+"rake, ansible, rnn, u-net",5,Neha,Low,Low,General Task
+"jmeter, nltk, polyglot, adtk",9,Unassigned,High,High,General Task
+"fer (facial expression recognition), deeprecsys, praat, networkx",2,Unassigned,Low,Low,General Task
+"dall-e, aws, html, apache flink",2,Aarav,Low,Low,General Task
+"zero-shot bert, azure, scikit-multilearn",3,Nisha,Low,Low,General Task
+"jmeter, nltk, polyglot, adtk",3,Palak,Low,Low,General Task
+"sort, asp.net, textblob",4,Unassigned,Medium,Medium,General Task
+"heroku, django, sort",4,Unassigned,High,High,General Task
+"catboost, tensorflow, materialize, crnn",2,Ayaan,Low,Low,General Task
+"webpack, dialogflow, hugging face",3,Unassigned,Medium,Medium,General Task
+"webpack, dialogflow, hugging face",9,Omkar,High,High,General Task
+"redux, gpt-2 fine-tuning, mobilenet",10,Unassigned,High,High,General Task
+"borutapy, randomforest, jmeter, keras",7,Unassigned,Medium,Medium,General Task
+"dall-e, aws, html, apache flink",2,Unassigned,Low,Low,General Task
+"borutapy, randomforest, jmeter, keras",10,Unassigned,High,High,General Task
+"continuous integration, bert, adtk",3,Charu,Low,Low,General Task
+"c, matrix factorization, esrgan, continuous integration",8,Aditi,High,High,General Task
+"linear regression, vue, lightgbm",5,Unassigned,Low,Low,General Task
+"borutapy, randomforest, jmeter, keras",7,Mahi,Low,Low,General Task
+"mlflow, lightgbm, proximal policy optimization, jenkins",2,Manav,Medium,Medium,General Task
+"redux, gpt-2 fine-tuning, mobilenet",5,Unassigned,Medium,Medium,General Task
+"markdown, yolov4, xgboost, ruby",10,Arjun,High,High,General Task
+"django, oracle, fer (facial expression recognition)",5,Simran,Medium,Medium,General Task
+"kubernetes, nltk, materialize",8,Unassigned,High,High,General Task
+"supervisely, kubernetes, node.js",10,Unassigned,High,High,General Task
+"borutapy, randomforest, jmeter, keras",4,Mahi,Medium,Medium,General Task
+"pycaret, recurrent neural networks (rnn), adobe xd, esrgan",7,Diya,Low,Low,General Task
+"webpack, dialogflow, hugging face",9,Unassigned,High,High,General Task
+"mlflow, lightgbm, proximal policy optimization, jenkins",8,Unassigned,High,High,General Task
+"sort, asp.net, textblob",7,Unassigned,High,High,General Task
+"c, matrix factorization, esrgan, continuous integration",2,Aditi,Low,Low,General Task
+"tensorflow-gan, webpack, python, database",3,Unassigned,Low,Low,Programming
+"catboost, tensorflow, materialize, crnn",4,Ayaan,High,High,General Task
+"webpack, dialogflow, hugging face",5,Unassigned,Low,Low,General Task
+"cleverhans, rake, mediapipe, pca",8,Harshita,High,High,General Task
+"fer (facial expression recognition), deeprecsys, praat, networkx",6,Sneha,High,High,General Task
+"redux, gpt-2 fine-tuning, mobilenet",9,Unassigned,High,High,General Task
+"pandas, database, api documentation, kotlin",7,Unassigned,Medium,Medium,Data Analysis
+"redux, gpt-2 fine-tuning, mobilenet",5,Rajat,Low,Low,General Task
+"puppet, logistic regression, user manuals, sql",3,Tanishq,Low,Low,General Task
+"kubernetes, nltk, materialize",5,Unassigned,Low,Low,General Task
+"sketch, apache spark, rasa, xception",2,Niharika,Low,Low,General Task
+"pca, alibi detect, scikit-multilearn, docker",5,Arnav,Medium,Medium,General Task
+"jmeter, nltk, polyglot, adtk",8,Siddharth,High,High,General Task
+"catboost, tensorflow, materialize, crnn",5,Ayaan,Low,Low,General Task
