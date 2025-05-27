@@ -1,9 +1,9 @@
 ## Infotact_Project_01
 #### Design and develop an intelligent task management system that leverages NLP and ML techniques to automatically classify, prioritize, and assign tasks to users based on their behavior, deadlines, and workloads.
 
-## Week 1: Data Collection & Preprocessing
+## Step 1: Data Collection & Preprocessing
 ### **--Objective--**
-The goal for Week 1 was to load the raw task dataset, clean it, enrich it with synthetic values (like deadlines and workloads), and prepare it for downstream machine learning tasks. This included:
+The goal was to load the raw task dataset, clean it, enrich it with synthetic values (like deadlines and workloads), and prepare it for downstream machine learning tasks. This included:
 <br>
 
 :) Loading the dataset from Google Drive.
@@ -80,14 +80,14 @@ Preprocessing on Task Description involved:
 :) Stemming
 <br>
 
-### Final Conclusion of week 1
+### Final Conclusion :
 :) Cleaned Dataset Saved As: cleaned_dataset.csv
 <br>
 :) Download Triggered via: files.download('cleaned_dataset.csv')
 <br>
 
 
-## Week 2: Task Classification using NLP and ML
+## Step 2: Task Classification using NLP and ML
 ### **--Objective--**
 To classify tasks into relevant categories using the task descriptions. Applied NLP preprocessing and trained two machine learning models – Naive Bayes and Support Vector Machine (SVM) – for multi-class classification.
 <br>
@@ -100,7 +100,7 @@ To classify tasks into relevant categories using the task descriptions. Applied 
 <br>
 
 ###  Dataset:
-Used the cleaned dataset generated in Week 1 which includes:
+Used the cleaned dataset generated in step 1 which includes:
 <br>
 :) Processed_Description (preprocessed task text)
 <br>
@@ -144,13 +144,13 @@ Used the cleaned dataset generated in Week 1 which includes:
 :) Perfect scores in multiple categories including DevOps, Documentation, Project Management
 <br>
 
-### Final Conclusion of week 2:
+### Final Conclusion :
 Both models performed exceptionally well, but SVM slightly outperformed Naive Bayes in terms of accuracy and precision. It is more suitable for production-level task classification due to its better handling of class imbalance.
 
 
-## Week 3: Priority Prediction & Recommended User Assignment
+## Step 3: Priority Prediction & Recommended User Assignment
 ### **--Objective--**
-In Week 3, we focused on building a machine learning model to predict the priority of tasks based on multiple features and recommend the most suitable user for each task based on skills and workload. We experimented with Random Forest and XGBoost classifiers.
+In step 3, we focused on building a machine learning model to predict the priority of tasks based on multiple features and recommend the most suitable user for each task based on skills and workload. We experimented with Random Forest and XGBoost classifiers.
 <br>
 
 ### **--Key Steps--**
@@ -233,9 +233,9 @@ def assign_task(task_row):
 ![image](https://github.com/user-attachments/assets/4b699157-d34a-4e5a-affd-d64d62c20ade)
 <br>
 
-## Week 4: Final Priority Prediction & Task Classification
+## Step 4: Final Priority Prediction & Task Classification
 ### **--Objective--**
-In Week 4, we trained the final Random Forest model on the full dataset using the best hyperparameters found earlier, and classified tasks into types based on their skill requirements.
+In step 4, we trained the final Random Forest model on the full dataset using the best hyperparameters found earlier, and classified tasks into types based on their skill requirements.
 <br>
 
 ### **Approach:**
